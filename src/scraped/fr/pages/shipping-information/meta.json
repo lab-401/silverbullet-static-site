@@ -1,0 +1,61 @@
+{
+  "locale": "fr",
+  "path": "/pages/shipping-information",
+  "localizedPath": "/fr/pages/shipping-information",
+  "url": "https://silverbullet.tools/fr/pages/shipping-information",
+  "slug": "pages/shipping-information",
+  "htmlAttrs": "<html class=\"no-js\" lang=\"fr\">",
+  "bodyAttrs": "<body class=\"gradient\">",
+  "activeNav": [],
+  "title": "Informations sur l'expédition\n – Silver Bullet Tools",
+  "description": "EXPÉDITION ET EMBALLAGE Les produits sont expédiés à partir de Europe Emballés dans un emballage solide pour protéger votre produit. Nous assurons l'expédition dans le monde entier avec des options express. Ces délais peuvent varier en fonction de la période de l'année et de la charge des transporteurs. Ils sont fourni",
+  "canonical": "https://silverbullet.tools/fr/pages/shipping-information",
+  "hreflang": [
+    {
+      "lang": "x-default",
+      "href": "https://silverbullet.tools/pages/shipping-information"
+    },
+    {
+      "lang": "en",
+      "href": "https://silverbullet.tools/pages/shipping-information"
+    },
+    {
+      "lang": "fr",
+      "href": "https://silverbullet.tools/fr/pages/shipping-information"
+    },
+    {
+      "lang": "de",
+      "href": "https://silverbullet.tools/de/pages/shipping-information"
+    },
+    {
+      "lang": "it",
+      "href": "https://silverbullet.tools/it/pages/shipping-information"
+    },
+    {
+      "lang": "es",
+      "href": "https://silverbullet.tools/es/pages/shipping-information"
+    }
+  ],
+  "og": [
+    "<meta property=\"og:site_name\" content=\"Silver Bullet Tools\">",
+    "<meta property=\"og:url\" content=\"https://silverbullet.tools/fr/pages/shipping-information\">",
+    "<meta property=\"og:title\" content=\"Informations sur l'expédition\">",
+    "<meta property=\"og:type\" content=\"website\">",
+    "<meta property=\"og:description\" content=\"EXPÉDITION ET EMBALLAGE Les produits sont expédiés à partir de Europe Emballés dans un emballage solide pour protéger votre produit. Nous assurons l'expédition dans le monde entier avec des options express. Ces délais peuvent varier en fonction de la période de l'année et de la charge des transporteurs. Ils sont fourni\">",
+    "<meta property=\"og:image\" content=\"/assets/SilverBullet-2-Tool_a50e11e7-1430-4a49-b803-b234f778d1f1.42c6dbdcdf.png\">",
+    "<meta property=\"og:image:secure_url\" content=\"/assets/SilverBullet-2-Tool_a50e11e7-1430-4a49-b803-b234f778d1f1.0d16a3d50f.png\">",
+    "<meta property=\"og:image:width\" content=\"1125\">",
+    "<meta property=\"og:image:height\" content=\"1125\">",
+    "<meta name=\"twitter:card\" content=\"summary_large_image\">",
+    "<meta name=\"twitter:title\" content=\"Informations sur l'expédition\">",
+    "<meta name=\"twitter:description\" content=\"EXPÉDITION ET EMBALLAGE Les produits sont expédiés à partir de Europe Emballés dans un emballage solide pour protéger votre produit. Nous assurons l'expédition dans le monde entier avec des options express. Ces délais peuvent varier en fonction de la période de l'année et de la charge des transporteurs. Ils sont fourni\">"
+  ],
+  "ldjson": [],
+  "headExtras": [],
+  "ldjsonBody": [
+    "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/cdn\\/shop\\/files\\/Logo.png?v=1614311477\\u0026width=500\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/fr\\/pages\\/shipping-information\"\n  }\n"
+  ],
+  "headFile": "head.0.html",
+  "preludeFile": "prelude.0.html",
+  "postludeFile": "postlude.0.html"
+}

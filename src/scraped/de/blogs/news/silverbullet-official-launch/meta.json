@@ -1,0 +1,63 @@
+{
+  "locale": "de",
+  "path": "/blogs/news/silverbullet-official-launch",
+  "localizedPath": "/de/blogs/news/silverbullet-official-launch",
+  "url": "https://silverbullet.tools/de/blogs/news/silverbullet-official-launch",
+  "slug": "blogs/news/silverbullet-official-launch",
+  "htmlAttrs": "<html class=\"no-js\" lang=\"de\">",
+  "bodyAttrs": "<body class=\"gradient\">",
+  "activeNav": [],
+  "title": "SilverBullet Official Launch\n – Silver Bullet Tools",
+  "description": "After years of study, hand-machined prototypes, testing and refining, the Silver Bullet is officially in production. It took over a year of designing, drafting and material selection to get to where we are today: the Silver Bullet - the world's most adaptable and capable disc-lock picking tool is available. Beyond bein",
+  "canonical": "https://silverbullet.tools/de/blogs/news/silverbullet-official-launch",
+  "hreflang": [
+    {
+      "lang": "x-default",
+      "href": "https://silverbullet.tools/blogs/news/silverbullet-official-launch"
+    },
+    {
+      "lang": "en",
+      "href": "https://silverbullet.tools/blogs/news/silverbullet-official-launch"
+    },
+    {
+      "lang": "fr",
+      "href": "https://silverbullet.tools/fr/blogs/news/silverbullet-official-launch"
+    },
+    {
+      "lang": "de",
+      "href": "https://silverbullet.tools/de/blogs/news/silverbullet-official-launch"
+    },
+    {
+      "lang": "it",
+      "href": "https://silverbullet.tools/it/blogs/news/silverbullet-official-launch"
+    },
+    {
+      "lang": "es",
+      "href": "https://silverbullet.tools/es/blogs/news/silverbullet-official-launch"
+    }
+  ],
+  "og": [
+    "<meta property=\"og:site_name\" content=\"Silver Bullet Tools\">",
+    "<meta property=\"og:url\" content=\"https://silverbullet.tools/de/blogs/news/silverbullet-official-launch\">",
+    "<meta property=\"og:title\" content=\"SilverBullet Official Launch\">",
+    "<meta property=\"og:type\" content=\"article\">",
+    "<meta property=\"og:description\" content=\"After years of study, hand-machined prototypes, testing and refining, the Silver Bullet is&nbsp;officially&nbsp;in production. It took over a year&nbsp;of designing, drafting and material selection to get to where we are today: the Silver Bullet - the world's most adaptable and capable disc-lock picking tool is available. Beyond bein\">",
+    "<meta property=\"og:image\" content=\"/assets/Blog-1-Official-Launch.093d4753ef.png\">",
+    "<meta property=\"og:image:secure_url\" content=\"/assets/Blog-1-Official-Launch.adb36b3f4d.png\">",
+    "<meta property=\"og:image:width\" content=\"1500\">",
+    "<meta property=\"og:image:height\" content=\"900\">",
+    "<meta name=\"twitter:card\" content=\"summary_large_image\">",
+    "<meta name=\"twitter:title\" content=\"SilverBullet Official Launch\">",
+    "<meta name=\"twitter:description\" content=\"After years of study, hand-machined prototypes, testing and refining, the Silver Bullet is&nbsp;officially&nbsp;in production. It took over a year&nbsp;of designing, drafting and material selection to get to where we are today: the Silver Bullet - the world's most adaptable and capable disc-lock picking tool is available. Beyond bein\">"
+  ],
+  "ldjson": [],
+  "headExtras": [
+    "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/de/blogs/news.atom\">"
+  ],
+  "ldjsonBody": [
+    "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/cdn\\/shop\\/files\\/Logo.png?v=1614311477\\u0026width=500\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+  ],
+  "headFile": "head.1.html",
+  "preludeFile": "prelude.0.html",
+  "postludeFile": "postlude.0.html"
+}

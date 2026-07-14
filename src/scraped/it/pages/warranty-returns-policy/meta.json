@@ -1,0 +1,61 @@
+{
+  "locale": "it",
+  "path": "/pages/warranty-returns-policy",
+  "localizedPath": "/it/pages/warranty-returns-policy",
+  "url": "https://silverbullet.tools/it/pages/warranty-returns-policy",
+  "slug": "pages/warranty-returns-policy",
+  "htmlAttrs": "<html class=\"no-js\" lang=\"it\">",
+  "bodyAttrs": "<body class=\"gradient\">",
+  "activeNav": [],
+  "title": "Garanzia limitata a vita e politica di restituzione\n – Silver Bullet Tools",
+  "description": "SilverBullet Tools è orgogliosa di sviluppare e produrre utensili di alta classe che forniranno un servizio a vita. Per questo offriamo una garanzia limitata a vita su tutti i prodotti.Tuttavia, come per ogni acquisto, a volte potrebbe essere necessario restituire un prodotto.Di conseguenza, SilverBullet Tools ha un: G",
+  "canonical": "https://silverbullet.tools/it/pages/warranty-returns-policy",
+  "hreflang": [
+    {
+      "lang": "x-default",
+      "href": "https://silverbullet.tools/pages/warranty-returns-policy"
+    },
+    {
+      "lang": "en",
+      "href": "https://silverbullet.tools/pages/warranty-returns-policy"
+    },
+    {
+      "lang": "fr",
+      "href": "https://silverbullet.tools/fr/pages/warranty-returns-policy"
+    },
+    {
+      "lang": "de",
+      "href": "https://silverbullet.tools/de/pages/warranty-returns-policy"
+    },
+    {
+      "lang": "it",
+      "href": "https://silverbullet.tools/it/pages/warranty-returns-policy"
+    },
+    {
+      "lang": "es",
+      "href": "https://silverbullet.tools/es/pages/warranty-returns-policy"
+    }
+  ],
+  "og": [
+    "<meta property=\"og:site_name\" content=\"Silver Bullet Tools\">",
+    "<meta property=\"og:url\" content=\"https://silverbullet.tools/it/pages/warranty-returns-policy\">",
+    "<meta property=\"og:title\" content=\"Garanzia limitata a vita e politica di restituzione\">",
+    "<meta property=\"og:type\" content=\"website\">",
+    "<meta property=\"og:description\" content=\"SilverBullet Tools è orgogliosa di sviluppare e produrre utensili di alta classe che forniranno un servizio a vita. Per questo offriamo una garanzia limitata a vita su tutti i prodotti.Tuttavia, come per ogni acquisto, a volte potrebbe essere necessario restituire un prodotto.Di conseguenza, SilverBullet Tools ha un: G\">",
+    "<meta property=\"og:image\" content=\"/assets/SilverBullet-2-Tool_a50e11e7-1430-4a49-b803-b234f778d1f1.42c6dbdcdf.png\">",
+    "<meta property=\"og:image:secure_url\" content=\"/assets/SilverBullet-2-Tool_a50e11e7-1430-4a49-b803-b234f778d1f1.0d16a3d50f.png\">",
+    "<meta property=\"og:image:width\" content=\"1125\">",
+    "<meta property=\"og:image:height\" content=\"1125\">",
+    "<meta name=\"twitter:card\" content=\"summary_large_image\">",
+    "<meta name=\"twitter:title\" content=\"Garanzia limitata a vita e politica di restituzione\">",
+    "<meta name=\"twitter:description\" content=\"SilverBullet Tools è orgogliosa di sviluppare e produrre utensili di alta classe che forniranno un servizio a vita. Per questo offriamo una garanzia limitata a vita su tutti i prodotti.Tuttavia, come per ogni acquisto, a volte potrebbe essere necessario restituire un prodotto.Di conseguenza, SilverBullet Tools ha un: G\">"
+  ],
+  "ldjson": [],
+  "headExtras": [],
+  "ldjsonBody": [
+    "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/cdn\\/shop\\/files\\/Logo.png?v=1614311477\\u0026width=500\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/it\\/pages\\/warranty-returns-policy\"\n  }\n"
+  ],
+  "headFile": "head.1.html",
+  "preludeFile": "prelude.0.html",
+  "postludeFile": "postlude.0.html"
+}

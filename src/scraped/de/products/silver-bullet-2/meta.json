@@ -1,0 +1,65 @@
+{
+  "locale": "de",
+  "path": "/products/silver-bullet-2",
+  "localizedPath": "/de/products/silver-bullet-2",
+  "url": "https://silverbullet.tools/de/products/silver-bullet-2",
+  "slug": "products/silver-bullet-2",
+  "htmlAttrs": "<html class=\"no-js\" lang=\"en\">",
+  "bodyAttrs": "<body class=\"gradient\">",
+  "activeNav": [
+    "/products/silver-bullet-2"
+  ],
+  "title": "SilverBullet\n – Silver Bullet Tools",
+  "description": "The Silver Bullet is the ultimate tool for rapid picking and decoding of > 99% of disc-retainer based locking systems, including Abloy, Abloy Classic, Abloy Disclock, Abloy Profile, Anchor Las and more. It is a \"must-have\" for hobbyists and professionals alike. Each SilverBullet includes: 🛡️ Lifetime Guarantee: Replacement of defective parts 📦 Free world-wide shipping",
+  "canonical": "https://silverbullet.tools/products/silver-bullet-2",
+  "hreflang": [
+    {
+      "lang": "x-default",
+      "href": "https://silverbullet.tools/products/silver-bullet-2"
+    },
+    {
+      "lang": "en",
+      "href": "https://silverbullet.tools/products/silver-bullet-2"
+    },
+    {
+      "lang": "fr",
+      "href": "https://silverbullet.tools/fr/products/silver-bullet-2"
+    },
+    {
+      "lang": "de",
+      "href": "https://silverbullet.tools/de/products/silver-bullet-2"
+    },
+    {
+      "lang": "it",
+      "href": "https://silverbullet.tools/it/products/silver-bullet-2"
+    },
+    {
+      "lang": "es",
+      "href": "https://silverbullet.tools/es/products/silver-bullet-2"
+    }
+  ],
+  "og": [
+    "<meta property=\"og:site_name\" content=\"Silver Bullet Tools\">",
+    "<meta property=\"og:url\" content=\"https://silverbullet.tools/products/silver-bullet-2\">",
+    "<meta property=\"og:title\" content=\"SilverBullet\">",
+    "<meta property=\"og:type\" content=\"product\">",
+    "<meta property=\"og:description\" content=\"The Silver Bullet is the ultimate tool for rapid picking and decoding of > 99% of disc-retainer based locking systems, including Abloy, Abloy Classic, Abloy Disclock, Abloy Profile, Anchor Las and more. It is a &quot;must-have&quot; for hobbyists and professionals alike. Each SilverBullet includes: 🛡️ Lifetime Guarantee: Replacement of defective parts 📦 Free world-wide shipping\">",
+    "<meta property=\"og:image\" content=\"/assets/SilverBullet-2-Full-Box-Open_e655959b-66d2-405f-b4d3-266c569a61fc.7b54964f40.png\">",
+    "<meta property=\"og:image:secure_url\" content=\"/assets/SilverBullet-2-Full-Box-Open_e655959b-66d2-405f-b4d3-266c569a61fc.80e37459cc.png\">",
+    "<meta property=\"og:image:width\" content=\"1426\">",
+    "<meta property=\"og:image:height\" content=\"1426\">",
+    "<meta property=\"og:price:amount\" content=\"600,00\">",
+    "<meta property=\"og:price:currency\" content=\"EUR\">",
+    "<meta name=\"twitter:card\" content=\"summary_large_image\">",
+    "<meta name=\"twitter:title\" content=\"SilverBullet\">",
+    "<meta name=\"twitter:description\" content=\"The Silver Bullet is the ultimate tool for rapid picking and decoding of > 99% of disc-retainer based locking systems, including Abloy, Abloy Classic, Abloy Disclock, Abloy Profile, Anchor Las and more. It is a &quot;must-have&quot; for hobbyists and professionals alike. Each SilverBullet includes: 🛡️ Lifetime Guarantee: Replacement of defective parts 📦 Free world-wide shipping\">"
+  ],
+  "ldjson": [],
+  "headExtras": [],
+  "ldjsonBody": [
+    "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/cdn\\/shop\\/files\\/Logo.png?v=1614311477\\u0026width=500\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+  ],
+  "headFile": "head.5.html",
+  "preludeFile": "prelude.1.html",
+  "postludeFile": "postlude.1.html"
+}

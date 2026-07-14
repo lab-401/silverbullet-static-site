@@ -1,0 +1,882 @@
+[
+  {
+    "locale": "en",
+    "path": "/",
+    "url": "https://silverbullet.tools/",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/",
+    "file": "scrape\\raw\\en\\index.html"
+  },
+  {
+    "locale": "en",
+    "path": "/products/spare-tips",
+    "url": "https://silverbullet.tools/products/spare-tips",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/products/spare-tips",
+    "file": "scrape\\raw\\en\\products\\spare-tips.html"
+  },
+  {
+    "locale": "en",
+    "path": "/pages/how-to-use-the-silver-bullet",
+    "url": "https://silverbullet.tools/pages/how-to-use-the-silver-bullet",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/pages/how-to-use-the-silver-bullet",
+    "file": "scrape\\raw\\en\\pages\\how-to-use-the-silver-bullet.html"
+  },
+  {
+    "locale": "en",
+    "path": "/products/silver-bullet-2",
+    "url": "https://silverbullet.tools/products/silver-bullet-2",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/products/silver-bullet-2",
+    "file": "scrape\\raw\\en\\products\\silver-bullet-2.html"
+  },
+  {
+    "locale": "en",
+    "path": "/products/silver-bullet",
+    "url": "https://silverbullet.tools/products/silver-bullet",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/products/silver-bullet",
+    "file": "scrape\\raw\\en\\products\\silver-bullet.html"
+  },
+  {
+    "locale": "en",
+    "path": "/products/replacement-case",
+    "url": "https://silverbullet.tools/products/replacement-case",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/products/replacement-case",
+    "file": "scrape\\raw\\en\\products\\replacement-case.html"
+  },
+  {
+    "locale": "en",
+    "path": "/pages/privacy-policy",
+    "url": "https://silverbullet.tools/pages/privacy-policy",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/pages/privacy-policy",
+    "file": "scrape\\raw\\en\\pages\\privacy-policy.html"
+  },
+  {
+    "locale": "en",
+    "path": "/pages/terms-conditions",
+    "url": "https://silverbullet.tools/pages/terms-conditions",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/pages/terms-conditions",
+    "file": "scrape\\raw\\en\\pages\\terms-conditions.html"
+  },
+  {
+    "locale": "en",
+    "path": "/pages/faq",
+    "url": "https://silverbullet.tools/pages/faq",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/pages/faq",
+    "file": "scrape\\raw\\en\\pages\\faq.html"
+  },
+  {
+    "locale": "en",
+    "path": "/pages/silverbullet-full-picking-list",
+    "url": "https://silverbullet.tools/pages/silverbullet-full-picking-list",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/pages/silverbullet-full-picking-list",
+    "file": "scrape\\raw\\en\\pages\\silverbullet-full-picking-list.html"
+  },
+  {
+    "locale": "en",
+    "path": "/pages/warranty-returns-policy",
+    "url": "https://silverbullet.tools/pages/warranty-returns-policy",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/pages/warranty-returns-policy",
+    "file": "scrape\\raw\\en\\pages\\warranty-returns-policy.html"
+  },
+  {
+    "locale": "en",
+    "path": "/pages/shipping-information",
+    "url": "https://silverbullet.tools/pages/shipping-information",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/pages/shipping-information",
+    "file": "scrape\\raw\\en\\pages\\shipping-information.html"
+  },
+  {
+    "locale": "en",
+    "path": "/collections/frontpage",
+    "url": "https://silverbullet.tools/collections/frontpage",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/collections/frontpage",
+    "file": "scrape\\raw\\en\\collections\\frontpage.html"
+  },
+  {
+    "locale": "en",
+    "path": "/blogs/news",
+    "url": "https://silverbullet.tools/blogs/news",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/blogs/news",
+    "file": "scrape\\raw\\en\\blogs\\news.html"
+  },
+  {
+    "locale": "en",
+    "path": "/blogs/news/silverbullet-official-launch",
+    "url": "https://silverbullet.tools/blogs/news/silverbullet-official-launch",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/blogs/news/silverbullet-official-launch",
+    "file": "scrape\\raw\\en\\blogs\\news\\silverbullet-official-launch.html"
+  },
+  {
+    "locale": "en",
+    "path": "/blogs/news/getting-started-with-the-silver-bullet",
+    "url": "https://silverbullet.tools/blogs/news/getting-started-with-the-silver-bullet",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/blogs/news/getting-started-with-the-silver-bullet",
+    "file": "scrape\\raw\\en\\blogs\\news\\getting-started-with-the-silver-bullet.html"
+  },
+  {
+    "locale": "en",
+    "path": "/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy",
+    "url": "https://silverbullet.tools/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy",
+    "file": "scrape\\raw\\en\\blogs\\news\\silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy.html"
+  },
+  {
+    "locale": "en",
+    "path": "/blogs/news/silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy",
+    "url": "https://silverbullet.tools/blogs/news/silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/blogs/news/silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy",
+    "file": "scrape\\raw\\en\\blogs\\news\\silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy.html"
+  },
+  {
+    "locale": "en",
+    "path": "/blogs/news/silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-tool",
+    "url": "https://silverbullet.tools/blogs/news/silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-tool",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/blogs/news/silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-tool",
+    "file": "scrape\\raw\\en\\blogs\\news\\silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-tool.html"
+  },
+  {
+    "locale": "en",
+    "path": "/blogs/news/bastille-day-10-sale",
+    "url": "https://silverbullet.tools/blogs/news/bastille-day-10-sale",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/blogs/news/bastille-day-10-sale",
+    "file": "scrape\\raw\\en\\blogs\\news\\bastille-day-10-sale.html"
+  },
+  {
+    "locale": "en",
+    "path": "/blogs/news/spare-tips-now-available",
+    "url": "https://silverbullet.tools/blogs/news/spare-tips-now-available",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/blogs/news/spare-tips-now-available",
+    "file": "scrape\\raw\\en\\blogs\\news\\spare-tips-now-available.html"
+  },
+  {
+    "locale": "en",
+    "path": "/blogs/news/%F0%9F%8C%9F-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extravaganza-%F0%9F%8E%89",
+    "url": "https://silverbullet.tools/blogs/news/%F0%9F%8C%9F-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extravaganza-%F0%9F%8E%89",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/blogs/news/%F0%9F%8C%9F-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extravaganza-%F0%9F%8E%89",
+    "file": "scrape\\raw\\en\\blogs\\news\\_pct_F0_pct_9F_pct_8C_pct_9F-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extravaganza-_pct_F0_p.html"
+  },
+  {
+    "locale": "fr",
+    "path": "/",
+    "url": "https://silverbullet.tools/fr/",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/fr/",
+    "file": "scrape\\raw\\fr\\index.html"
+  },
+  {
+    "locale": "fr",
+    "path": "/products/replacement-case",
+    "url": "https://silverbullet.tools/fr/products/replacement-case",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/products/replacement-case",
+    "file": "scrape\\raw\\fr\\products\\replacement-case.html"
+  },
+  {
+    "locale": "fr",
+    "path": "/products/silver-bullet",
+    "url": "https://silverbullet.tools/fr/products/silver-bullet",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/products/silver-bullet",
+    "file": "scrape\\raw\\fr\\products\\silver-bullet.html"
+  },
+  {
+    "locale": "fr",
+    "path": "/products/spare-tips",
+    "url": "https://silverbullet.tools/fr/products/spare-tips",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/products/spare-tips",
+    "file": "scrape\\raw\\fr\\products\\spare-tips.html"
+  },
+  {
+    "locale": "fr",
+    "path": "/pages/how-to-use-the-silver-bullet",
+    "url": "https://silverbullet.tools/fr/pages/how-to-use-the-silver-bullet",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/fr/pages/how-to-use-the-silver-bullet",
+    "file": "scrape\\raw\\fr\\pages\\how-to-use-the-silver-bullet.html"
+  },
+  {
+    "locale": "fr",
+    "path": "/pages/privacy-policy",
+    "url": "https://silverbullet.tools/fr/pages/privacy-policy",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/fr/pages/privacy-policy",
+    "file": "scrape\\raw\\fr\\pages\\privacy-policy.html"
+  },
+  {
+    "locale": "fr",
+    "path": "/pages/terms-conditions",
+    "url": "https://silverbullet.tools/fr/pages/terms-conditions",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/fr/pages/terms-conditions",
+    "file": "scrape\\raw\\fr\\pages\\terms-conditions.html"
+  },
+  {
+    "locale": "fr",
+    "path": "/products/silver-bullet-2",
+    "url": "https://silverbullet.tools/fr/products/silver-bullet-2",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/products/silver-bullet-2",
+    "file": "scrape\\raw\\fr\\products\\silver-bullet-2.html"
+  },
+  {
+    "locale": "fr",
+    "path": "/pages/shipping-information",
+    "url": "https://silverbullet.tools/fr/pages/shipping-information",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/fr/pages/shipping-information",
+    "file": "scrape\\raw\\fr\\pages\\shipping-information.html"
+  },
+  {
+    "locale": "fr",
+    "path": "/pages/faq",
+    "url": "https://silverbullet.tools/fr/pages/faq",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/fr/pages/faq",
+    "file": "scrape\\raw\\fr\\pages\\faq.html"
+  },
+  {
+    "locale": "fr",
+    "path": "/pages/warranty-returns-policy",
+    "url": "https://silverbullet.tools/fr/pages/warranty-returns-policy",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/fr/pages/warranty-returns-policy",
+    "file": "scrape\\raw\\fr\\pages\\warranty-returns-policy.html"
+  },
+  {
+    "locale": "fr",
+    "path": "/blogs/news",
+    "url": "https://silverbullet.tools/fr/blogs/news",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/fr/blogs/news",
+    "file": "scrape\\raw\\fr\\blogs\\news.html"
+  },
+  {
+    "locale": "fr",
+    "path": "/blogs/news/silverbullet-official-launch",
+    "url": "https://silverbullet.tools/fr/blogs/news/silverbullet-official-launch",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/fr/blogs/news/silverbullet-official-launch",
+    "file": "scrape\\raw\\fr\\blogs\\news\\silverbullet-official-launch.html"
+  },
+  {
+    "locale": "fr",
+    "path": "/pages/silverbullet-full-picking-list",
+    "url": "https://silverbullet.tools/fr/pages/silverbullet-full-picking-list",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/fr/pages/silverbullet-full-picking-list",
+    "file": "scrape\\raw\\fr\\pages\\silverbullet-full-picking-list.html"
+  },
+  {
+    "locale": "fr",
+    "path": "/collections/frontpage",
+    "url": "https://silverbullet.tools/fr/collections/frontpage",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/fr/collections/frontpage",
+    "file": "scrape\\raw\\fr\\collections\\frontpage.html"
+  },
+  {
+    "locale": "fr",
+    "path": "/blogs/news/bastille-day-10-sale",
+    "url": "https://silverbullet.tools/fr/blogs/news/bastille-day-10-sale",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/fr/blogs/news/bastille-day-10-sale",
+    "file": "scrape\\raw\\fr\\blogs\\news\\bastille-day-10-sale.html"
+  },
+  {
+    "locale": "fr",
+    "path": "/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy",
+    "url": "https://silverbullet.tools/fr/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/fr/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy",
+    "file": "scrape\\raw\\fr\\blogs\\news\\silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy.html"
+  },
+  {
+    "locale": "fr",
+    "path": "/blogs/news/getting-started-with-the-silver-bullet",
+    "url": "https://silverbullet.tools/fr/blogs/news/getting-started-with-the-silver-bullet",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/fr/blogs/news/getting-started-with-the-silver-bullet",
+    "file": "scrape\\raw\\fr\\blogs\\news\\getting-started-with-the-silver-bullet.html"
+  },
+  {
+    "locale": "fr",
+    "path": "/blogs/news/silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-tool",
+    "url": "https://silverbullet.tools/fr/blogs/news/silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-tool",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/fr/blogs/news/silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-tool",
+    "file": "scrape\\raw\\fr\\blogs\\news\\silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-tool.html"
+  },
+  {
+    "locale": "fr",
+    "path": "/blogs/news/spare-tips-now-available",
+    "url": "https://silverbullet.tools/fr/blogs/news/spare-tips-now-available",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/fr/blogs/news/spare-tips-now-available",
+    "file": "scrape\\raw\\fr\\blogs\\news\\spare-tips-now-available.html"
+  },
+  {
+    "locale": "fr",
+    "path": "/blogs/news/silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy",
+    "url": "https://silverbullet.tools/fr/blogs/news/silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/fr/blogs/news/silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy",
+    "file": "scrape\\raw\\fr\\blogs\\news\\silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy.html"
+  },
+  {
+    "locale": "fr",
+    "path": "/blogs/news/%F0%9F%8C%9F-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extravaganza-%F0%9F%8E%89",
+    "url": "https://silverbullet.tools/fr/blogs/news/%F0%9F%8C%9F-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extravaganza-%F0%9F%8E%89",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/fr/blogs/news/%F0%9F%8C%9F-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extravaganza-%F0%9F%8E%89",
+    "file": "scrape\\raw\\fr\\blogs\\news\\_pct_F0_pct_9F_pct_8C_pct_9F-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extravaganza-_pct_F0_p.html"
+  },
+  {
+    "locale": "de",
+    "path": "/products/silver-bullet",
+    "url": "https://silverbullet.tools/de/products/silver-bullet",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/products/silver-bullet",
+    "file": "scrape\\raw\\de\\products\\silver-bullet.html"
+  },
+  {
+    "locale": "de",
+    "path": "/",
+    "url": "https://silverbullet.tools/de/",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/de/",
+    "file": "scrape\\raw\\de\\index.html"
+  },
+  {
+    "locale": "de",
+    "path": "/products/spare-tips",
+    "url": "https://silverbullet.tools/de/products/spare-tips",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/products/spare-tips",
+    "file": "scrape\\raw\\de\\products\\spare-tips.html"
+  },
+  {
+    "locale": "de",
+    "path": "/products/silver-bullet-2",
+    "url": "https://silverbullet.tools/de/products/silver-bullet-2",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/products/silver-bullet-2",
+    "file": "scrape\\raw\\de\\products\\silver-bullet-2.html"
+  },
+  {
+    "locale": "de",
+    "path": "/products/replacement-case",
+    "url": "https://silverbullet.tools/de/products/replacement-case",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/products/replacement-case",
+    "file": "scrape\\raw\\de\\products\\replacement-case.html"
+  },
+  {
+    "locale": "de",
+    "path": "/pages/how-to-use-the-silver-bullet",
+    "url": "https://silverbullet.tools/de/pages/how-to-use-the-silver-bullet",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/de/pages/how-to-use-the-silver-bullet",
+    "file": "scrape\\raw\\de\\pages\\how-to-use-the-silver-bullet.html"
+  },
+  {
+    "locale": "de",
+    "path": "/pages/faq",
+    "url": "https://silverbullet.tools/de/pages/faq",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/de/pages/faq",
+    "file": "scrape\\raw\\de\\pages\\faq.html"
+  },
+  {
+    "locale": "de",
+    "path": "/pages/privacy-policy",
+    "url": "https://silverbullet.tools/de/pages/privacy-policy",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/de/pages/privacy-policy",
+    "file": "scrape\\raw\\de\\pages\\privacy-policy.html"
+  },
+  {
+    "locale": "de",
+    "path": "/pages/shipping-information",
+    "url": "https://silverbullet.tools/de/pages/shipping-information",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/de/pages/shipping-information",
+    "file": "scrape\\raw\\de\\pages\\shipping-information.html"
+  },
+  {
+    "locale": "de",
+    "path": "/pages/terms-conditions",
+    "url": "https://silverbullet.tools/de/pages/terms-conditions",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/de/pages/terms-conditions",
+    "file": "scrape\\raw\\de\\pages\\terms-conditions.html"
+  },
+  {
+    "locale": "de",
+    "path": "/pages/warranty-returns-policy",
+    "url": "https://silverbullet.tools/de/pages/warranty-returns-policy",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/de/pages/warranty-returns-policy",
+    "file": "scrape\\raw\\de\\pages\\warranty-returns-policy.html"
+  },
+  {
+    "locale": "de",
+    "path": "/pages/silverbullet-full-picking-list",
+    "url": "https://silverbullet.tools/de/pages/silverbullet-full-picking-list",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/de/pages/silverbullet-full-picking-list",
+    "file": "scrape\\raw\\de\\pages\\silverbullet-full-picking-list.html"
+  },
+  {
+    "locale": "de",
+    "path": "/blogs/news/silverbullet-official-launch",
+    "url": "https://silverbullet.tools/de/blogs/news/silverbullet-official-launch",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/de/blogs/news/silverbullet-official-launch",
+    "file": "scrape\\raw\\de\\blogs\\news\\silverbullet-official-launch.html"
+  },
+  {
+    "locale": "de",
+    "path": "/blogs/news/getting-started-with-the-silver-bullet",
+    "url": "https://silverbullet.tools/de/blogs/news/getting-started-with-the-silver-bullet",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/de/blogs/news/getting-started-with-the-silver-bullet",
+    "file": "scrape\\raw\\de\\blogs\\news\\getting-started-with-the-silver-bullet.html"
+  },
+  {
+    "locale": "de",
+    "path": "/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy",
+    "url": "https://silverbullet.tools/de/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/de/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy",
+    "file": "scrape\\raw\\de\\blogs\\news\\silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy.html"
+  },
+  {
+    "locale": "de",
+    "path": "/collections/frontpage",
+    "url": "https://silverbullet.tools/de/collections/frontpage",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/de/collections/frontpage",
+    "file": "scrape\\raw\\de\\collections\\frontpage.html"
+  },
+  {
+    "locale": "de",
+    "path": "/blogs/news",
+    "url": "https://silverbullet.tools/de/blogs/news",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/de/blogs/news",
+    "file": "scrape\\raw\\de\\blogs\\news.html"
+  },
+  {
+    "locale": "de",
+    "path": "/blogs/news/silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-tool",
+    "url": "https://silverbullet.tools/de/blogs/news/silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-tool",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/de/blogs/news/silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-tool",
+    "file": "scrape\\raw\\de\\blogs\\news\\silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-tool.html"
+  },
+  {
+    "locale": "de",
+    "path": "/blogs/news/silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy",
+    "url": "https://silverbullet.tools/de/blogs/news/silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/de/blogs/news/silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy",
+    "file": "scrape\\raw\\de\\blogs\\news\\silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy.html"
+  },
+  {
+    "locale": "de",
+    "path": "/blogs/news/%F0%9F%8C%9F-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extravaganza-%F0%9F%8E%89",
+    "url": "https://silverbullet.tools/de/blogs/news/%F0%9F%8C%9F-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extravaganza-%F0%9F%8E%89",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/de/blogs/news/%F0%9F%8C%9F-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extravaganza-%F0%9F%8E%89",
+    "file": "scrape\\raw\\de\\blogs\\news\\_pct_F0_pct_9F_pct_8C_pct_9F-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extravaganza-_pct_F0_p.html"
+  },
+  {
+    "locale": "de",
+    "path": "/blogs/news/spare-tips-now-available",
+    "url": "https://silverbullet.tools/de/blogs/news/spare-tips-now-available",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/de/blogs/news/spare-tips-now-available",
+    "file": "scrape\\raw\\de\\blogs\\news\\spare-tips-now-available.html"
+  },
+  {
+    "locale": "de",
+    "path": "/blogs/news/bastille-day-10-sale",
+    "url": "https://silverbullet.tools/de/blogs/news/bastille-day-10-sale",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/de/blogs/news/bastille-day-10-sale",
+    "file": "scrape\\raw\\de\\blogs\\news\\bastille-day-10-sale.html"
+  },
+  {
+    "locale": "it",
+    "path": "/",
+    "url": "https://silverbullet.tools/it/",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/it/",
+    "file": "scrape\\raw\\it\\index.html"
+  },
+  {
+    "locale": "it",
+    "path": "/products/silver-bullet",
+    "url": "https://silverbullet.tools/it/products/silver-bullet",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/products/silver-bullet",
+    "file": "scrape\\raw\\it\\products\\silver-bullet.html"
+  },
+  {
+    "locale": "it",
+    "path": "/pages/how-to-use-the-silver-bullet",
+    "url": "https://silverbullet.tools/it/pages/how-to-use-the-silver-bullet",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/it/pages/how-to-use-the-silver-bullet",
+    "file": "scrape\\raw\\it\\pages\\how-to-use-the-silver-bullet.html"
+  },
+  {
+    "locale": "it",
+    "path": "/pages/privacy-policy",
+    "url": "https://silverbullet.tools/it/pages/privacy-policy",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/it/pages/privacy-policy",
+    "file": "scrape\\raw\\it\\pages\\privacy-policy.html"
+  },
+  {
+    "locale": "it",
+    "path": "/products/replacement-case",
+    "url": "https://silverbullet.tools/it/products/replacement-case",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/products/replacement-case",
+    "file": "scrape\\raw\\it\\products\\replacement-case.html"
+  },
+  {
+    "locale": "it",
+    "path": "/products/spare-tips",
+    "url": "https://silverbullet.tools/it/products/spare-tips",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/products/spare-tips",
+    "file": "scrape\\raw\\it\\products\\spare-tips.html"
+  },
+  {
+    "locale": "it",
+    "path": "/products/silver-bullet-2",
+    "url": "https://silverbullet.tools/it/products/silver-bullet-2",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/products/silver-bullet-2",
+    "file": "scrape\\raw\\it\\products\\silver-bullet-2.html"
+  },
+  {
+    "locale": "it",
+    "path": "/pages/warranty-returns-policy",
+    "url": "https://silverbullet.tools/it/pages/warranty-returns-policy",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/it/pages/warranty-returns-policy",
+    "file": "scrape\\raw\\it\\pages\\warranty-returns-policy.html"
+  },
+  {
+    "locale": "it",
+    "path": "/pages/silverbullet-full-picking-list",
+    "url": "https://silverbullet.tools/it/pages/silverbullet-full-picking-list",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/it/pages/silverbullet-full-picking-list",
+    "file": "scrape\\raw\\it\\pages\\silverbullet-full-picking-list.html"
+  },
+  {
+    "locale": "it",
+    "path": "/pages/terms-conditions",
+    "url": "https://silverbullet.tools/it/pages/terms-conditions",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/it/pages/terms-conditions",
+    "file": "scrape\\raw\\it\\pages\\terms-conditions.html"
+  },
+  {
+    "locale": "it",
+    "path": "/pages/faq",
+    "url": "https://silverbullet.tools/it/pages/faq",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/it/pages/faq",
+    "file": "scrape\\raw\\it\\pages\\faq.html"
+  },
+  {
+    "locale": "it",
+    "path": "/collections/frontpage",
+    "url": "https://silverbullet.tools/it/collections/frontpage",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/it/collections/frontpage",
+    "file": "scrape\\raw\\it\\collections\\frontpage.html"
+  },
+  {
+    "locale": "it",
+    "path": "/pages/shipping-information",
+    "url": "https://silverbullet.tools/it/pages/shipping-information",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/it/pages/shipping-information",
+    "file": "scrape\\raw\\it\\pages\\shipping-information.html"
+  },
+  {
+    "locale": "it",
+    "path": "/blogs/news/silverbullet-official-launch",
+    "url": "https://silverbullet.tools/it/blogs/news/silverbullet-official-launch",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/it/blogs/news/silverbullet-official-launch",
+    "file": "scrape\\raw\\it\\blogs\\news\\silverbullet-official-launch.html"
+  },
+  {
+    "locale": "it",
+    "path": "/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy",
+    "url": "https://silverbullet.tools/it/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/it/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy",
+    "file": "scrape\\raw\\it\\blogs\\news\\silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy.html"
+  },
+  {
+    "locale": "it",
+    "path": "/blogs/news/silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-tool",
+    "url": "https://silverbullet.tools/it/blogs/news/silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-tool",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/it/blogs/news/silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-tool",
+    "file": "scrape\\raw\\it\\blogs\\news\\silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-tool.html"
+  },
+  {
+    "locale": "it",
+    "path": "/blogs/news/silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy",
+    "url": "https://silverbullet.tools/it/blogs/news/silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/it/blogs/news/silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy",
+    "file": "scrape\\raw\\it\\blogs\\news\\silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy.html"
+  },
+  {
+    "locale": "it",
+    "path": "/blogs/news",
+    "url": "https://silverbullet.tools/it/blogs/news",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/it/blogs/news",
+    "file": "scrape\\raw\\it\\blogs\\news.html"
+  },
+  {
+    "locale": "it",
+    "path": "/blogs/news/getting-started-with-the-silver-bullet",
+    "url": "https://silverbullet.tools/it/blogs/news/getting-started-with-the-silver-bullet",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/it/blogs/news/getting-started-with-the-silver-bullet",
+    "file": "scrape\\raw\\it\\blogs\\news\\getting-started-with-the-silver-bullet.html"
+  },
+  {
+    "locale": "it",
+    "path": "/blogs/news/bastille-day-10-sale",
+    "url": "https://silverbullet.tools/it/blogs/news/bastille-day-10-sale",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/it/blogs/news/bastille-day-10-sale",
+    "file": "scrape\\raw\\it\\blogs\\news\\bastille-day-10-sale.html"
+  },
+  {
+    "locale": "it",
+    "path": "/blogs/news/spare-tips-now-available",
+    "url": "https://silverbullet.tools/it/blogs/news/spare-tips-now-available",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/it/blogs/news/spare-tips-now-available",
+    "file": "scrape\\raw\\it\\blogs\\news\\spare-tips-now-available.html"
+  },
+  {
+    "locale": "es",
+    "path": "/",
+    "url": "https://silverbullet.tools/es/",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/es/",
+    "file": "scrape\\raw\\es\\index.html"
+  },
+  {
+    "locale": "es",
+    "path": "/products/spare-tips",
+    "url": "https://silverbullet.tools/es/products/spare-tips",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/products/spare-tips",
+    "file": "scrape\\raw\\es\\products\\spare-tips.html"
+  },
+  {
+    "locale": "it",
+    "path": "/blogs/news/%F0%9F%8C%9F-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extravaganza-%F0%9F%8E%89",
+    "url": "https://silverbullet.tools/it/blogs/news/%F0%9F%8C%9F-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extravaganza-%F0%9F%8E%89",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/it/blogs/news/%F0%9F%8C%9F-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extravaganza-%F0%9F%8E%89",
+    "file": "scrape\\raw\\it\\blogs\\news\\_pct_F0_pct_9F_pct_8C_pct_9F-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extravaganza-_pct_F0_p.html"
+  },
+  {
+    "locale": "es",
+    "path": "/products/silver-bullet",
+    "url": "https://silverbullet.tools/es/products/silver-bullet",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/products/silver-bullet",
+    "file": "scrape\\raw\\es\\products\\silver-bullet.html"
+  },
+  {
+    "locale": "es",
+    "path": "/products/silver-bullet-2",
+    "url": "https://silverbullet.tools/es/products/silver-bullet-2",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/products/silver-bullet-2",
+    "file": "scrape\\raw\\es\\products\\silver-bullet-2.html"
+  },
+  {
+    "locale": "es",
+    "path": "/products/replacement-case",
+    "url": "https://silverbullet.tools/es/products/replacement-case",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/products/replacement-case",
+    "file": "scrape\\raw\\es\\products\\replacement-case.html"
+  },
+  {
+    "locale": "es",
+    "path": "/pages/how-to-use-the-silver-bullet",
+    "url": "https://silverbullet.tools/es/pages/how-to-use-the-silver-bullet",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/es/pages/how-to-use-the-silver-bullet",
+    "file": "scrape\\raw\\es\\pages\\how-to-use-the-silver-bullet.html"
+  },
+  {
+    "locale": "es",
+    "path": "/pages/terms-conditions",
+    "url": "https://silverbullet.tools/es/pages/terms-conditions",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/es/pages/terms-conditions",
+    "file": "scrape\\raw\\es\\pages\\terms-conditions.html"
+  },
+  {
+    "locale": "es",
+    "path": "/pages/privacy-policy",
+    "url": "https://silverbullet.tools/es/pages/privacy-policy",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/es/pages/privacy-policy",
+    "file": "scrape\\raw\\es\\pages\\privacy-policy.html"
+  },
+  {
+    "locale": "es",
+    "path": "/blogs/news",
+    "url": "https://silverbullet.tools/es/blogs/news",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/es/blogs/news",
+    "file": "scrape\\raw\\es\\blogs\\news.html"
+  },
+  {
+    "locale": "es",
+    "path": "/pages/faq",
+    "url": "https://silverbullet.tools/es/pages/faq",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/es/pages/faq",
+    "file": "scrape\\raw\\es\\pages\\faq.html"
+  },
+  {
+    "locale": "es",
+    "path": "/pages/warranty-returns-policy",
+    "url": "https://silverbullet.tools/es/pages/warranty-returns-policy",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/es/pages/warranty-returns-policy",
+    "file": "scrape\\raw\\es\\pages\\warranty-returns-policy.html"
+  },
+  {
+    "locale": "es",
+    "path": "/pages/silverbullet-full-picking-list",
+    "url": "https://silverbullet.tools/es/pages/silverbullet-full-picking-list",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/es/pages/silverbullet-full-picking-list",
+    "file": "scrape\\raw\\es\\pages\\silverbullet-full-picking-list.html"
+  },
+  {
+    "locale": "es",
+    "path": "/collections/frontpage",
+    "url": "https://silverbullet.tools/es/collections/frontpage",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/es/collections/frontpage",
+    "file": "scrape\\raw\\es\\collections\\frontpage.html"
+  },
+  {
+    "locale": "es",
+    "path": "/pages/shipping-information",
+    "url": "https://silverbullet.tools/es/pages/shipping-information",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/es/pages/shipping-information",
+    "file": "scrape\\raw\\es\\pages\\shipping-information.html"
+  },
+  {
+    "locale": "es",
+    "path": "/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy",
+    "url": "https://silverbullet.tools/es/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/es/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy",
+    "file": "scrape\\raw\\es\\blogs\\news\\silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy.html"
+  },
+  {
+    "locale": "es",
+    "path": "/blogs/news/silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-tool",
+    "url": "https://silverbullet.tools/es/blogs/news/silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-tool",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/es/blogs/news/silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-tool",
+    "file": "scrape\\raw\\es\\blogs\\news\\silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-tool.html"
+  },
+  {
+    "locale": "es",
+    "path": "/blogs/news/getting-started-with-the-silver-bullet",
+    "url": "https://silverbullet.tools/es/blogs/news/getting-started-with-the-silver-bullet",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/es/blogs/news/getting-started-with-the-silver-bullet",
+    "file": "scrape\\raw\\es\\blogs\\news\\getting-started-with-the-silver-bullet.html"
+  },
+  {
+    "locale": "es",
+    "path": "/blogs/news/silverbullet-official-launch",
+    "url": "https://silverbullet.tools/es/blogs/news/silverbullet-official-launch",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/es/blogs/news/silverbullet-official-launch",
+    "file": "scrape\\raw\\es\\blogs\\news\\silverbullet-official-launch.html"
+  },
+  {
+    "locale": "es",
+    "path": "/blogs/news/silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy",
+    "url": "https://silverbullet.tools/es/blogs/news/silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/es/blogs/news/silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy",
+    "file": "scrape\\raw\\es\\blogs\\news\\silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy.html"
+  },
+  {
+    "locale": "es",
+    "path": "/blogs/news/bastille-day-10-sale",
+    "url": "https://silverbullet.tools/es/blogs/news/bastille-day-10-sale",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/es/blogs/news/bastille-day-10-sale",
+    "file": "scrape\\raw\\es\\blogs\\news\\bastille-day-10-sale.html"
+  },
+  {
+    "locale": "es",
+    "path": "/blogs/news/%F0%9F%8C%9F-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extravaganza-%F0%9F%8E%89",
+    "url": "https://silverbullet.tools/es/blogs/news/%F0%9F%8C%9F-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extravaganza-%F0%9F%8E%89",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/es/blogs/news/%F0%9F%8C%9F-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extravaganza-%F0%9F%8E%89",
+    "file": "scrape\\raw\\es\\blogs\\news\\_pct_F0_pct_9F_pct_8C_pct_9F-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extravaganza-_pct_F0_p.html"
+  },
+  {
+    "locale": "es",
+    "path": "/blogs/news/spare-tips-now-available",
+    "url": "https://silverbullet.tools/es/blogs/news/spare-tips-now-available",
+    "status": 200,
+    "finalUrl": "https://silverbullet.tools/es/blogs/news/spare-tips-now-available",
+    "file": "scrape\\raw\\es\\blogs\\news\\spare-tips-now-available.html"
+  }
+]

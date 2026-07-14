@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.astro/
+scrape/raw/
+scrape/assets/
+scrape/clean/
+qa/screenshots/
+*.log

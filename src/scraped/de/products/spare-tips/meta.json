@@ -1,0 +1,63 @@
+{
+  "locale": "de",
+  "path": "/products/spare-tips",
+  "localizedPath": "/de/products/spare-tips",
+  "url": "https://silverbullet.tools/de/products/spare-tips",
+  "slug": "products/spare-tips",
+  "htmlAttrs": "<html class=\"no-js\" lang=\"en\">",
+  "bodyAttrs": "<body class=\"gradient\">",
+  "activeNav": [],
+  "title": "SilverBullet Spare Tips\n – Silver Bullet Tools",
+  "description": "Spare tips for your SilverBullet: All feelers and tensioners are now available for individual purchase. 70% discount for existing SilverBullet customers!Please use the \"SPARE-TIPS\" discount code at checkout. SilverBullet Spare Tips Whether it's to replace a broken tip, or have a spare tip, all original SilverBullet Fee",
+  "canonical": "https://silverbullet.tools/products/spare-tips",
+  "hreflang": [
+    {
+      "lang": "x-default",
+      "href": "https://silverbullet.tools/products/spare-tips"
+    },
+    {
+      "lang": "en",
+      "href": "https://silverbullet.tools/products/spare-tips"
+    },
+    {
+      "lang": "fr",
+      "href": "https://silverbullet.tools/fr/products/spare-tips"
+    },
+    {
+      "lang": "de",
+      "href": "https://silverbullet.tools/de/products/spare-tips"
+    },
+    {
+      "lang": "it",
+      "href": "https://silverbullet.tools/it/products/spare-tips"
+    },
+    {
+      "lang": "es",
+      "href": "https://silverbullet.tools/es/products/spare-tips"
+    }
+  ],
+  "og": [
+    "<meta property=\"og:site_name\" content=\"Silver Bullet Tools\">",
+    "<meta property=\"og:url\" content=\"https://silverbullet.tools/products/spare-tips\">",
+    "<meta property=\"og:title\" content=\"SilverBullet Spare Tips\">",
+    "<meta property=\"og:type\" content=\"product\">",
+    "<meta property=\"og:description\" content=\"Spare tips for your SilverBullet: All feelers and tensioners are now available for individual purchase. 70% discount for existing SilverBullet customers!Please use the &quot;SPARE-TIPS&quot; discount code at checkout. SilverBullet Spare Tips Whether it's to replace a broken tip, or have a spare tip, all original SilverBullet Fee\">",
+    "<meta property=\"og:image\" content=\"/assets/SB-Spare-Tips.7fdd6bd7ce.png\">",
+    "<meta property=\"og:image:secure_url\" content=\"/assets/SB-Spare-Tips.e3a4ff4315.png\">",
+    "<meta property=\"og:image:width\" content=\"2432\">",
+    "<meta property=\"og:image:height\" content=\"1622\">",
+    "<meta property=\"og:price:amount\" content=\"150,00\">",
+    "<meta property=\"og:price:currency\" content=\"EUR\">",
+    "<meta name=\"twitter:card\" content=\"summary_large_image\">",
+    "<meta name=\"twitter:title\" content=\"SilverBullet Spare Tips\">",
+    "<meta name=\"twitter:description\" content=\"Spare tips for your SilverBullet: All feelers and tensioners are now available for individual purchase. 70% discount for existing SilverBullet customers!Please use the &quot;SPARE-TIPS&quot; discount code at checkout. SilverBullet Spare Tips Whether it's to replace a broken tip, or have a spare tip, all original SilverBullet Fee\">"
+  ],
+  "ldjson": [],
+  "headExtras": [],
+  "ldjsonBody": [
+    "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/cdn\\/shop\\/files\\/Logo.png?v=1614311477\\u0026width=500\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+  ],
+  "headFile": "head.4.html",
+  "preludeFile": "prelude.1.html",
+  "postludeFile": "postlude.1.html"
+}

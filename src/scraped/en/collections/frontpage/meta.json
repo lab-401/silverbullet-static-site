@@ -1,0 +1,63 @@
+{
+  "locale": "en",
+  "path": "/collections/frontpage",
+  "localizedPath": "/collections/frontpage",
+  "url": "https://silverbullet.tools/collections/frontpage",
+  "slug": "collections/frontpage",
+  "htmlAttrs": "<html class=\"no-js\" lang=\"en\">",
+  "bodyAttrs": "<body class=\"gradient\">",
+  "activeNav": [],
+  "title": "Home page\n – Silver Bullet Tools",
+  "description": "",
+  "canonical": "https://silverbullet.tools/collections/frontpage",
+  "hreflang": [
+    {
+      "lang": "x-default",
+      "href": "https://silverbullet.tools/collections/frontpage"
+    },
+    {
+      "lang": "en",
+      "href": "https://silverbullet.tools/collections/frontpage"
+    },
+    {
+      "lang": "fr",
+      "href": "https://silverbullet.tools/fr/collections/frontpage"
+    },
+    {
+      "lang": "de",
+      "href": "https://silverbullet.tools/de/collections/frontpage"
+    },
+    {
+      "lang": "it",
+      "href": "https://silverbullet.tools/it/collections/frontpage"
+    },
+    {
+      "lang": "es",
+      "href": "https://silverbullet.tools/es/collections/frontpage"
+    }
+  ],
+  "og": [
+    "<meta property=\"og:site_name\" content=\"Silver Bullet Tools\">",
+    "<meta property=\"og:url\" content=\"https://silverbullet.tools/collections/frontpage\">",
+    "<meta property=\"og:title\" content=\"Home page\">",
+    "<meta property=\"og:type\" content=\"website\">",
+    "<meta property=\"og:description\" content=\"SilverBullet : Pick and decode 99% of disc-locks rapidly.\nRapidly pick Abloy Classic, Abloy Disclock, Abloy Profile, ABUS, Anchor Las, Kryptonite, Kensington.. and thousands of other disc-locks.\nFree Shipping from Europe and a lifetime warranty.\">",
+    "<meta property=\"og:image\" content=\"/assets/SilverBullet-2-Tool_a50e11e7-1430-4a49-b803-b234f778d1f1.42c6dbdcdf.png\">",
+    "<meta property=\"og:image:secure_url\" content=\"/assets/SilverBullet-2-Tool_a50e11e7-1430-4a49-b803-b234f778d1f1.0d16a3d50f.png\">",
+    "<meta property=\"og:image:width\" content=\"1125\">",
+    "<meta property=\"og:image:height\" content=\"1125\">",
+    "<meta name=\"twitter:card\" content=\"summary_large_image\">",
+    "<meta name=\"twitter:title\" content=\"Home page\">",
+    "<meta name=\"twitter:description\" content=\"SilverBullet : Pick and decode 99% of disc-locks rapidly.\nRapidly pick Abloy Classic, Abloy Disclock, Abloy Profile, ABUS, Anchor Las, Kryptonite, Kensington.. and thousands of other disc-locks.\nFree Shipping from Europe and a lifetime warranty.\">"
+  ],
+  "ldjson": [],
+  "headExtras": [
+    "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/collections/frontpage.atom\">"
+  ],
+  "ldjsonBody": [
+    "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/cdn\\/shop\\/files\\/Logo.png?v=1614311477\\u0026width=500\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+  ],
+  "headFile": "head.7.html",
+  "preludeFile": "prelude.0.html",
+  "postludeFile": "postlude.0.html"
+}

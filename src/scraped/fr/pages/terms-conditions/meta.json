@@ -1,0 +1,61 @@
+{
+  "locale": "fr",
+  "path": "/pages/terms-conditions",
+  "localizedPath": "/fr/pages/terms-conditions",
+  "url": "https://silverbullet.tools/fr/pages/terms-conditions",
+  "slug": "pages/terms-conditions",
+  "htmlAttrs": "<html class=\"no-js\" lang=\"fr\">",
+  "bodyAttrs": "<body class=\"gradient\">",
+  "activeNav": [],
+  "title": "Conditions générales d'utilisation\n – Silver Bullet Tools",
+  "description": "VUE D'ENSEMBLE Ce site web est exploité par ETOILE401 SAS. Dans l'ensemble du site, les termes \"nous\", \"notre\" et \"nos\" font référence à ETOILE401 SAS. ETOILE401 SAS propose ce site web, y compris toutes les informations, tous les outils et tous les services disponibles sur ce site à vous, l'utilisateur, sous réserve d",
+  "canonical": "https://silverbullet.tools/fr/pages/terms-conditions",
+  "hreflang": [
+    {
+      "lang": "x-default",
+      "href": "https://silverbullet.tools/pages/terms-conditions"
+    },
+    {
+      "lang": "en",
+      "href": "https://silverbullet.tools/pages/terms-conditions"
+    },
+    {
+      "lang": "fr",
+      "href": "https://silverbullet.tools/fr/pages/terms-conditions"
+    },
+    {
+      "lang": "de",
+      "href": "https://silverbullet.tools/de/pages/terms-conditions"
+    },
+    {
+      "lang": "it",
+      "href": "https://silverbullet.tools/it/pages/terms-conditions"
+    },
+    {
+      "lang": "es",
+      "href": "https://silverbullet.tools/es/pages/terms-conditions"
+    }
+  ],
+  "og": [
+    "<meta property=\"og:site_name\" content=\"Silver Bullet Tools\">",
+    "<meta property=\"og:url\" content=\"https://silverbullet.tools/fr/pages/terms-conditions\">",
+    "<meta property=\"og:title\" content=\"Conditions générales d'utilisation\">",
+    "<meta property=\"og:type\" content=\"website\">",
+    "<meta property=\"og:description\" content=\"VUE D'ENSEMBLE Ce site web est exploité par ETOILE401 SAS. Dans l'ensemble du site, les termes &quot;nous&quot;, &quot;notre&quot; et &quot;nos&quot; font référence à ETOILE401 SAS. ETOILE401 SAS propose ce site web, y compris toutes les informations, tous les outils et tous les services disponibles sur ce site à vous, l'utilisateur, sous réserve d\">",
+    "<meta property=\"og:image\" content=\"/assets/SilverBullet-2-Tool_a50e11e7-1430-4a49-b803-b234f778d1f1.42c6dbdcdf.png\">",
+    "<meta property=\"og:image:secure_url\" content=\"/assets/SilverBullet-2-Tool_a50e11e7-1430-4a49-b803-b234f778d1f1.0d16a3d50f.png\">",
+    "<meta property=\"og:image:width\" content=\"1125\">",
+    "<meta property=\"og:image:height\" content=\"1125\">",
+    "<meta name=\"twitter:card\" content=\"summary_large_image\">",
+    "<meta name=\"twitter:title\" content=\"Conditions générales d'utilisation\">",
+    "<meta name=\"twitter:description\" content=\"VUE D'ENSEMBLE Ce site web est exploité par ETOILE401 SAS. Dans l'ensemble du site, les termes &quot;nous&quot;, &quot;notre&quot; et &quot;nos&quot; font référence à ETOILE401 SAS. ETOILE401 SAS propose ce site web, y compris toutes les informations, tous les outils et tous les services disponibles sur ce site à vous, l'utilisateur, sous réserve d\">"
+  ],
+  "ldjson": [],
+  "headExtras": [],
+  "ldjsonBody": [
+    "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/cdn\\/shop\\/files\\/Logo.png?v=1614311477\\u0026width=500\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/fr\\/pages\\/terms-conditions\"\n  }\n"
+  ],
+  "headFile": "head.0.html",
+  "preludeFile": "prelude.0.html",
+  "postludeFile": "postlude.0.html"
+}

@@ -1,0 +1,64 @@
+{
+  "locale": "de",
+  "path": "/",
+  "localizedPath": "/de",
+  "url": "https://silverbullet.tools/de/",
+  "slug": "index",
+  "htmlAttrs": "<html class=\"no-js\" lang=\"de\">",
+  "bodyAttrs": "<body class=\"gradient\">",
+  "activeNav": [
+    "/de"
+  ],
+  "title": "SilverBullet: Das ultimative Werkzeug zum Aufbrechen von Scheibenschlössern\n – Silver Bullet Tools",
+  "description": "SilverBullet : Entschlüsseln Sie 99% der Disc-Locks schnell. Entschlüsseln Sie schnell Abloy Classic, Abloy Disclock, Abloy Profile, ABUS, Anchor Las, Kryptonite, Kensington... und tausende andere Disc-Schlösser. Kostenloser Versand aus Europa und eine lebenslange Garantie.",
+  "canonical": "https://silverbullet.tools/de",
+  "hreflang": [
+    {
+      "lang": "x-default",
+      "href": "https://silverbullet.tools/"
+    },
+    {
+      "lang": "en",
+      "href": "https://silverbullet.tools/"
+    },
+    {
+      "lang": "fr",
+      "href": "https://silverbullet.tools/fr"
+    },
+    {
+      "lang": "de",
+      "href": "https://silverbullet.tools/de"
+    },
+    {
+      "lang": "it",
+      "href": "https://silverbullet.tools/it"
+    },
+    {
+      "lang": "es",
+      "href": "https://silverbullet.tools/es"
+    }
+  ],
+  "og": [
+    "<meta property=\"og:site_name\" content=\"Silver Bullet Tools\">",
+    "<meta property=\"og:url\" content=\"https://silverbullet.tools/de\">",
+    "<meta property=\"og:title\" content=\"SilverBullet: Das ultimative Werkzeug zum Aufbrechen von Scheibenschlössern\">",
+    "<meta property=\"og:type\" content=\"website\">",
+    "<meta property=\"og:description\" content=\"SilverBullet : Entschlüsseln Sie 99% der Disc-Locks schnell. Entschlüsseln Sie schnell Abloy Classic, Abloy Disclock, Abloy Profile, ABUS, Anchor Las, Kryptonite, Kensington... und tausende andere Disc-Schlösser. Kostenloser Versand aus Europa und eine lebenslange Garantie.\">",
+    "<meta property=\"og:image\" content=\"/assets/SilverBullet-2-Tool_a50e11e7-1430-4a49-b803-b234f778d1f1.42c6dbdcdf.png\">",
+    "<meta property=\"og:image:secure_url\" content=\"/assets/SilverBullet-2-Tool_a50e11e7-1430-4a49-b803-b234f778d1f1.0d16a3d50f.png\">",
+    "<meta property=\"og:image:width\" content=\"1125\">",
+    "<meta property=\"og:image:height\" content=\"1125\">",
+    "<meta name=\"twitter:card\" content=\"summary_large_image\">",
+    "<meta name=\"twitter:title\" content=\"SilverBullet: Das ultimative Werkzeug zum Aufbrechen von Scheibenschlössern\">",
+    "<meta name=\"twitter:description\" content=\"SilverBullet : Entschlüsseln Sie 99% der Disc-Locks schnell. Entschlüsseln Sie schnell Abloy Classic, Abloy Disclock, Abloy Profile, ABUS, Anchor Las, Kryptonite, Kensington... und tausende andere Disc-Schlösser. Kostenloser Versand aus Europa und eine lebenslange Garantie.\">"
+  ],
+  "ldjson": [],
+  "headExtras": [],
+  "ldjsonBody": [
+    "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/cdn\\/shop\\/files\\/Logo.png?v=1614311477\\u0026width=500\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n",
+    "\n    {\n      \"@context\": \"http://schema.org\",\n      \"@type\": \"WebSite\",\n      \"name\": \"Silver Bullet Tools\",\n      \"potentialAction\": {\n        \"@type\": \"SearchAction\",\n        \"target\": \"https:\\/\\/silverbullet.tools\\/de\\/search?q={search_term_string}\",\n        \"query-input\": \"required name=search_term_string\"\n      },\n      \"url\": \"https:\\/\\/silverbullet.tools\"\n    }\n  "
+  ],
+  "headFile": "head.3.html",
+  "preludeFile": "prelude.2.html",
+  "postludeFile": "postlude.0.html"
+}

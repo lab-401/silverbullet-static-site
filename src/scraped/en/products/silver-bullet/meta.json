@@ -1,0 +1,63 @@
+{
+  "locale": "en",
+  "path": "/products/silver-bullet",
+  "localizedPath": "/products/silver-bullet",
+  "url": "https://silverbullet.tools/products/silver-bullet",
+  "slug": "products/silver-bullet",
+  "htmlAttrs": "<html class=\"no-js\" lang=\"en\">",
+  "bodyAttrs": "<body class=\"gradient\">",
+  "activeNav": [],
+  "title": "Silver Bullet\n – Silver Bullet Tools",
+  "description": "The Silver Bullet is the ultimate disc-lock picking tool, efficient against 97% of disc lock brands on the market.  It is a \"must-have\" for hobbyists and professionals alike.  Each SilverBullet includes: 🛡️ Lifetime Guarantee: Replacement of defective parts 📦 Free world-wide shipping: Rapid and tracked Product Introduc",
+  "canonical": "https://silverbullet.tools/products/silver-bullet",
+  "hreflang": [
+    {
+      "lang": "x-default",
+      "href": "https://silverbullet.tools/products/silver-bullet"
+    },
+    {
+      "lang": "en",
+      "href": "https://silverbullet.tools/products/silver-bullet"
+    },
+    {
+      "lang": "fr",
+      "href": "https://silverbullet.tools/fr/products/silver-bullet"
+    },
+    {
+      "lang": "de",
+      "href": "https://silverbullet.tools/de/products/silver-bullet"
+    },
+    {
+      "lang": "it",
+      "href": "https://silverbullet.tools/it/products/silver-bullet"
+    },
+    {
+      "lang": "es",
+      "href": "https://silverbullet.tools/es/products/silver-bullet"
+    }
+  ],
+  "og": [
+    "<meta property=\"og:site_name\" content=\"Silver Bullet Tools\">",
+    "<meta property=\"og:url\" content=\"https://silverbullet.tools/products/silver-bullet\">",
+    "<meta property=\"og:title\" content=\"Silver Bullet\">",
+    "<meta property=\"og:type\" content=\"product\">",
+    "<meta property=\"og:description\" content=\"The Silver Bullet is the ultimate&nbsp;disc-lock picking tool, efficient against 97% of disc lock brands on the market.&nbsp; It is a &quot;must-have&quot; for&nbsp;hobbyists and professionals alike.&nbsp; Each&nbsp;SilverBullet includes: 🛡️ Lifetime Guarantee: Replacement&nbsp;of defective parts 📦 Free world-wide shipping:&nbsp;Rapid and tracked Product Introduc\">",
+    "<meta property=\"og:image\" content=\"/assets/SilverBullet-2021---Open.b905940250.png\">",
+    "<meta property=\"og:image:secure_url\" content=\"/assets/SilverBullet-2021---Open.13c7240f62.png\">",
+    "<meta property=\"og:image:width\" content=\"1403\">",
+    "<meta property=\"og:image:height\" content=\"1275\">",
+    "<meta property=\"og:price:amount\" content=\"600,00\">",
+    "<meta property=\"og:price:currency\" content=\"EUR\">",
+    "<meta name=\"twitter:card\" content=\"summary_large_image\">",
+    "<meta name=\"twitter:title\" content=\"Silver Bullet\">",
+    "<meta name=\"twitter:description\" content=\"The Silver Bullet is the ultimate&nbsp;disc-lock picking tool, efficient against 97% of disc lock brands on the market.&nbsp; It is a &quot;must-have&quot; for&nbsp;hobbyists and professionals alike.&nbsp; Each&nbsp;SilverBullet includes: 🛡️ Lifetime Guarantee: Replacement&nbsp;of defective parts 📦 Free world-wide shipping:&nbsp;Rapid and tracked Product Introduc\">"
+  ],
+  "ldjson": [],
+  "headExtras": [],
+  "ldjsonBody": [
+    "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/cdn\\/shop\\/files\\/Logo.png?v=1614311477\\u0026width=500\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+  ],
+  "headFile": "head.5.html",
+  "preludeFile": "prelude.0.html",
+  "postludeFile": "postlude.0.html"
+}

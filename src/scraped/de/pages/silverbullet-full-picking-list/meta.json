@@ -1,0 +1,61 @@
+{
+  "locale": "de",
+  "path": "/pages/silverbullet-full-picking-list",
+  "localizedPath": "/de/pages/silverbullet-full-picking-list",
+  "url": "https://silverbullet.tools/de/pages/silverbullet-full-picking-list",
+  "slug": "pages/silverbullet-full-picking-list",
+  "htmlAttrs": "<html class=\"no-js\" lang=\"de\">",
+  "bodyAttrs": "<body class=\"gradient\">",
+  "activeNav": [],
+  "title": "SilverBullet Komplette Picking-Kompatibilitätsliste\n – Silver Bullet Tools",
+  "description": "Das SilverBullet wurde mit den folgenden Marken und Modellen getestet und bestätigt. Bitte beachten Sie, dass diese Liste nicht erschöpfend ist - das Tool ist gegen 97% aller Disclocks wirksam. Abloy Disclock (alte Version) Abus Granit (alle Versionen) Abus Plus Abus Plus RK-Reihe Abus X-Plus IFAM Schlagstock Gerda Sil",
+  "canonical": "https://silverbullet.tools/de/pages/silverbullet-full-picking-list",
+  "hreflang": [
+    {
+      "lang": "x-default",
+      "href": "https://silverbullet.tools/pages/silverbullet-full-picking-list"
+    },
+    {
+      "lang": "en",
+      "href": "https://silverbullet.tools/pages/silverbullet-full-picking-list"
+    },
+    {
+      "lang": "fr",
+      "href": "https://silverbullet.tools/fr/pages/silverbullet-full-picking-list"
+    },
+    {
+      "lang": "de",
+      "href": "https://silverbullet.tools/de/pages/silverbullet-full-picking-list"
+    },
+    {
+      "lang": "it",
+      "href": "https://silverbullet.tools/it/pages/silverbullet-full-picking-list"
+    },
+    {
+      "lang": "es",
+      "href": "https://silverbullet.tools/es/pages/silverbullet-full-picking-list"
+    }
+  ],
+  "og": [
+    "<meta property=\"og:site_name\" content=\"Silver Bullet Tools\">",
+    "<meta property=\"og:url\" content=\"https://silverbullet.tools/de/pages/silverbullet-full-picking-list\">",
+    "<meta property=\"og:title\" content=\"SilverBullet Komplette Picking-Kompatibilitätsliste\">",
+    "<meta property=\"og:type\" content=\"website\">",
+    "<meta property=\"og:description\" content=\"Das SilverBullet wurde mit den folgenden Marken und Modellen getestet und bestätigt. Bitte beachten Sie, dass diese Liste nicht erschöpfend ist - das Tool ist gegen 97% aller Disclocks wirksam. Abloy Disclock (alte Version) Abus Granit (alle Versionen) Abus Plus Abus Plus RK-Reihe Abus X-Plus IFAM Schlagstock Gerda Sil\">",
+    "<meta property=\"og:image\" content=\"/assets/SilverBullet-2-Tool_a50e11e7-1430-4a49-b803-b234f778d1f1.42c6dbdcdf.png\">",
+    "<meta property=\"og:image:secure_url\" content=\"/assets/SilverBullet-2-Tool_a50e11e7-1430-4a49-b803-b234f778d1f1.0d16a3d50f.png\">",
+    "<meta property=\"og:image:width\" content=\"1125\">",
+    "<meta property=\"og:image:height\" content=\"1125\">",
+    "<meta name=\"twitter:card\" content=\"summary_large_image\">",
+    "<meta name=\"twitter:title\" content=\"SilverBullet Komplette Picking-Kompatibilitätsliste\">",
+    "<meta name=\"twitter:description\" content=\"Das SilverBullet wurde mit den folgenden Marken und Modellen getestet und bestätigt. Bitte beachten Sie, dass diese Liste nicht erschöpfend ist - das Tool ist gegen 97% aller Disclocks wirksam. Abloy Disclock (alte Version) Abus Granit (alle Versionen) Abus Plus Abus Plus RK-Reihe Abus X-Plus IFAM Schlagstock Gerda Sil\">"
+  ],
+  "ldjson": [],
+  "headExtras": [],
+  "ldjsonBody": [
+    "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/cdn\\/shop\\/files\\/Logo.png?v=1614311477\\u0026width=500\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/de\\/pages\\/silverbullet-full-picking-list\"\n  }\n"
+  ],
+  "headFile": "head.0.html",
+  "preludeFile": "prelude.0.html",
+  "postludeFile": "postlude.0.html"
+}

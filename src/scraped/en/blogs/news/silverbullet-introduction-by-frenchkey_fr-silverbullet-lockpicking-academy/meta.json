@@ -1,0 +1,63 @@
+{
+  "locale": "en",
+  "path": "/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy",
+  "localizedPath": "/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy",
+  "url": "https://silverbullet.tools/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy",
+  "slug": "blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy",
+  "htmlAttrs": "<html class=\"no-js\" lang=\"en\">",
+  "bodyAttrs": "<body class=\"gradient\">",
+  "activeNav": [],
+  "title": "SilverBullet introduction by FrenchKey_FR - SilverBullet Lockpicking a\n – Silver Bullet Tools",
+  "description": "Hi guys, today is a big day, we are happy to Welcome the world-famous lockpicking guru FrenchKey_fr who will launch the SilverBullet Lockpicking academy. FrenchKey_fr produced a series of videos for SilverBullet and we are excited to partner with such a skilled gentleman. We will release a video every Monday, so stay t",
+  "canonical": "https://silverbullet.tools/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy",
+  "hreflang": [
+    {
+      "lang": "x-default",
+      "href": "https://silverbullet.tools/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy"
+    },
+    {
+      "lang": "en",
+      "href": "https://silverbullet.tools/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy"
+    },
+    {
+      "lang": "fr",
+      "href": "https://silverbullet.tools/fr/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy"
+    },
+    {
+      "lang": "de",
+      "href": "https://silverbullet.tools/de/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy"
+    },
+    {
+      "lang": "it",
+      "href": "https://silverbullet.tools/it/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy"
+    },
+    {
+      "lang": "es",
+      "href": "https://silverbullet.tools/es/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy"
+    }
+  ],
+  "og": [
+    "<meta property=\"og:site_name\" content=\"Silver Bullet Tools\">",
+    "<meta property=\"og:url\" content=\"https://silverbullet.tools/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy\">",
+    "<meta property=\"og:title\" content=\"SilverBullet introduction by FrenchKey_FR - SilverBullet Lockpicking a\">",
+    "<meta property=\"og:type\" content=\"article\">",
+    "<meta property=\"og:description\" content=\"Hi guys, today is a big day, we are happy to Welcome the world-famous lockpicking guru FrenchKey_fr who will launch the SilverBullet Lockpicking academy. FrenchKey_fr produced a series of videos for SilverBullet and we are excited to partner with such a skilled gentleman. We will release a video every Monday, so stay t\">",
+    "<meta property=\"og:image\" content=\"/assets/Presentation.3489f1025d.jpg\">",
+    "<meta property=\"og:image:secure_url\" content=\"/assets/Presentation.ef70830893.jpg\">",
+    "<meta property=\"og:image:width\" content=\"1280\">",
+    "<meta property=\"og:image:height\" content=\"720\">",
+    "<meta name=\"twitter:card\" content=\"summary_large_image\">",
+    "<meta name=\"twitter:title\" content=\"SilverBullet introduction by FrenchKey_FR - SilverBullet Lockpicking a\">",
+    "<meta name=\"twitter:description\" content=\"Hi guys, today is a big day, we are happy to Welcome the world-famous lockpicking guru FrenchKey_fr who will launch the SilverBullet Lockpicking academy. FrenchKey_fr produced a series of videos for SilverBullet and we are excited to partner with such a skilled gentleman. We will release a video every Monday, so stay t\">"
+  ],
+  "ldjson": [],
+  "headExtras": [
+    "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/blogs/news.atom\">"
+  ],
+  "ldjsonBody": [
+    "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/cdn\\/shop\\/files\\/Logo.png?v=1614311477\\u0026width=500\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+  ],
+  "headFile": "head.0.html",
+  "preludeFile": "prelude.0.html",
+  "postludeFile": "postlude.0.html"
+}

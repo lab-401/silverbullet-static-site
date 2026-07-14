@@ -1,0 +1,64 @@
+{
+  "locale": "es",
+  "path": "/",
+  "localizedPath": "/es",
+  "url": "https://silverbullet.tools/es/",
+  "slug": "index",
+  "htmlAttrs": "<html class=\"no-js\" lang=\"es\">",
+  "bodyAttrs": "<body class=\"gradient\">",
+  "activeNav": [
+    "/es"
+  ],
+  "title": "SilverBullet: La herramienta definitiva para abrir cerraduras de disco\n – Silver Bullet Tools",
+  "description": "SilverBullet : Abrir y decodifique rápidamente el 99% de los disc-locks. Seleccione rápidamente Abloy Classic, Abloy Disclock, Abloy Profile, ABUS, Anchor Las, Kryptonite, Kensington.. y miles de otros disc-locks. Envío gratuito desde Europa y garantía de por vida.",
+  "canonical": "https://silverbullet.tools/es",
+  "hreflang": [
+    {
+      "lang": "x-default",
+      "href": "https://silverbullet.tools/"
+    },
+    {
+      "lang": "en",
+      "href": "https://silverbullet.tools/"
+    },
+    {
+      "lang": "fr",
+      "href": "https://silverbullet.tools/fr"
+    },
+    {
+      "lang": "de",
+      "href": "https://silverbullet.tools/de"
+    },
+    {
+      "lang": "it",
+      "href": "https://silverbullet.tools/it"
+    },
+    {
+      "lang": "es",
+      "href": "https://silverbullet.tools/es"
+    }
+  ],
+  "og": [
+    "<meta property=\"og:site_name\" content=\"Silver Bullet Tools\">",
+    "<meta property=\"og:url\" content=\"https://silverbullet.tools/es\">",
+    "<meta property=\"og:title\" content=\"SilverBullet: La herramienta definitiva para abrir cerraduras de disco\">",
+    "<meta property=\"og:type\" content=\"website\">",
+    "<meta property=\"og:description\" content=\"SilverBullet : Abrir y decodifique rápidamente el 99% de los disc-locks. Seleccione rápidamente Abloy Classic, Abloy Disclock, Abloy Profile, ABUS, Anchor Las, Kryptonite, Kensington.. y miles de otros disc-locks. Envío gratuito desde Europa y garantía de por vida.\">",
+    "<meta property=\"og:image\" content=\"/assets/SilverBullet-2-Tool_a50e11e7-1430-4a49-b803-b234f778d1f1.42c6dbdcdf.png\">",
+    "<meta property=\"og:image:secure_url\" content=\"/assets/SilverBullet-2-Tool_a50e11e7-1430-4a49-b803-b234f778d1f1.0d16a3d50f.png\">",
+    "<meta property=\"og:image:width\" content=\"1125\">",
+    "<meta property=\"og:image:height\" content=\"1125\">",
+    "<meta name=\"twitter:card\" content=\"summary_large_image\">",
+    "<meta name=\"twitter:title\" content=\"SilverBullet: La herramienta definitiva para abrir cerraduras de disco\">",
+    "<meta name=\"twitter:description\" content=\"SilverBullet : Abrir y decodifique rápidamente el 99% de los disc-locks. Seleccione rápidamente Abloy Classic, Abloy Disclock, Abloy Profile, ABUS, Anchor Las, Kryptonite, Kensington.. y miles de otros disc-locks. Envío gratuito desde Europa y garantía de por vida.\">"
+  ],
+  "ldjson": [],
+  "headExtras": [],
+  "ldjsonBody": [
+    "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/cdn\\/shop\\/files\\/Logo.png?v=1614311477\\u0026width=500\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n",
+    "\n    {\n      \"@context\": \"http://schema.org\",\n      \"@type\": \"WebSite\",\n      \"name\": \"Silver Bullet Tools\",\n      \"potentialAction\": {\n        \"@type\": \"SearchAction\",\n        \"target\": \"https:\\/\\/silverbullet.tools\\/es\\/search?q={search_term_string}\",\n        \"query-input\": \"required name=search_term_string\"\n      },\n      \"url\": \"https:\\/\\/silverbullet.tools\"\n    }\n  "
+  ],
+  "headFile": "head.2.html",
+  "preludeFile": "prelude.2.html",
+  "postludeFile": "postlude.0.html"
+}
