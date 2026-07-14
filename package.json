@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build && node scripts/apply-base.mjs",
+    "build": "astro build && node scripts/apply-base.mjs && node scripts/gen-seo-files.mjs",
     "build:pages": "cross-env BASE_PATH=/silverbullet-static-site/ SITE_URL=https://lab-401.github.io/silverbullet-static-site STAGING=1 npm run build",
     "preview": "astro preview",
     "scrape": "node scripts/scrape.mjs"

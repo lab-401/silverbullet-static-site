@@ -121,6 +121,22 @@ function rewriteUrls(html) {
   });
 }
 
+// JSON-escaped CDN URLs inside ld+json blocks (https:\/\/silverbullet.tools\/cdn\/...)
+// are rewritten to absolute final-domain asset URLs, keeping JSON escaping.
+const ESCAPED_URL_RE = /https?:\\\/\\\/(?:silverbullet\.tools\\\/cdn|cdn\.shopify\.com|fonts\.shopifycdn\.com)\\\/[^"\s\\]+(?:\\\/[^"\s\\]+|\\u0026[^"\s\\]+)*/g;
+function rewriteEscapedUrls(html) {
+  return html.replace(ESCAPED_URL_RE, (m) => {
+    const unescaped = m.replace(/\\\//g, '/').replace(/\\u0026/gi, '&');
+    const norm = normalizeUrl(unescaped);
+    const mapped = assetsMap[norm];
+    if (!mapped) {
+      unmapped.add(norm);
+      return m;
+    }
+    return `https:\\/\\/silverbullet.tools\\/assets\\/${mapped}`;
+  });
+}
+
 // locale-equivalent path for the language switcher
 function localeHref(targetLocale, enPath) {
   const p = enPath === '/' ? '/' : enPath;
@@ -134,7 +150,7 @@ for (const entry of manifest) {
   const locale = entry.locale;
   const enPath = decodeURIComponent(entry.path); // path without locale prefix
   let html = await readFile(path.join(ROOT, entry.file), 'utf8');
-  html = rewriteUrls(html);
+  html = rewriteEscapedUrls(rewriteUrls(html));
 
   const $ = load(html);
   const stats = { page: `${locale}${enPath}`, scriptsStripped: 0, scriptsKept: 0, formsNeutralized: 0, buyButtons: 0 };

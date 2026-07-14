@@ -22,6 +22,10 @@ prelude = applyActiveNav(applyLangHrefs(prelude, page.path), page.activeNav);
 postlude = applyLangHrefs(postlude, page.path);
 
 const ldjson = [...(page.ldjson || []), ...(page.ldjsonBody || [])];
+
+// og:image & friends must be absolute; asset URLs were localized to /assets/...
+const site = (Astro.site?.href || 'https://silverbullet.tools/').replace(/\/$/, '');
+const og = (page.og || []).map((s) => s.replaceAll('content="/assets/', `content="${site}/assets/`));
 ---
 
 <html {...htmlAttrs}>
@@ -31,7 +35,7 @@ const ldjson = [...(page.ldjson || []), ...(page.ldjsonBody || [])];
     {page.description && <meta name="description" content={page.description} />}
     {page.canonical && <link rel="canonical" href={page.canonical} />}
     {page.hreflang.map((h) => <link rel="alternate" hreflang={h.lang} href={h.href} />)}
-    <Fragment set:html={(page.og || []).join('\n')} />
+    <Fragment set:html={og.join('\n')} />
     <Fragment set:html={(page.headExtras || []).join('\n')} />
     {ldjson.map((s) => <script type="application/ld+json" set:html={s} />)}
     {staging && <meta name="robots" content="noindex, nofollow" />}
