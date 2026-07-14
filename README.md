@@ -65,6 +65,16 @@ langify's browser-language auto-redirect is disabled (bad for SEO/UX);
 translations are the original server-rendered locale pages (source
 translations), served as static per-locale HTML with hreflang clusters.
 
+The 16 locale product pages (never translated on the live site) are
+translated by `scripts/translate-products.mjs`: source-translation glossary
+harvested from the locale pages, DeepL Pro (key read at runtime from
+`DEEPL_KEY` env or the stock-bot config — never committed) with a brand +
+domain-term glossary and lock-picking context, cached in
+`scrape/translations-cache.json` (re-runs cost zero API characters). Run
+order: clean → split → translate-products → patch-assets (`npm run
+pipeline`). The fidelity verifier checks these pages structurally
+(markup must match the EN template; text may differ).
+
 ## QA
 
 ```bash

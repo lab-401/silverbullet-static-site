@@ -4,12 +4,12 @@
   "localizedPath": "/es/products/replacement-case",
   "url": "https://silverbullet.tools/es/products/replacement-case",
   "slug": "products/replacement-case",
-  "htmlAttrs": "<html class=\"no-js\" lang=\"en\">",
+  "htmlAttrs": "<html class=\"no-js\" lang=\"es\">",
   "bodyAttrs": "<body class=\"gradient\">",
   "activeNav": [],
-  "title": "SilverBullet Spare Case\n – Silver Bullet Tools",
-  "description": "High-quality replacement case for your SilverBullet Tool. Compact and sturdy, fits perfectly into your pocket or everyday carry bag. Latest generation SilverBullet Case: 🛡️ Built Tough: Shock resistant ABS 📦 Built Smart: High quality molded internal foam Product Introduction After much demand, the latest generation Sil",
-  "canonical": "https://silverbullet.tools/products/replacement-case",
+  "title": "SilverBullet Spare Case – Silver Bullet Tools",
+  "description": "Estuche de repuesto de alta calidad para tu herramienta SilverBullet. Compacto y resistente, cabe perfectamente en tu bolsillo o en tu bolso de uso diario. Estuche SilverBullet de última generación: 🛡️ Fabricado para resistir: ABS resistente a los golpes 📦 Diseño inteligente: espuma moldeada interna de alta calidad. Presentación del producto: Tras una gran demanda, la última generación de Sil",
+  "canonical": "https://silverbullet.tools/es/products/replacement-case",
   "hreflang": [
     {
       "lang": "x-default",
@@ -38,10 +38,10 @@
   ],
   "og": [
     "<meta property=\"og:site_name\" content=\"Silver Bullet Tools\">",
-    "<meta property=\"og:url\" content=\"https://silverbullet.tools/products/replacement-case\">",
+    "<meta property=\"og:url\" content=\"https://silverbullet.tools/es/products/replacement-case\">",
     "<meta property=\"og:title\" content=\"SilverBullet Spare Case\">",
     "<meta property=\"og:type\" content=\"product\">",
-    "<meta property=\"og:description\" content=\"High-quality replacement case for your SilverBullet Tool. Compact and sturdy, fits perfectly into your pocket or everyday carry bag. Latest generation SilverBullet Case: 🛡️ Built Tough: Shock resistant ABS 📦 Built Smart:&nbsp;High quality molded internal foam Product Introduction After much demand, the latest generation Sil\">",
+    "<meta property=\"og:description\" content=\"Estuche de repuesto de alta calidad para tu herramienta SilverBullet. Compacto y resistente, cabe perfectamente en tu bolsillo o en tu bolso de uso diario. Estuche SilverBullet de última generación: 🛡️ Fabricación resistente: ABS resistente a los golpes 📦 Diseño inteligente: espuma moldeada interna de alta calidad. Presentación del producto: Tras una gran demanda, la última generación de Sil\">",
     "<meta property=\"og:image\" content=\"/assets/SilverBullet-2021---Closed_1e17e7ba-3a3e-467a-8d97-0016a2bf1976.58bcb7b861.png\">",
     "<meta property=\"og:image:secure_url\" content=\"/assets/SilverBullet-2021---Closed_1e17e7ba-3a3e-467a-8d97-0016a2bf1976.95e248df9c.png\">",
     "<meta property=\"og:image:width\" content=\"1403\">",
@@ -50,7 +50,7 @@
     "<meta property=\"og:price:currency\" content=\"EUR\">",
     "<meta name=\"twitter:card\" content=\"summary_large_image\">",
     "<meta name=\"twitter:title\" content=\"SilverBullet Spare Case\">",
-    "<meta name=\"twitter:description\" content=\"High-quality replacement case for your SilverBullet Tool. Compact and sturdy, fits perfectly into your pocket or everyday carry bag. Latest generation SilverBullet Case: 🛡️ Built Tough: Shock resistant ABS 📦 Built Smart:&nbsp;High quality molded internal foam Product Introduction After much demand, the latest generation Sil\">"
+    "<meta name=\"twitter:description\" content=\"Estuche de repuesto de alta calidad para tu herramienta SilverBullet. Compacto y resistente, cabe perfectamente en tu bolsillo o en tu bolso de uso diario. Estuche SilverBullet de última generación: 🛡️ Fabricación resistente: ABS resistente a los golpes 📦 Diseño inteligente: espuma moldeada interna de alta calidad. Presentación del producto: Tras una gran demanda, la última generación de Sil\">"
   ],
   "ldjson": [],
   "headExtras": [],
@@ -58,6 +58,7 @@
     "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
   ],
   "headFile": "head.2.html",
-  "preludeFile": "prelude.1.html",
-  "postludeFile": "postlude.1.html"
+  "preludeFile": "prelude.0.html",
+  "postludeFile": "postlude.0.html",
+  "translated": true
 }

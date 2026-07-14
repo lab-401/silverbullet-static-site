@@ -4,12 +4,12 @@
   "localizedPath": "/de/products/silver-bullet",
   "url": "https://silverbullet.tools/de/products/silver-bullet",
   "slug": "products/silver-bullet",
-  "htmlAttrs": "<html class=\"no-js\" lang=\"en\">",
+  "htmlAttrs": "<html class=\"no-js\" lang=\"de\">",
   "bodyAttrs": "<body class=\"gradient\">",
   "activeNav": [],
-  "title": "Silver Bullet\n – Silver Bullet Tools",
-  "description": "The Silver Bullet is the ultimate disc-lock picking tool, efficient against 97% of disc lock brands on the market.  It is a \"must-have\" for hobbyists and professionals alike.  Each SilverBullet includes: 🛡️ Lifetime Guarantee: Replacement of defective parts 📦 Free world-wide shipping: Rapid and tracked Product Introduc",
-  "canonical": "https://silverbullet.tools/products/silver-bullet",
+  "title": "Silver Bullet – Silver Bullet Tools",
+  "description": "Der Silver Bullet ist das ultimative Werkzeug zum Knacken von Scheibenschlössern und wirkt bei 97 % der auf dem Markt erhältlichen Scheibenschlossmarken. Er ist ein „Must-Have“ für Hobby- und Profianwender gleichermaßen. Jedes SilverBullet-Set enthält: 🛡️ Lebenslange Garantie: Austausch defekter Teile 📦 Kostenloser weltweiter Versand: Schnell und mit Sendungsverfolgung Produktvorstellung",
+  "canonical": "https://silverbullet.tools/de/products/silver-bullet",
   "hreflang": [
     {
       "lang": "x-default",
@@ -38,10 +38,10 @@
   ],
   "og": [
     "<meta property=\"og:site_name\" content=\"Silver Bullet Tools\">",
-    "<meta property=\"og:url\" content=\"https://silverbullet.tools/products/silver-bullet\">",
+    "<meta property=\"og:url\" content=\"https://silverbullet.tools/de/products/silver-bullet\">",
     "<meta property=\"og:title\" content=\"Silver Bullet\">",
     "<meta property=\"og:type\" content=\"product\">",
-    "<meta property=\"og:description\" content=\"The Silver Bullet is the ultimate&nbsp;disc-lock picking tool, efficient against 97% of disc lock brands on the market.&nbsp; It is a &quot;must-have&quot; for&nbsp;hobbyists and professionals alike.&nbsp; Each&nbsp;SilverBullet includes: 🛡️ Lifetime Guarantee: Replacement&nbsp;of defective parts 📦 Free world-wide shipping:&nbsp;Rapid and tracked Product Introduc\">",
+    "<meta property=\"og:description\" content=\"Der Silver Bullet ist das ultimative Werkzeug zum Knacken von Scheibenschlössern und wirkt bei 97 % der auf dem Markt erhältlichen Scheibenschlossmarken.&amp;nbsp; Er ist ein „Must-Have“ für&amp;nbsp;Hobbyisten und Profis gleichermaßen.&amp;nbsp; Jedes SilverBullet umfasst: 🛡️ Lebenslange Garantie: Austausch defekter Teile 📦 Kostenloser weltweiter Versand: Schnell und mit Sendungsverfolgung Produktvorstellung\">",
     "<meta property=\"og:image\" content=\"/assets/SilverBullet-2021---Open.b905940250.png\">",
     "<meta property=\"og:image:secure_url\" content=\"/assets/SilverBullet-2021---Open.13c7240f62.png\">",
     "<meta property=\"og:image:width\" content=\"1403\">",
@@ -50,7 +50,7 @@
     "<meta property=\"og:price:currency\" content=\"EUR\">",
     "<meta name=\"twitter:card\" content=\"summary_large_image\">",
     "<meta name=\"twitter:title\" content=\"Silver Bullet\">",
-    "<meta name=\"twitter:description\" content=\"The Silver Bullet is the ultimate&nbsp;disc-lock picking tool, efficient against 97% of disc lock brands on the market.&nbsp; It is a &quot;must-have&quot; for&nbsp;hobbyists and professionals alike.&nbsp; Each&nbsp;SilverBullet includes: 🛡️ Lifetime Guarantee: Replacement&nbsp;of defective parts 📦 Free world-wide shipping:&nbsp;Rapid and tracked Product Introduc\">"
+    "<meta name=\"twitter:description\" content=\"Der Silver Bullet ist das ultimative Werkzeug zum Knacken von Scheibenschlössern und wirkt bei 97 % der auf dem Markt erhältlichen Scheibenschlossmarken.&amp;nbsp; Er ist ein „Must-Have“ für&amp;nbsp;Hobbyisten und Profis gleichermaßen.&amp;nbsp; Jedes SilverBullet umfasst: 🛡️ Lebenslange Garantie: Austausch defekter Teile 📦 Kostenloser weltweiter Versand: Schnell und mit Sendungsverfolgung Produktvorstellung\">"
   ],
   "ldjson": [],
   "headExtras": [],
@@ -58,6 +58,7 @@
     "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
   ],
   "headFile": "head.2.html",
-  "preludeFile": "prelude.1.html",
-  "postludeFile": "postlude.1.html"
+  "preludeFile": "prelude.0.html",
+  "postludeFile": "postlude.0.html",
+  "translated": true
 }

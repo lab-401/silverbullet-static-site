@@ -4,12 +4,12 @@
   "localizedPath": "/es/products/spare-tips",
   "url": "https://silverbullet.tools/es/products/spare-tips",
   "slug": "products/spare-tips",
-  "htmlAttrs": "<html class=\"no-js\" lang=\"en\">",
+  "htmlAttrs": "<html class=\"no-js\" lang=\"es\">",
   "bodyAttrs": "<body class=\"gradient\">",
   "activeNav": [],
-  "title": "SilverBullet Spare Tips\n – Silver Bullet Tools",
-  "description": "Spare tips for your SilverBullet: All feelers and tensioners are now available for individual purchase. 70% discount for existing SilverBullet customers!Please use the \"SPARE-TIPS\" discount code at checkout. SilverBullet Spare Tips Whether it's to replace a broken tip, or have a spare tip, all original SilverBullet Fee",
-  "canonical": "https://silverbullet.tools/products/spare-tips",
+  "title": "Puntas de repuesto SilverBullet – Silver Bullet Tools",
+  "description": "Puntas de recambio para tu SilverBullet: todas las puntas palpadoras y los tensores ya están disponibles para su compra individual. ¡70 % de descuento para los clientes actuales de SilverBullet! Utiliza el código de descuento «SPARE-TIPS» al finalizar la compra. Puntas de repuesto para SilverBullet: ya sea para sustituir una punta rota o para tener una de repuesto, todas las puntas originales de SilverBullet...",
+  "canonical": "https://silverbullet.tools/es/products/spare-tips",
   "hreflang": [
     {
       "lang": "x-default",
@@ -38,10 +38,10 @@
   ],
   "og": [
     "<meta property=\"og:site_name\" content=\"Silver Bullet Tools\">",
-    "<meta property=\"og:url\" content=\"https://silverbullet.tools/products/spare-tips\">",
-    "<meta property=\"og:title\" content=\"SilverBullet Spare Tips\">",
+    "<meta property=\"og:url\" content=\"https://silverbullet.tools/es/products/spare-tips\">",
+    "<meta property=\"og:title\" content=\"Puntas de repuesto SilverBullet\">",
     "<meta property=\"og:type\" content=\"product\">",
-    "<meta property=\"og:description\" content=\"Spare tips for your SilverBullet: All feelers and tensioners are now available for individual purchase. 70% discount for existing SilverBullet customers!Please use the &quot;SPARE-TIPS&quot; discount code at checkout. SilverBullet Spare Tips Whether it's to replace a broken tip, or have a spare tip, all original SilverBullet Fee\">",
+    "<meta property=\"og:description\" content=\"Puntas de recambio para tu SilverBullet: todas las puntas palpadoras y los tensores ya están disponibles para su compra individual. ¡70 % de descuento para los clientes actuales de SilverBullet! Utiliza el código de descuento «SPARE-TIPS» al finalizar la compra. Puntas de repuesto para SilverBullet: ya sea para sustituir una punta rota o para tener una de repuesto, todas las puntas originales de SilverBullet...\">",
     "<meta property=\"og:image\" content=\"/assets/SB-Spare-Tips.7fdd6bd7ce.png\">",
     "<meta property=\"og:image:secure_url\" content=\"/assets/SB-Spare-Tips.e3a4ff4315.png\">",
     "<meta property=\"og:image:width\" content=\"2432\">",
@@ -49,8 +49,8 @@
     "<meta property=\"og:price:amount\" content=\"150,00\">",
     "<meta property=\"og:price:currency\" content=\"EUR\">",
     "<meta name=\"twitter:card\" content=\"summary_large_image\">",
-    "<meta name=\"twitter:title\" content=\"SilverBullet Spare Tips\">",
-    "<meta name=\"twitter:description\" content=\"Spare tips for your SilverBullet: All feelers and tensioners are now available for individual purchase. 70% discount for existing SilverBullet customers!Please use the &quot;SPARE-TIPS&quot; discount code at checkout. SilverBullet Spare Tips Whether it's to replace a broken tip, or have a spare tip, all original SilverBullet Fee\">"
+    "<meta name=\"twitter:title\" content=\"Puntas de repuesto SilverBullet\">",
+    "<meta name=\"twitter:description\" content=\"Puntas de recambio para tu SilverBullet: todas las puntas palpadoras y los tensores ya están disponibles para su compra individual. ¡70 % de descuento para los clientes actuales de SilverBullet! Utiliza el código de descuento «SPARE-TIPS» al finalizar la compra. Puntas de repuesto para SilverBullet: ya sea para sustituir una punta rota o para tener una de repuesto, todas las puntas originales de SilverBullet...\">"
   ],
   "ldjson": [],
   "headExtras": [],
@@ -58,6 +58,7 @@
     "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
   ],
   "headFile": "head.2.html",
-  "preludeFile": "prelude.1.html",
-  "postludeFile": "postlude.1.html"
+  "preludeFile": "prelude.0.html",
+  "postludeFile": "postlude.0.html",
+  "translated": true
 }

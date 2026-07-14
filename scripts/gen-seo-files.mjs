@@ -1,7 +1,7 @@
 // Generates dist/sitemap.xml, robots.txt, agents.md, llms.txt, .nojekyll
 // SITE_URL: origin used for sitemap/robots links (default final domain).
 // STAGING=1: robots.txt disallows everything (pages also carry noindex meta).
-import { readFile, writeFile } from 'node:fs/promises';
+import { readFile, writeFile, readdir } from 'node:fs/promises';
 import path from 'node:path';
 
 const ROOT = new URL('..', import.meta.url).pathname.replace(/^\/([A-Za-z]:)/, '$1');
@@ -11,7 +11,20 @@ const FINAL = 'https://silverbullet.tools'; // canonical domain, independent of 
 const STAGING = !!process.env.STAGING;
 const TODAY = new Date().toISOString().slice(0, 10);
 
-const split = JSON.parse(await readFile(path.join(ROOT, 'scrape', 'split-report.json'), 'utf8'));
+// read page records from the live meta.json files (split-report.json predates
+// the product-translation step, which rewrites canonicals in place)
+async function* walk(dir) {
+  for (const e of await readdir(dir, { withFileTypes: true })) {
+    const p = path.join(dir, e.name);
+    if (e.isDirectory()) yield* walk(p);
+    else if (e.name === 'meta.json') yield p;
+  }
+}
+const records = [];
+for await (const f of walk(path.join(ROOT, 'src', 'scraped'))) {
+  records.push(JSON.parse(await readFile(f, 'utf8')));
+}
+const split = { pages: records };
 const LOCALES = ['en', 'fr', 'de', 'it', 'es'];
 
 // A page earns a sitemap/hreflang slot only if its canonical is itself.
@@ -120,11 +133,12 @@ The country/currency selector was removed entirely (all prices are EUR).
 
 ## Languages
 
-Content is available in English (default), French (/fr), German (/de),
-Italian (/it), and Spanish (/es). Note: product pages are English-only (the
-locale-prefixed product URLs serve English content and canonicalize to the
-English URLs). Language alternates are declared via hreflang link tags and
-in ${SITE}/sitemap.xml.
+All content, including product pages, is available in English (default),
+French (/fr), German (/de), Italian (/it), and Spanish (/es). Product pages
+are translated from the English source (DeepL, using the store's original
+terminology); all other pages carry the store's original translations.
+Language alternates are declared via hreflang link tags and in
+${SITE}/sitemap.xml.
 
 ## Notes for agents
 
@@ -142,7 +156,7 @@ const llms = `# Silver Bullet Tools
 > Official site of the SilverBullet 2, a precision tool to pick and decode
 > disc-detainer (disc-based) locks — for locksmiths, security professionals,
 > and lockpicking sport enthusiasts. Free worldwide shipping, lifetime
-> guarantee. Content in en/fr/de/it/es (product pages English-only).
+> guarantee. All content available in en/fr/de/it/es.
 > Checkout is temporarily offline during a store migration; buy buttons are
 > placeholders (see /agents.md).
 
