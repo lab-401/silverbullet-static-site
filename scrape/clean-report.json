@@ -2,772 +2,772 @@
   "pages": [
     {
       "page": "en/",
-      "scriptsStripped": 32,
-      "scriptsKept": 32,
-      "formsNeutralized": 8,
+      "scriptsStripped": 39,
+      "scriptsKept": 25,
+      "formsNeutralized": 9,
       "buyButtons": 1
     },
     {
       "page": "en/products/spare-tips",
-      "scriptsStripped": 32,
-      "scriptsKept": 29,
-      "formsNeutralized": 6,
+      "scriptsStripped": 38,
+      "scriptsKept": 23,
+      "formsNeutralized": 7,
       "buyButtons": 1
     },
     {
       "page": "en/pages/how-to-use-the-silver-bullet",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "en/products/silver-bullet-2",
-      "scriptsStripped": 32,
-      "scriptsKept": 28,
-      "formsNeutralized": 6,
+      "scriptsStripped": 38,
+      "scriptsKept": 22,
+      "formsNeutralized": 7,
       "buyButtons": 1
     },
     {
       "page": "en/products/silver-bullet",
-      "scriptsStripped": 32,
-      "scriptsKept": 28,
-      "formsNeutralized": 6,
+      "scriptsStripped": 38,
+      "scriptsKept": 22,
+      "formsNeutralized": 7,
       "buyButtons": 1
     },
     {
       "page": "en/products/replacement-case",
-      "scriptsStripped": 32,
-      "scriptsKept": 28,
-      "formsNeutralized": 6,
+      "scriptsStripped": 38,
+      "scriptsKept": 22,
+      "formsNeutralized": 7,
       "buyButtons": 1
     },
     {
       "page": "en/pages/privacy-policy",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "en/pages/terms-conditions",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "en/pages/faq",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "en/pages/silverbullet-full-picking-list",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "en/pages/warranty-returns-policy",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "en/pages/shipping-information",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "en/collections/frontpage",
-      "scriptsStripped": 30,
-      "scriptsKept": 22,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 17,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "en/blogs/news",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "en/blogs/news/silverbullet-official-launch",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "en/blogs/news/getting-started-with-the-silver-bullet",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "en/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "en/blogs/news/silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "en/blogs/news/silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-tool",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "en/blogs/news/bastille-day-10-sale",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "en/blogs/news/spare-tips-now-available",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "en/blogs/news/🌟-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extravaganza-🎉",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "fr/",
-      "scriptsStripped": 32,
-      "scriptsKept": 32,
-      "formsNeutralized": 8,
+      "scriptsStripped": 39,
+      "scriptsKept": 25,
+      "formsNeutralized": 9,
       "buyButtons": 1
     },
     {
       "page": "fr/products/replacement-case",
-      "scriptsStripped": 32,
-      "scriptsKept": 28,
-      "formsNeutralized": 6,
+      "scriptsStripped": 38,
+      "scriptsKept": 22,
+      "formsNeutralized": 7,
       "buyButtons": 1
     },
     {
       "page": "fr/products/silver-bullet",
-      "scriptsStripped": 32,
-      "scriptsKept": 28,
-      "formsNeutralized": 6,
+      "scriptsStripped": 38,
+      "scriptsKept": 22,
+      "formsNeutralized": 7,
       "buyButtons": 1
     },
     {
       "page": "fr/products/spare-tips",
-      "scriptsStripped": 32,
-      "scriptsKept": 29,
-      "formsNeutralized": 6,
+      "scriptsStripped": 38,
+      "scriptsKept": 23,
+      "formsNeutralized": 7,
       "buyButtons": 1
     },
     {
       "page": "fr/pages/how-to-use-the-silver-bullet",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "fr/pages/privacy-policy",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "fr/pages/terms-conditions",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "fr/products/silver-bullet-2",
-      "scriptsStripped": 32,
-      "scriptsKept": 28,
-      "formsNeutralized": 6,
+      "scriptsStripped": 38,
+      "scriptsKept": 22,
+      "formsNeutralized": 7,
       "buyButtons": 1
     },
     {
       "page": "fr/pages/shipping-information",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "fr/pages/faq",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "fr/pages/warranty-returns-policy",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "fr/blogs/news",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "fr/blogs/news/silverbullet-official-launch",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "fr/pages/silverbullet-full-picking-list",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "fr/collections/frontpage",
-      "scriptsStripped": 30,
-      "scriptsKept": 23,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 18,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "fr/blogs/news/bastille-day-10-sale",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "fr/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "fr/blogs/news/getting-started-with-the-silver-bullet",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "fr/blogs/news/silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-tool",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "fr/blogs/news/spare-tips-now-available",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "fr/blogs/news/silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "fr/blogs/news/🌟-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extravaganza-🎉",
-      "scriptsStripped": 30,
-      "scriptsKept": 22,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 17,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "de/products/silver-bullet",
-      "scriptsStripped": 32,
-      "scriptsKept": 28,
-      "formsNeutralized": 6,
+      "scriptsStripped": 38,
+      "scriptsKept": 22,
+      "formsNeutralized": 7,
       "buyButtons": 1
     },
     {
       "page": "de/",
-      "scriptsStripped": 32,
-      "scriptsKept": 32,
-      "formsNeutralized": 8,
+      "scriptsStripped": 39,
+      "scriptsKept": 25,
+      "formsNeutralized": 9,
       "buyButtons": 1
     },
     {
       "page": "de/products/spare-tips",
-      "scriptsStripped": 32,
-      "scriptsKept": 29,
-      "formsNeutralized": 6,
+      "scriptsStripped": 38,
+      "scriptsKept": 23,
+      "formsNeutralized": 7,
       "buyButtons": 1
     },
     {
       "page": "de/products/silver-bullet-2",
-      "scriptsStripped": 32,
-      "scriptsKept": 28,
-      "formsNeutralized": 6,
+      "scriptsStripped": 38,
+      "scriptsKept": 22,
+      "formsNeutralized": 7,
       "buyButtons": 1
     },
     {
       "page": "de/products/replacement-case",
-      "scriptsStripped": 32,
-      "scriptsKept": 28,
-      "formsNeutralized": 6,
+      "scriptsStripped": 38,
+      "scriptsKept": 22,
+      "formsNeutralized": 7,
       "buyButtons": 1
     },
     {
       "page": "de/pages/how-to-use-the-silver-bullet",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "de/pages/faq",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "de/pages/privacy-policy",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "de/pages/shipping-information",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "de/pages/terms-conditions",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "de/pages/warranty-returns-policy",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "de/pages/silverbullet-full-picking-list",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "de/blogs/news/silverbullet-official-launch",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "de/blogs/news/getting-started-with-the-silver-bullet",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "de/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "de/collections/frontpage",
-      "scriptsStripped": 30,
-      "scriptsKept": 22,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 17,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "de/blogs/news",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "de/blogs/news/silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-tool",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "de/blogs/news/silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "de/blogs/news/🌟-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extravaganza-🎉",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "de/blogs/news/spare-tips-now-available",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "de/blogs/news/bastille-day-10-sale",
-      "scriptsStripped": 30,
-      "scriptsKept": 22,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 17,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "it/",
-      "scriptsStripped": 32,
-      "scriptsKept": 33,
-      "formsNeutralized": 8,
+      "scriptsStripped": 39,
+      "scriptsKept": 26,
+      "formsNeutralized": 9,
       "buyButtons": 1
     },
     {
       "page": "it/products/silver-bullet",
-      "scriptsStripped": 32,
-      "scriptsKept": 28,
-      "formsNeutralized": 6,
+      "scriptsStripped": 38,
+      "scriptsKept": 22,
+      "formsNeutralized": 7,
       "buyButtons": 1
     },
     {
       "page": "it/pages/how-to-use-the-silver-bullet",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "it/pages/privacy-policy",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "it/products/replacement-case",
-      "scriptsStripped": 32,
-      "scriptsKept": 28,
-      "formsNeutralized": 6,
+      "scriptsStripped": 38,
+      "scriptsKept": 22,
+      "formsNeutralized": 7,
       "buyButtons": 1
     },
     {
       "page": "it/products/spare-tips",
-      "scriptsStripped": 32,
-      "scriptsKept": 29,
-      "formsNeutralized": 6,
+      "scriptsStripped": 38,
+      "scriptsKept": 23,
+      "formsNeutralized": 7,
       "buyButtons": 1
     },
     {
       "page": "it/products/silver-bullet-2",
-      "scriptsStripped": 32,
-      "scriptsKept": 28,
-      "formsNeutralized": 6,
+      "scriptsStripped": 38,
+      "scriptsKept": 22,
+      "formsNeutralized": 7,
       "buyButtons": 1
     },
     {
       "page": "it/pages/warranty-returns-policy",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "it/pages/silverbullet-full-picking-list",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "it/pages/terms-conditions",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "it/pages/faq",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "it/collections/frontpage",
-      "scriptsStripped": 30,
-      "scriptsKept": 22,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 17,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "it/pages/shipping-information",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "it/blogs/news/silverbullet-official-launch",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "it/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "it/blogs/news/silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-tool",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "it/blogs/news/silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "it/blogs/news",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "it/blogs/news/getting-started-with-the-silver-bullet",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "it/blogs/news/bastille-day-10-sale",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "it/blogs/news/spare-tips-now-available",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "es/",
-      "scriptsStripped": 32,
-      "scriptsKept": 32,
-      "formsNeutralized": 8,
+      "scriptsStripped": 39,
+      "scriptsKept": 25,
+      "formsNeutralized": 9,
       "buyButtons": 1
     },
     {
       "page": "es/products/spare-tips",
-      "scriptsStripped": 32,
-      "scriptsKept": 29,
-      "formsNeutralized": 6,
+      "scriptsStripped": 38,
+      "scriptsKept": 23,
+      "formsNeutralized": 7,
       "buyButtons": 1
     },
     {
       "page": "it/blogs/news/🌟-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extravaganza-🎉",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "es/products/silver-bullet",
-      "scriptsStripped": 32,
-      "scriptsKept": 28,
-      "formsNeutralized": 6,
+      "scriptsStripped": 38,
+      "scriptsKept": 22,
+      "formsNeutralized": 7,
       "buyButtons": 1
     },
     {
       "page": "es/products/silver-bullet-2",
-      "scriptsStripped": 32,
-      "scriptsKept": 28,
-      "formsNeutralized": 6,
+      "scriptsStripped": 38,
+      "scriptsKept": 22,
+      "formsNeutralized": 7,
       "buyButtons": 1
     },
     {
       "page": "es/products/replacement-case",
-      "scriptsStripped": 32,
-      "scriptsKept": 28,
-      "formsNeutralized": 6,
+      "scriptsStripped": 38,
+      "scriptsKept": 22,
+      "formsNeutralized": 7,
       "buyButtons": 1
     },
     {
       "page": "es/pages/how-to-use-the-silver-bullet",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "es/pages/terms-conditions",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "es/pages/privacy-policy",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "es/blogs/news",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "es/pages/faq",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "es/pages/warranty-returns-policy",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "es/pages/silverbullet-full-picking-list",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "es/collections/frontpage",
-      "scriptsStripped": 30,
-      "scriptsKept": 22,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 17,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "es/pages/shipping-information",
-      "scriptsStripped": 30,
-      "scriptsKept": 20,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 15,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "es/blogs/news/silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "es/blogs/news/silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-tool",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "es/blogs/news/getting-started-with-the-silver-bullet",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "es/blogs/news/silverbullet-official-launch",
-      "scriptsStripped": 30,
-      "scriptsKept": 22,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 17,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "es/blogs/news/silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "es/blogs/news/bastille-day-10-sale",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "es/blogs/news/🌟-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extravaganza-🎉",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     },
     {
       "page": "es/blogs/news/spare-tips-now-available",
-      "scriptsStripped": 30,
-      "scriptsKept": 21,
-      "formsNeutralized": 4,
+      "scriptsStripped": 35,
+      "scriptsKept": 16,
+      "formsNeutralized": 5,
       "buyButtons": 0
     }
   ],

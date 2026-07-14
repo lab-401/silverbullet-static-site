@@ -1,3 +1,7 @@
+<script data-source-attribution="shopify.event_observer.bootstrap">
+(function(){let e=navigator,t=`prototype`,n=`sendBeacon`,r=e[n],i=fetch,a=XMLHttpRequest[t],{open:o,send:s}=a,c=`EventListener`,l=`add${c}`,u=`remove${c}`,d=EventTarget[t],f=d[l],p=d[u],m=e=>Error((e=document.currentScript)&&[e?.src,e?.id||e?.dataset?.sourceAttribution]),h=(e=[],t=0)=>(e.p=n=>e[t++%1e3]=n,[e,t=>(e.forEach(e.p=t),e.length=0)]),[g,_]=h(),[v,y]=h(),b,x=new WeakMap,S=e=>e&&g.p([e,b||[m()]]);d[l]=function(e,t,n){let r=this,i=t?.handleEvent||t,a=x.get(t),o=m();i?.call&&!a&&x.set(t,a=function(e){b=[o,e.type];try{i.call(t==i?this:t,e)}finally{b=null}}),v.p([e,o,a,r?.tagName||r+``,r?.id]),f.call(r,e,a||t,n)},d[u]=function(e,t,n){p.call(this,e,x.get(t)||t,n)},a.open=function(e,t){x.set(this,[t+``,e]),o.apply(this,arguments)},a.send=function(e){S(x.get(this)),s.call(this,e)},fetch=(e,t)=>(S([(e?.url||e)+``,t?.method]),i(e,t)),e[n]=(t,n)=>(S([t+``,``]),r.call(e,t,n)),setTimeout(()=>import("/assets/event_observer_reporter-ed358274.6fca226acb.js").then(e=>e.$(_,y,f,i,`5682397218`)))})();
+//# sourceURL=event-observer-collector.js
+</script>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -20,7 +24,6 @@
   
   
   
-  
 
 
 
@@ -37,7 +40,7 @@
 
 
 
-<link rel="alternate" type="application/json+oembed" href="https://silverbullet.tools/products/silver-bullet-2.oembed">
+
 
 
 
@@ -46,11 +49,6 @@
 
 <script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
 <script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
-<script>
-  window.ShopifyPay = window.ShopifyPay || {};
-  window.ShopifyPay.apiHost = "shop.app\/pay";
-  window.ShopifyPay.redirectState = null;
-</script>
 
 
 
@@ -58,19 +56,9 @@
 
 
 
-<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
 
 
 
-
-<script>
-  window.Shopify = window.Shopify || {};
-  window.Shopify.MCP = window.Shopify.MCP || {};
-  window.Shopify.MCP.enabled = true;
-  window.Shopify.MCP.shop = "sbtools.myshopify.com";
-  window.Shopify.MCP.mcpEndpoint = "https:\/\/silverbullet.tools\/api\/mcp";
-  window.Shopify.MCP.tools = [{"name":"search_shop_policies_and_faqs","description":"Used to get facts about the stores policies, products, or services.\nSome examples of questions you can ask are:\n  - What is your return policy?\n  - What is your shipping policy?\n  - What is your phone number?\n  - What are your hours of operation?\"\n","inputSchema":{"$schema":"https:\/\/json-schema.org\/draft\/2020-12\/schema","type":"object","properties":{"query":{"type":"string","description":"A natural language query."},"context":{"type":"string","description":"Additional information about the request such as user demographics, mood, location, or other relevant details that could help in tailoring the response appropriately."}},"required":["query"]}}];
-</script>
 
 
 
@@ -341,4 +329,4 @@
 
 
 
-<script data-sb-migration="langify-no-redirect">window.lyBlockedRoutesList=["/"];</script>
+<script data-sb-migration="static-shims">window.lyBlockedRoutesList=["/"];(function(){var RE=/(^|\/)cart(\.js|\/update\.js)($|\?)/;var EMPTY='{"items":[],"item_count":0,"total_price":0,"currency":"EUR","attributes":{},"note":null}';var o=XMLHttpRequest.prototype.open,s=XMLHttpRequest.prototype.send;XMLHttpRequest.prototype.open=function(m,u){this._sbCart=RE.test(String(u));return o.apply(this,arguments)};XMLHttpRequest.prototype.send=function(){var x=this;if(x._sbCart){setTimeout(function(){try{Object.defineProperty(x,'status',{value:200});Object.defineProperty(x,'readyState',{value:4});Object.defineProperty(x,'responseText',{value:EMPTY});Object.defineProperty(x,'response',{value:EMPTY});}catch(e){}x.onreadystatechange&&x.onreadystatechange();x.onload&&x.onload()},0);return}return s.apply(this,arguments)};var f=window.fetch;window.fetch=function(u,opt){var url=typeof u==='string'?u:(u&&u.url)||'';if(RE.test(url)){return Promise.resolve(new Response(EMPTY,{status:200,headers:{'Content-Type':'application/json'}}))}return f.apply(this,arguments)};})();</script>

@@ -55,10 +55,10 @@
   "ldjson": [],
   "headExtras": [],
   "ldjsonBody": [
-    "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n",
-    "\n    {\n      \"@context\": \"http://schema.org\",\n      \"@type\": \"WebSite\",\n      \"name\": \"Silver Bullet Tools\",\n      \"potentialAction\": {\n        \"@type\": \"SearchAction\",\n        \"target\": \"https:\\/\\/silverbullet.tools\\/fr\\/search?q={search_term_string}\",\n        \"query-input\": \"required name=search_term_string\"\n      },\n      \"url\": \"https:\\/\\/silverbullet.tools\"\n    }\n  "
+    "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n",
+    "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"WebSite\",\n  \"name\": \"Silver Bullet Tools\",\n  \"url\": \"https://silverbullet.tools\"\n}\n"
   ],
-  "headFile": "head.2.html",
+  "headFile": "head.3.html",
   "preludeFile": "prelude.2.html",
   "postludeFile": "postlude.0.html"
 }

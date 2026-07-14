@@ -40,28 +40,36 @@ function serializeNode($, node, out) {
   out.push(`</${node.name}>`);
 }
 
-function canonicalizeLd(s) {
+let ldParseFailures = [];
+function canonicalizeLd(s, source) {
   try {
     return JSON.stringify(JSON.parse(s));
   } catch {
+    if (source) ldParseFailures.push({ source, snippet: normText(s).slice(0, 120) });
     return normText(s);
   }
 }
 
-function normalizeDoc(html) {
+function normalizeDoc(html, source) {
   // return_to values are intentionally normalized in inert forms; noscript
   // content parses as text, so whitelist on the raw string for both sides
   html = html.replace(/(name="return_to"\s+value=")[^"]*(")/g, '$1/$2');
   // og/meta asset URLs are intentionally absolutized at render time
   html = html.replaceAll('content="https://silverbullet.tools/assets/', 'content="/assets/');
   const $ = load(html);
-  // pull ld+json out (location-independent compare)
-  const ld = $('script[type="application/ld+json"]')
-    .map((_, el) => canonicalizeLd($(el).html() || ''))
-    .get()
-    .sort();
+  // pull ld+json out (location-independent, deduped compare - the render layer
+  // intentionally dedupes Shopify's doubled homepage product schema)
+  const ld = [
+    ...new Set(
+      $('script[type="application/ld+json"]')
+        .map((_, el) => canonicalizeLd($(el).html() || '', source))
+        .get()
+    ),
+  ].sort();
   $('script[type="application/ld+json"]').remove();
   $('meta[name="robots"][content*="noindex"]').remove();
+  // meta descriptions are intentionally ADDED where the theme omitted them
+  $('meta[name="description"]').remove();
 
   const headChildren = [];
   $('head')
@@ -105,7 +113,9 @@ for (const entry of manifest) {
     failures.push({ page: localizedPath, error: 'missing file: ' + String(e).slice(0, 120) });
     continue;
   }
-  const D = normalizeDoc(distHtml);
+  // strict JSON-LD gate applies to dist (what we ship); clean baseline may
+  // carry upstream Shopify quirks that clean.mjs corrects
+  const D = normalizeDoc(distHtml, 'dist:' + localizedPath);
   const C = normalizeDoc(cleanHtml);
   const probs = [];
   const ldDiff = firstDiff(D.ld, C.ld);
@@ -121,6 +131,13 @@ for (const entry of manifest) {
 }
 
 console.log(`Fidelity: ${pass}/${pass + failures.length} pages DOM-equivalent.`);
+if (ldParseFailures.length) {
+  console.log(`JSON-LD STRICT GATE: ${ldParseFailures.length} unparseable blocks in dist:`);
+  for (const f of ldParseFailures.slice(0, 5)) console.log(`  ${f.source}: ${f.snippet}`);
+  process.exitCode = 1;
+} else {
+  console.log('JSON-LD strict gate: all dist blocks parse.');
+}
 for (const f of failures.slice(0, 10)) {
   console.log(`\nFAIL ${f.page}`);
   if (f.error) console.log('  ' + f.error);

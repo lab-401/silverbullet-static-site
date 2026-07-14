@@ -1,6 +1,6 @@
 // Pixel-compares qa/screenshots/live vs qa/screenshots/local pairs.
 // Output: qa/screenshots/diff/*.png + qa/visual-report.json ranked by mismatch.
-import { mkdir, readdir, readFile, writeFile } from 'node:fs/promises';
+import { mkdir, readdir, readFile, writeFile, rm } from 'node:fs/promises';
 import path from 'node:path';
 import { PNG } from 'pngjs';
 import pixelmatch from 'pixelmatch';
@@ -9,6 +9,8 @@ const ROOT = new URL('..', import.meta.url).pathname.replace(/^\/([A-Za-z]:)/, '
 const LIVE = path.join(ROOT, 'qa', 'screenshots', 'live');
 const LOCAL = path.join(ROOT, 'qa', 'screenshots', 'local');
 const DIFF = path.join(ROOT, 'qa', 'screenshots', 'diff');
+// stale masks from earlier runs mislead triage - start clean
+await rm(DIFF, { recursive: true, force: true });
 await mkdir(DIFF, { recursive: true });
 
 function pad(png, w, h) {

@@ -53,7 +53,7 @@
   "ldjson": [],
   "headExtras": [],
   "ldjsonBody": [
-    "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/de\\/pages\\/silverbullet-full-picking-list\"\n  }\n"
+    "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/de/pages/silverbullet-full-picking-list\"\n}\n"
   ],
   "headFile": "head.0.html",
   "preludeFile": "prelude.0.html",

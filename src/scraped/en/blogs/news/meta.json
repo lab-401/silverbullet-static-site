@@ -55,9 +55,9 @@
     "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/blogs/news.atom\">"
   ],
   "ldjsonBody": [
-    "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+    "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
   ],
-  "headFile": "head.8.html",
+  "headFile": "head.5.html",
   "preludeFile": "prelude.0.html",
   "postludeFile": "postlude.0.html"
 }

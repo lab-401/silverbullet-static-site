@@ -1,0 +1,12 @@
+en_index@desktop.png
+en_index@mobile.png
+fr_index@desktop.png
+de_index@mobile.png
+en_products_silver-bullet-2@desktop.png
+en_products_silver-bullet-2@mobile.png
+fr_products_silver-bullet-2@desktop.png
+en_pages_faq@desktop.png
+fr_pages_faq@mobile.png
+en_blogs_news@desktop.png
+es_pages_faq@desktop.png
+it_products_spare-tips@mobile.png

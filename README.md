@@ -14,6 +14,8 @@ platform code (analytics, checkout, wallets, pixels, cart APIs) stripped.
 | `scripts/scrape.mjs` | Mirrors pages + CDN assets from the live site into `scrape/` |
 | `scripts/clean.mjs` | Strips Shopify code, localizes asset URLs, neutralizes forms |
 | `scripts/split.mjs` | Splits cleaned pages into shared parts + per-page content (`src/scraped/`) |
+| `scripts/patch-assets.mjs` | Patches theme JS for static hosting (locale switcher navigates instead of POSTing to Shopify) |
+| `scripts/fetch-feeds.mjs` | Mirrors the blog/collection Atom feeds into `public/` |
 | `src/pages/[...slug].astro` | Renders every route from the scraped records |
 | `scripts/apply-base.mjs` | Post-build: prefixes root-absolute URLs when `BASE_PATH` ≠ `/` |
 | `scripts/gen-seo-files.mjs` | Generates `sitemap.xml`, `robots.txt`, `agents.md`, `llms.txt` |
@@ -53,8 +55,10 @@ remain and are tagged for re-linking (`grep -r "data-sb-migration" src/scraped`)
 | `cart-link` / `account-link` | Header icons (inert `href="#"`) | Re-link or leave |
 | `newsletter-form` | Footer newsletter signup (inert) | Wire to mail provider |
 | `search-form` | Header search (inert) | Optional: client-side search |
+| `cart-form` | Hidden cart-notification checkout form (inert) | None |
 | `country-selector` | Footer country/currency selector (inert) | Cosmetic only |
-| `language-selector` | Language switcher | Already works (static links) |
+| `language-selector` | Language switcher | Already works (static links + patched theme JS) |
+| `static-shims` | Injected head script: blocks langify auto-redirect, stubs cart XHR | None |
 
 ## QA
 

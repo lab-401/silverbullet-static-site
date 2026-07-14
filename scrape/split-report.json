@@ -3,7 +3,7 @@
     "en": {
       "head": [
         {
-          "hash": "592cdf134160",
+          "hash": "8e52ad16ab17",
           "file": "head.0.html",
           "count": 8,
           "pages": [
@@ -18,7 +18,7 @@
           ]
         },
         {
-          "hash": "1406eb98a69e",
+          "hash": "7d6fa1a0a73a",
           "file": "head.1.html",
           "count": 7,
           "pages": [
@@ -32,56 +32,35 @@
           ]
         },
         {
-          "hash": "32b123ebaaad",
+          "hash": "35119349b8dd",
           "file": "head.2.html",
+          "count": 4,
+          "pages": [
+            "products/spare-tips",
+            "products/silver-bullet-2",
+            "products/silver-bullet",
+            "products/replacement-case"
+          ]
+        },
+        {
+          "hash": "e9d796e8b82c",
+          "file": "head.3.html",
           "count": 1,
           "pages": [
             "index"
           ]
         },
         {
-          "hash": "da64a2bfaf0c",
-          "file": "head.3.html",
-          "count": 1,
-          "pages": [
-            "products/spare-tips"
-          ]
-        },
-        {
-          "hash": "0f87243b604c",
+          "hash": "9ec8a032d685",
           "file": "head.4.html",
-          "count": 1,
-          "pages": [
-            "products/silver-bullet-2"
-          ]
-        },
-        {
-          "hash": "5b316c9edcf4",
-          "file": "head.5.html",
-          "count": 1,
-          "pages": [
-            "products/silver-bullet"
-          ]
-        },
-        {
-          "hash": "15d2f4b65971",
-          "file": "head.6.html",
-          "count": 1,
-          "pages": [
-            "products/replacement-case"
-          ]
-        },
-        {
-          "hash": "a267196f5eb4",
-          "file": "head.7.html",
           "count": 1,
           "pages": [
             "collections/frontpage"
           ]
         },
         {
-          "hash": "d63fb0cf2972",
-          "file": "head.8.html",
+          "hash": "641ae0e4832d",
+          "file": "head.5.html",
           "count": 1,
           "pages": [
             "blogs/news"
@@ -90,7 +69,7 @@
       ],
       "prelude": [
         {
-          "hash": "84f7d53b87d4",
+          "hash": "dfdfb1bc52c3",
           "file": "prelude.0.html",
           "count": 21,
           "pages": [
@@ -118,7 +97,7 @@
           ]
         },
         {
-          "hash": "bb03f7fd2f6a",
+          "hash": "6fa6056c7ddd",
           "file": "prelude.1.html",
           "count": 1,
           "pages": [
@@ -128,7 +107,7 @@
       ],
       "postlude": [
         {
-          "hash": "416221de9591",
+          "hash": "ec7d608f20b8",
           "file": "postlude.0.html",
           "count": 22,
           "pages": [
@@ -161,7 +140,7 @@
     "fr": {
       "head": [
         {
-          "hash": "1406eb98a69e",
+          "hash": "7d6fa1a0a73a",
           "file": "head.0.html",
           "count": 7,
           "pages": [
@@ -175,7 +154,7 @@
           ]
         },
         {
-          "hash": "592cdf134160",
+          "hash": "8e52ad16ab17",
           "file": "head.1.html",
           "count": 7,
           "pages": [
@@ -189,64 +168,43 @@
           ]
         },
         {
-          "hash": "32b123ebaaad",
+          "hash": "35119349b8dd",
           "file": "head.2.html",
+          "count": 4,
+          "pages": [
+            "products/replacement-case",
+            "products/silver-bullet",
+            "products/spare-tips",
+            "products/silver-bullet-2"
+          ]
+        },
+        {
+          "hash": "e9d796e8b82c",
+          "file": "head.3.html",
           "count": 1,
           "pages": [
             "index"
           ]
         },
         {
-          "hash": "15d2f4b65971",
-          "file": "head.3.html",
-          "count": 1,
-          "pages": [
-            "products/replacement-case"
-          ]
-        },
-        {
-          "hash": "5b316c9edcf4",
+          "hash": "8ecd636dfb36",
           "file": "head.4.html",
-          "count": 1,
-          "pages": [
-            "products/silver-bullet"
-          ]
-        },
-        {
-          "hash": "da64a2bfaf0c",
-          "file": "head.5.html",
-          "count": 1,
-          "pages": [
-            "products/spare-tips"
-          ]
-        },
-        {
-          "hash": "0f87243b604c",
-          "file": "head.6.html",
-          "count": 1,
-          "pages": [
-            "products/silver-bullet-2"
-          ]
-        },
-        {
-          "hash": "36224849132a",
-          "file": "head.7.html",
           "count": 1,
           "pages": [
             "blogs/news"
           ]
         },
         {
-          "hash": "3ea4bbf5d4e2",
-          "file": "head.8.html",
+          "hash": "784b486a2c54",
+          "file": "head.5.html",
           "count": 1,
           "pages": [
             "collections/frontpage"
           ]
         },
         {
-          "hash": "3ceabd39e260",
-          "file": "head.9.html",
+          "hash": "b9f26d2305b5",
+          "file": "head.6.html",
           "count": 1,
           "pages": [
             "blogs/news/_pct_F0_pct_9F_pct_8C_pct_9F-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extravaganza-_pct_F0_p"
@@ -255,7 +213,7 @@
       ],
       "prelude": [
         {
-          "hash": "fe8a729020ac",
+          "hash": "7ec694732628",
           "file": "prelude.0.html",
           "count": 17,
           "pages": [
@@ -279,7 +237,7 @@
           ]
         },
         {
-          "hash": "84f7d53b87d4",
+          "hash": "dfdfb1bc52c3",
           "file": "prelude.1.html",
           "count": 4,
           "pages": [
@@ -290,7 +248,7 @@
           ]
         },
         {
-          "hash": "b8868e5c8e63",
+          "hash": "001384e79a96",
           "file": "prelude.2.html",
           "count": 1,
           "pages": [
@@ -300,7 +258,7 @@
       ],
       "postlude": [
         {
-          "hash": "14f5b8171c5a",
+          "hash": "b640c8def7de",
           "file": "postlude.0.html",
           "count": 18,
           "pages": [
@@ -325,7 +283,7 @@
           ]
         },
         {
-          "hash": "416221de9591",
+          "hash": "ec7d608f20b8",
           "file": "postlude.1.html",
           "count": 4,
           "pages": [
@@ -340,7 +298,7 @@
     "de": {
       "head": [
         {
-          "hash": "1406eb98a69e",
+          "hash": "7d6fa1a0a73a",
           "file": "head.0.html",
           "count": 7,
           "pages": [
@@ -354,7 +312,7 @@
           ]
         },
         {
-          "hash": "592cdf134160",
+          "hash": "8e52ad16ab17",
           "file": "head.1.html",
           "count": 7,
           "pages": [
@@ -368,15 +326,18 @@
           ]
         },
         {
-          "hash": "5b316c9edcf4",
+          "hash": "35119349b8dd",
           "file": "head.2.html",
-          "count": 1,
+          "count": 4,
           "pages": [
-            "products/silver-bullet"
+            "products/silver-bullet",
+            "products/spare-tips",
+            "products/silver-bullet-2",
+            "products/replacement-case"
           ]
         },
         {
-          "hash": "32b123ebaaad",
+          "hash": "e9d796e8b82c",
           "file": "head.3.html",
           "count": 1,
           "pages": [
@@ -384,48 +345,24 @@
           ]
         },
         {
-          "hash": "da64a2bfaf0c",
+          "hash": "9ec8a032d685",
           "file": "head.4.html",
-          "count": 1,
-          "pages": [
-            "products/spare-tips"
-          ]
-        },
-        {
-          "hash": "0f87243b604c",
-          "file": "head.5.html",
-          "count": 1,
-          "pages": [
-            "products/silver-bullet-2"
-          ]
-        },
-        {
-          "hash": "15d2f4b65971",
-          "file": "head.6.html",
-          "count": 1,
-          "pages": [
-            "products/replacement-case"
-          ]
-        },
-        {
-          "hash": "97502625cdc5",
-          "file": "head.7.html",
           "count": 1,
           "pages": [
             "collections/frontpage"
           ]
         },
         {
-          "hash": "4bb3bed56016",
-          "file": "head.8.html",
+          "hash": "8986bb552a46",
+          "file": "head.5.html",
           "count": 1,
           "pages": [
             "blogs/news"
           ]
         },
         {
-          "hash": "3ceabd39e260",
-          "file": "head.9.html",
+          "hash": "b9f26d2305b5",
+          "file": "head.6.html",
           "count": 1,
           "pages": [
             "blogs/news/bastille-day-10-sale"
@@ -434,7 +371,7 @@
       ],
       "prelude": [
         {
-          "hash": "d693649128e2",
+          "hash": "edc90dcaf63f",
           "file": "prelude.0.html",
           "count": 17,
           "pages": [
@@ -458,7 +395,7 @@
           ]
         },
         {
-          "hash": "84f7d53b87d4",
+          "hash": "dfdfb1bc52c3",
           "file": "prelude.1.html",
           "count": 4,
           "pages": [
@@ -469,7 +406,7 @@
           ]
         },
         {
-          "hash": "8ae719c173b5",
+          "hash": "5d38ac103fd8",
           "file": "prelude.2.html",
           "count": 1,
           "pages": [
@@ -479,7 +416,7 @@
       ],
       "postlude": [
         {
-          "hash": "8ed4a6a54044",
+          "hash": "6376727d2e51",
           "file": "postlude.0.html",
           "count": 18,
           "pages": [
@@ -504,7 +441,7 @@
           ]
         },
         {
-          "hash": "416221de9591",
+          "hash": "ec7d608f20b8",
           "file": "postlude.1.html",
           "count": 4,
           "pages": [
@@ -519,7 +456,7 @@
     "it": {
       "head": [
         {
-          "hash": "592cdf134160",
+          "hash": "8e52ad16ab17",
           "file": "head.0.html",
           "count": 8,
           "pages": [
@@ -534,7 +471,7 @@
           ]
         },
         {
-          "hash": "1406eb98a69e",
+          "hash": "7d6fa1a0a73a",
           "file": "head.1.html",
           "count": 6,
           "pages": [
@@ -547,23 +484,26 @@
           ]
         },
         {
-          "hash": "e98c078bfaaa",
+          "hash": "35119349b8dd",
           "file": "head.2.html",
+          "count": 4,
+          "pages": [
+            "products/silver-bullet",
+            "products/replacement-case",
+            "products/spare-tips",
+            "products/silver-bullet-2"
+          ]
+        },
+        {
+          "hash": "692c6ba236bc",
+          "file": "head.3.html",
           "count": 1,
           "pages": [
             "index"
           ]
         },
         {
-          "hash": "5b316c9edcf4",
-          "file": "head.3.html",
-          "count": 1,
-          "pages": [
-            "products/silver-bullet"
-          ]
-        },
-        {
-          "hash": "de92468d51ad",
+          "hash": "6e61c203a64b",
           "file": "head.4.html",
           "count": 1,
           "pages": [
@@ -571,40 +511,16 @@
           ]
         },
         {
-          "hash": "15d2f4b65971",
+          "hash": "9ec8a032d685",
           "file": "head.5.html",
-          "count": 1,
-          "pages": [
-            "products/replacement-case"
-          ]
-        },
-        {
-          "hash": "da64a2bfaf0c",
-          "file": "head.6.html",
-          "count": 1,
-          "pages": [
-            "products/spare-tips"
-          ]
-        },
-        {
-          "hash": "0f87243b604c",
-          "file": "head.7.html",
-          "count": 1,
-          "pages": [
-            "products/silver-bullet-2"
-          ]
-        },
-        {
-          "hash": "7c3feb59de7f",
-          "file": "head.8.html",
           "count": 1,
           "pages": [
             "collections/frontpage"
           ]
         },
         {
-          "hash": "4f65b91c0f55",
-          "file": "head.9.html",
+          "hash": "83cc23b1a92a",
+          "file": "head.6.html",
           "count": 1,
           "pages": [
             "blogs/news"
@@ -613,7 +529,7 @@
       ],
       "prelude": [
         {
-          "hash": "1cccabe867bd",
+          "hash": "43005649ec6b",
           "file": "prelude.0.html",
           "count": 17,
           "pages": [
@@ -637,7 +553,7 @@
           ]
         },
         {
-          "hash": "84f7d53b87d4",
+          "hash": "dfdfb1bc52c3",
           "file": "prelude.1.html",
           "count": 4,
           "pages": [
@@ -648,7 +564,7 @@
           ]
         },
         {
-          "hash": "0c610c466caa",
+          "hash": "51ac04ca71d7",
           "file": "prelude.2.html",
           "count": 1,
           "pages": [
@@ -658,7 +574,7 @@
       ],
       "postlude": [
         {
-          "hash": "2b2dd8ce9495",
+          "hash": "6d963c8d6776",
           "file": "postlude.0.html",
           "count": 18,
           "pages": [
@@ -683,7 +599,7 @@
           ]
         },
         {
-          "hash": "416221de9591",
+          "hash": "ec7d608f20b8",
           "file": "postlude.1.html",
           "count": 4,
           "pages": [
@@ -698,7 +614,7 @@
     "es": {
       "head": [
         {
-          "hash": "1406eb98a69e",
+          "hash": "7d6fa1a0a73a",
           "file": "head.0.html",
           "count": 7,
           "pages": [
@@ -712,7 +628,7 @@
           ]
         },
         {
-          "hash": "592cdf134160",
+          "hash": "8e52ad16ab17",
           "file": "head.1.html",
           "count": 7,
           "pages": [
@@ -726,64 +642,43 @@
           ]
         },
         {
-          "hash": "32b123ebaaad",
+          "hash": "35119349b8dd",
           "file": "head.2.html",
+          "count": 4,
+          "pages": [
+            "products/spare-tips",
+            "products/silver-bullet",
+            "products/silver-bullet-2",
+            "products/replacement-case"
+          ]
+        },
+        {
+          "hash": "e9d796e8b82c",
+          "file": "head.3.html",
           "count": 1,
           "pages": [
             "index"
           ]
         },
         {
-          "hash": "da64a2bfaf0c",
-          "file": "head.3.html",
-          "count": 1,
-          "pages": [
-            "products/spare-tips"
-          ]
-        },
-        {
-          "hash": "5b316c9edcf4",
+          "hash": "9b6cfd432b5f",
           "file": "head.4.html",
-          "count": 1,
-          "pages": [
-            "products/silver-bullet"
-          ]
-        },
-        {
-          "hash": "0f87243b604c",
-          "file": "head.5.html",
-          "count": 1,
-          "pages": [
-            "products/silver-bullet-2"
-          ]
-        },
-        {
-          "hash": "15d2f4b65971",
-          "file": "head.6.html",
-          "count": 1,
-          "pages": [
-            "products/replacement-case"
-          ]
-        },
-        {
-          "hash": "97df31261769",
-          "file": "head.7.html",
           "count": 1,
           "pages": [
             "blogs/news"
           ]
         },
         {
-          "hash": "73080660dc10",
-          "file": "head.8.html",
+          "hash": "9ec8a032d685",
+          "file": "head.5.html",
           "count": 1,
           "pages": [
             "collections/frontpage"
           ]
         },
         {
-          "hash": "3ceabd39e260",
-          "file": "head.9.html",
+          "hash": "b9f26d2305b5",
+          "file": "head.6.html",
           "count": 1,
           "pages": [
             "blogs/news/silverbullet-official-launch"
@@ -792,7 +687,7 @@
       ],
       "prelude": [
         {
-          "hash": "41de2f566da8",
+          "hash": "0961e551a8ba",
           "file": "prelude.0.html",
           "count": 17,
           "pages": [
@@ -816,7 +711,7 @@
           ]
         },
         {
-          "hash": "84f7d53b87d4",
+          "hash": "dfdfb1bc52c3",
           "file": "prelude.1.html",
           "count": 4,
           "pages": [
@@ -827,7 +722,7 @@
           ]
         },
         {
-          "hash": "e7fbfa388699",
+          "hash": "7710edc49d69",
           "file": "prelude.2.html",
           "count": 1,
           "pages": [
@@ -837,7 +732,7 @@
       ],
       "postlude": [
         {
-          "hash": "cd7341cded25",
+          "hash": "a4102c1ea575",
           "file": "postlude.0.html",
           "count": 18,
           "pages": [
@@ -862,7 +757,7 @@
           ]
         },
         {
-          "hash": "416221de9591",
+          "hash": "ec7d608f20b8",
           "file": "postlude.1.html",
           "count": 4,
           "pages": [
@@ -933,10 +828,10 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n",
-        "\n    {\n      \"@context\": \"http://schema.org\",\n      \"@type\": \"WebSite\",\n      \"name\": \"Silver Bullet Tools\",\n      \"potentialAction\": {\n        \"@type\": \"SearchAction\",\n        \"target\": \"https:\\/\\/silverbullet.tools\\/search?q={search_term_string}\",\n        \"query-input\": \"required name=search_term_string\"\n      },\n      \"url\": \"https:\\/\\/silverbullet.tools\"\n    }\n  "
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n",
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"WebSite\",\n  \"name\": \"Silver Bullet Tools\",\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.2.html",
+      "headFile": "head.3.html",
       "preludeFile": "prelude.1.html",
       "postludeFile": "postlude.0.html"
     },
@@ -997,9 +892,9 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.3.html",
+      "headFile": "head.2.html",
       "preludeFile": "prelude.0.html",
       "postludeFile": "postlude.0.html"
     },
@@ -1060,7 +955,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/pages\\/how-to-use-the-silver-bullet\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/pages/how-to-use-the-silver-bullet\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -1125,9 +1020,9 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.4.html",
+      "headFile": "head.2.html",
       "preludeFile": "prelude.0.html",
       "postludeFile": "postlude.0.html"
     },
@@ -1188,9 +1083,9 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.5.html",
+      "headFile": "head.2.html",
       "preludeFile": "prelude.0.html",
       "postludeFile": "postlude.0.html"
     },
@@ -1251,9 +1146,9 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.6.html",
+      "headFile": "head.2.html",
       "preludeFile": "prelude.0.html",
       "postludeFile": "postlude.0.html"
     },
@@ -1312,7 +1207,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/pages\\/privacy-policy\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/pages/privacy-policy\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -1373,7 +1268,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/pages\\/terms-conditions\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/pages/terms-conditions\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -1436,7 +1331,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/pages\\/faq\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/pages/faq\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -1497,7 +1392,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/pages\\/silverbullet-full-picking-list\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/pages/silverbullet-full-picking-list\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -1558,7 +1453,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/pages\\/warranty-returns-policy\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/pages/warranty-returns-policy\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -1619,7 +1514,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/pages\\/shipping-information\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/pages/shipping-information\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -1682,9 +1577,9 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/collections/frontpage.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.7.html",
+      "headFile": "head.4.html",
       "preludeFile": "prelude.0.html",
       "postludeFile": "postlude.0.html"
     },
@@ -1745,9 +1640,9 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.8.html",
+      "headFile": "head.5.html",
       "preludeFile": "prelude.0.html",
       "postludeFile": "postlude.0.html"
     },
@@ -1808,7 +1703,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -1871,7 +1766,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -1934,7 +1829,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -1997,7 +1892,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -2060,7 +1955,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -2123,7 +2018,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -2186,7 +2081,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -2249,7 +2144,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -2312,10 +2207,10 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n",
-        "\n    {\n      \"@context\": \"http://schema.org\",\n      \"@type\": \"WebSite\",\n      \"name\": \"Silver Bullet Tools\",\n      \"potentialAction\": {\n        \"@type\": \"SearchAction\",\n        \"target\": \"https:\\/\\/silverbullet.tools\\/fr\\/search?q={search_term_string}\",\n        \"query-input\": \"required name=search_term_string\"\n      },\n      \"url\": \"https:\\/\\/silverbullet.tools\"\n    }\n  "
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n",
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"WebSite\",\n  \"name\": \"Silver Bullet Tools\",\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.2.html",
+      "headFile": "head.3.html",
       "preludeFile": "prelude.2.html",
       "postludeFile": "postlude.0.html"
     },
@@ -2376,9 +2271,9 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.3.html",
+      "headFile": "head.2.html",
       "preludeFile": "prelude.1.html",
       "postludeFile": "postlude.1.html"
     },
@@ -2439,9 +2334,9 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.4.html",
+      "headFile": "head.2.html",
       "preludeFile": "prelude.1.html",
       "postludeFile": "postlude.1.html"
     },
@@ -2502,9 +2397,9 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.5.html",
+      "headFile": "head.2.html",
       "preludeFile": "prelude.1.html",
       "postludeFile": "postlude.1.html"
     },
@@ -2565,7 +2460,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/fr\\/pages\\/how-to-use-the-silver-bullet\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/fr/pages/how-to-use-the-silver-bullet\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -2626,7 +2521,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/fr\\/pages\\/privacy-policy\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/fr/pages/privacy-policy\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -2687,7 +2582,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/fr\\/pages\\/terms-conditions\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/fr/pages/terms-conditions\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -2752,9 +2647,9 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.6.html",
+      "headFile": "head.2.html",
       "preludeFile": "prelude.1.html",
       "postludeFile": "postlude.1.html"
     },
@@ -2813,7 +2708,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/fr\\/pages\\/shipping-information\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/fr/pages/shipping-information\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -2876,7 +2771,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/fr\\/pages\\/faq\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/fr/pages/faq\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -2937,7 +2832,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/fr\\/pages\\/warranty-returns-policy\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/fr/pages/warranty-returns-policy\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -3000,9 +2895,9 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/fr/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.7.html",
+      "headFile": "head.4.html",
       "preludeFile": "prelude.0.html",
       "postludeFile": "postlude.0.html"
     },
@@ -3063,7 +2958,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/fr/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -3124,7 +3019,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/fr\\/pages\\/silverbullet-full-picking-list\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/fr/pages/silverbullet-full-picking-list\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -3187,9 +3082,9 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/fr/collections/frontpage.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.8.html",
+      "headFile": "head.5.html",
       "preludeFile": "prelude.0.html",
       "postludeFile": "postlude.0.html"
     },
@@ -3250,7 +3145,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/fr/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -3313,7 +3208,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/fr/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -3376,7 +3271,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/fr/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -3439,7 +3334,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/fr/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -3502,7 +3397,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/fr/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -3565,7 +3460,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/fr/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -3628,9 +3523,9 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/fr/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.9.html",
+      "headFile": "head.6.html",
       "preludeFile": "prelude.0.html",
       "postludeFile": "postlude.0.html"
     },
@@ -3691,7 +3586,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.2.html",
       "preludeFile": "prelude.1.html",
@@ -3754,8 +3649,8 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n",
-        "\n    {\n      \"@context\": \"http://schema.org\",\n      \"@type\": \"WebSite\",\n      \"name\": \"Silver Bullet Tools\",\n      \"potentialAction\": {\n        \"@type\": \"SearchAction\",\n        \"target\": \"https:\\/\\/silverbullet.tools\\/de\\/search?q={search_term_string}\",\n        \"query-input\": \"required name=search_term_string\"\n      },\n      \"url\": \"https:\\/\\/silverbullet.tools\"\n    }\n  "
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n",
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"WebSite\",\n  \"name\": \"Silver Bullet Tools\",\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.3.html",
       "preludeFile": "prelude.2.html",
@@ -3818,9 +3713,9 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.4.html",
+      "headFile": "head.2.html",
       "preludeFile": "prelude.1.html",
       "postludeFile": "postlude.1.html"
     },
@@ -3883,9 +3778,9 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.5.html",
+      "headFile": "head.2.html",
       "preludeFile": "prelude.1.html",
       "postludeFile": "postlude.1.html"
     },
@@ -3946,9 +3841,9 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.6.html",
+      "headFile": "head.2.html",
       "preludeFile": "prelude.1.html",
       "postludeFile": "postlude.1.html"
     },
@@ -4009,7 +3904,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/de\\/pages\\/how-to-use-the-silver-bullet\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/de/pages/how-to-use-the-silver-bullet\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -4072,7 +3967,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/de\\/pages\\/faq\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/de/pages/faq\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -4133,7 +4028,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/de\\/pages\\/privacy-policy\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/de/pages/privacy-policy\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -4194,7 +4089,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/de\\/pages\\/shipping-information\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/de/pages/shipping-information\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -4255,7 +4150,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/de\\/pages\\/terms-conditions\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/de/pages/terms-conditions\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -4316,7 +4211,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/de\\/pages\\/warranty-returns-policy\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/de/pages/warranty-returns-policy\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -4377,7 +4272,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/de\\/pages\\/silverbullet-full-picking-list\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/de/pages/silverbullet-full-picking-list\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -4440,7 +4335,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/de/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -4503,7 +4398,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/de/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -4566,7 +4461,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/de/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -4629,9 +4524,9 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/de/collections/frontpage.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.7.html",
+      "headFile": "head.4.html",
       "preludeFile": "prelude.0.html",
       "postludeFile": "postlude.0.html"
     },
@@ -4692,9 +4587,9 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/de/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.8.html",
+      "headFile": "head.5.html",
       "preludeFile": "prelude.0.html",
       "postludeFile": "postlude.0.html"
     },
@@ -4755,7 +4650,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/de/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -4818,7 +4713,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/de/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -4881,7 +4776,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/de/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -4944,7 +4839,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/de/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -5007,9 +4902,9 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/de/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.9.html",
+      "headFile": "head.6.html",
       "preludeFile": "prelude.0.html",
       "postludeFile": "postlude.0.html"
     },
@@ -5070,10 +4965,10 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n",
-        "\n    {\n      \"@context\": \"http://schema.org\",\n      \"@type\": \"WebSite\",\n      \"name\": \"Silver Bullet Tools\",\n      \"potentialAction\": {\n        \"@type\": \"SearchAction\",\n        \"target\": \"https:\\/\\/silverbullet.tools\\/it\\/search?q={search_term_string}\",\n        \"query-input\": \"required name=search_term_string\"\n      },\n      \"url\": \"https:\\/\\/silverbullet.tools\"\n    }\n  "
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n",
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"WebSite\",\n  \"name\": \"Silver Bullet Tools\",\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.2.html",
+      "headFile": "head.3.html",
       "preludeFile": "prelude.2.html",
       "postludeFile": "postlude.0.html"
     },
@@ -5134,9 +5029,9 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.3.html",
+      "headFile": "head.2.html",
       "preludeFile": "prelude.1.html",
       "postludeFile": "postlude.1.html"
     },
@@ -5197,7 +5092,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/it\\/pages\\/how-to-use-the-silver-bullet\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/it/pages/how-to-use-the-silver-bullet\"\n}\n"
       ],
       "headFile": "head.4.html",
       "preludeFile": "prelude.0.html",
@@ -5258,7 +5153,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/it\\/pages\\/privacy-policy\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/it/pages/privacy-policy\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -5321,9 +5216,9 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.5.html",
+      "headFile": "head.2.html",
       "preludeFile": "prelude.1.html",
       "postludeFile": "postlude.1.html"
     },
@@ -5384,9 +5279,9 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.6.html",
+      "headFile": "head.2.html",
       "preludeFile": "prelude.1.html",
       "postludeFile": "postlude.1.html"
     },
@@ -5449,9 +5344,9 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.7.html",
+      "headFile": "head.2.html",
       "preludeFile": "prelude.1.html",
       "postludeFile": "postlude.1.html"
     },
@@ -5510,7 +5405,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/it\\/pages\\/warranty-returns-policy\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/it/pages/warranty-returns-policy\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -5571,7 +5466,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/it\\/pages\\/silverbullet-full-picking-list\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/it/pages/silverbullet-full-picking-list\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -5632,7 +5527,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/it\\/pages\\/terms-conditions\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/it/pages/terms-conditions\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -5695,7 +5590,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/it\\/pages\\/faq\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/it/pages/faq\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -5758,9 +5653,9 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/it/collections/frontpage.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.8.html",
+      "headFile": "head.5.html",
       "preludeFile": "prelude.0.html",
       "postludeFile": "postlude.0.html"
     },
@@ -5819,7 +5714,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/it\\/pages\\/shipping-information\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/it/pages/shipping-information\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -5882,7 +5777,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/it/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -5945,7 +5840,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/it/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -6008,7 +5903,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/it/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -6071,7 +5966,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/it/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -6134,9 +6029,9 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/it/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.9.html",
+      "headFile": "head.6.html",
       "preludeFile": "prelude.0.html",
       "postludeFile": "postlude.0.html"
     },
@@ -6197,7 +6092,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/it/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -6260,7 +6155,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/it/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -6323,7 +6218,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/it/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -6386,10 +6281,10 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n",
-        "\n    {\n      \"@context\": \"http://schema.org\",\n      \"@type\": \"WebSite\",\n      \"name\": \"Silver Bullet Tools\",\n      \"potentialAction\": {\n        \"@type\": \"SearchAction\",\n        \"target\": \"https:\\/\\/silverbullet.tools\\/es\\/search?q={search_term_string}\",\n        \"query-input\": \"required name=search_term_string\"\n      },\n      \"url\": \"https:\\/\\/silverbullet.tools\"\n    }\n  "
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n",
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"WebSite\",\n  \"name\": \"Silver Bullet Tools\",\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.2.html",
+      "headFile": "head.3.html",
       "preludeFile": "prelude.2.html",
       "postludeFile": "postlude.0.html"
     },
@@ -6450,9 +6345,9 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.3.html",
+      "headFile": "head.2.html",
       "preludeFile": "prelude.1.html",
       "postludeFile": "postlude.1.html"
     },
@@ -6513,7 +6408,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/it/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -6576,9 +6471,9 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.4.html",
+      "headFile": "head.2.html",
       "preludeFile": "prelude.1.html",
       "postludeFile": "postlude.1.html"
     },
@@ -6641,9 +6536,9 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.5.html",
+      "headFile": "head.2.html",
       "preludeFile": "prelude.1.html",
       "postludeFile": "postlude.1.html"
     },
@@ -6704,9 +6599,9 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.6.html",
+      "headFile": "head.2.html",
       "preludeFile": "prelude.1.html",
       "postludeFile": "postlude.1.html"
     },
@@ -6767,7 +6662,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/es\\/pages\\/how-to-use-the-silver-bullet\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/es/pages/how-to-use-the-silver-bullet\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -6828,7 +6723,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/es\\/pages\\/terms-conditions\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/es/pages/terms-conditions\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -6889,7 +6784,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/es\\/pages\\/privacy-policy\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/es/pages/privacy-policy\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -6952,9 +6847,9 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/es/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.7.html",
+      "headFile": "head.4.html",
       "preludeFile": "prelude.0.html",
       "postludeFile": "postlude.0.html"
     },
@@ -7015,7 +6910,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/es\\/pages\\/faq\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/es/pages/faq\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -7076,7 +6971,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/es\\/pages\\/warranty-returns-policy\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/es/pages/warranty-returns-policy\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -7137,7 +7032,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/es\\/pages\\/silverbullet-full-picking-list\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/es/pages/silverbullet-full-picking-list\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -7200,9 +7095,9 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/es/collections/frontpage.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.8.html",
+      "headFile": "head.5.html",
       "preludeFile": "prelude.0.html",
       "postludeFile": "postlude.0.html"
     },
@@ -7261,7 +7156,7 @@
       "ldjson": [],
       "headExtras": [],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\\/es\\/pages\\/shipping-information\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools/es/pages/shipping-information\"\n}\n"
       ],
       "headFile": "head.0.html",
       "preludeFile": "prelude.0.html",
@@ -7324,7 +7219,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/es/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -7387,7 +7282,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/es/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -7450,7 +7345,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/es/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -7513,9 +7408,9 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/es/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
-      "headFile": "head.9.html",
+      "headFile": "head.6.html",
       "preludeFile": "prelude.0.html",
       "postludeFile": "postlude.0.html"
     },
@@ -7576,7 +7471,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/es/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -7639,7 +7534,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/es/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -7702,7 +7597,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/es/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",
@@ -7765,7 +7660,7 @@
         "<link rel=\"alternate\" type=\"application/atom+xml\" title=\"Feed\" href=\"/es/blogs/news.atom\">"
       ],
       "ldjsonBody": [
-        "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Silver Bullet Tools\",\n    \n      \"logo\": \"https:\\/\\/silverbullet.tools\\/assets\\/Logo.959ad3baaf.png\",\n    \n    \"sameAs\": [\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\",\n      \"\"\n    ],\n    \"url\": \"https:\\/\\/silverbullet.tools\"\n  }\n"
+        "\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Silver Bullet Tools\",\n  \"logo\": \"https://silverbullet.tools/assets/Logo.959ad3baaf.png\",\n  \"sameAs\": [],\n  \"url\": \"https://silverbullet.tools\"\n}\n"
       ],
       "headFile": "head.1.html",
       "preludeFile": "prelude.0.html",

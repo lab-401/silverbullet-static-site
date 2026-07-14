@@ -1,0 +1,97 @@
+[
+  {
+    "id": "replica.desktop.search-modal",
+    "status": "PASS",
+    "detail": "opens; input visible; closes on Escape=true"
+  },
+  {
+    "id": "replica.desktop.nav-dropdown",
+    "status": "INFO",
+    "detail": "no dropdown submenus in header (top-level links=4)"
+  },
+  {
+    "id": "replica.desktop.lang-selector-open",
+    "status": "PASS",
+    "detail": "aria-expanded=true wrapper-hidden=false links=en:/pages/faq fr:/fr/pages/faq de:/de/pages/faq it:/it/pages/faq es:/es/pages/faq"
+  },
+  {
+    "id": "replica.desktop.lang-selector-hrefs",
+    "status": "PASS",
+    "detail": "fr href=/fr/pages/faq (expected /fr/pages/faq)"
+  },
+  {
+    "id": "replica.desktop.lang-selector-click-navigates",
+    "status": "FAIL",
+    "detail": "after click url=/pages/faq title=\"FAQ – Silver Bullet Tools\" bodyStart=\"Skip to content Home Silver Bullet Learn FAQ Log in Cart FAQ SilverBullet Tools \""
+  },
+  {
+    "id": "replica.product.thumbnails",
+    "status": "PASS",
+    "detail": "before=template--19058423529810__main-42234363806034 clicked-target=template--19058423529810__main-42232841797970 after=template--19058423529810__main-42232841797970 aria-current=template--19058423529810__main-42232841797970 imgChanged=true"
+  },
+  {
+    "id": "replica.product.zoom",
+    "status": "FAIL",
+    "detail": "hoverMagnify=false modalOpen=false modalExists=true"
+  },
+  {
+    "id": "replica.product.buy-now",
+    "status": "PASS",
+    "detail": "text=\"Buy it now\" visible=true"
+  },
+  {
+    "id": "replica.product.quantity",
+    "status": "PASS",
+    "detail": "start=1 after-plus=2 after-minus=1"
+  },
+  {
+    "id": "replica.product.pageerrors",
+    "status": "PASS",
+    "detail": "no JS page errors during product interactions"
+  },
+  {
+    "id": "replica.home.sliders-desktop",
+    "status": "INFO",
+    "detail": "slider-components=2, none render arrow buttons at 1440px: [{\"sliderId\":\"Slider-template--19058423365970__d09c702e-3a79-45ec-bb8d-9f36f3a6e798\",\"heading\":\"Compatible Brands\",\"buttons\":0,\"scrollable\":false},{\"sliderId\":\"Slider-template--19058423365970__96fae21d-eb3c-4906-abcd-264dec221dc4\",\"heading\":\"Trusted by lock-pick legends.\",\"buttons\":0,\"scrollable\":false}]"
+  },
+  {
+    "id": "replica.mobile.hamburger",
+    "status": "PASS",
+    "detail": "drawer open; 5 visible links: Home -> / ; Silver Bullet -> /products/silver-bullet-2 ; Learn -> /pages/how-to-use-the-silver-bullet ; FAQ -> /pages/faq ; Log in -> https://silverbullet.tools/customer_authentication/redirect?locale=en&region_country=TR"
+  },
+  {
+    "id": "replica.mobile.slider-buttons",
+    "status": "INFO",
+    "detail": "no arrow buttons at 390px either: [{\"id\":\"Slider-template--19058423365970__d09c702e-3a79-45ec-bb8d-9f36f3a6e798\",\"buttons\":0,\"scrollable\":false},{\"id\":\"Slider-template--19058423365970__96fae21d-eb3c-4906-abcd-264dec221dc4\",\"buttons\":0,\"scrollable\":false}]"
+  },
+  {
+    "id": "replica.mobile.slider-swipeable",
+    "status": "INFO",
+    "detail": "no horizontally scrollable slider found at 390px"
+  },
+  {
+    "id": "replica.mobile.pageerrors",
+    "status": "PASS",
+    "detail": "no JS page errors on mobile homepage"
+  },
+  {
+    "id": "live.desktop.search-modal",
+    "status": "PASS",
+    "detail": "opens on live too"
+  },
+  {
+    "id": "live.desktop.nav-dropdowns",
+    "status": "INFO",
+    "detail": "dropdowns=0"
+  },
+  {
+    "id": "live.home.sliders",
+    "status": "INFO",
+    "detail": "[{\"id\":\"Slider-template--19058423365970__d09c702e-3a79-45ec-bb8d-9f36f3a6e798\",\"buttons\":0},{\"id\":\"Slider-template--19058423365970__96fae21d-eb3c-4906-abcd-264dec221dc4\",\"buttons\":0}]"
+  },
+  {
+    "id": "live.desktop.lang-selector-click",
+    "status": "FAIL",
+    "detail": "href=# landed=/pages/faq"
+  }
+]

@@ -44,11 +44,6 @@
 
 <script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
 <script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
-<script>
-  window.ShopifyPay = window.ShopifyPay || {};
-  window.ShopifyPay.apiHost = "shop.app\/pay";
-  window.ShopifyPay.redirectState = null;
-</script>
 
 
 
@@ -56,19 +51,13 @@
 
 
 
-<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
 
 
 
 
-<script>
-  window.Shopify = window.Shopify || {};
-  window.Shopify.MCP = window.Shopify.MCP || {};
-  window.Shopify.MCP.enabled = true;
-  window.Shopify.MCP.shop = "sbtools.myshopify.com";
-  window.Shopify.MCP.mcpEndpoint = "https:\/\/silverbullet.tools\/api\/mcp";
-  window.Shopify.MCP.tools = [{"name":"search_shop_policies_and_faqs","description":"Used to get facts about the stores policies, products, or services.\nSome examples of questions you can ask are:\n  - What is your return policy?\n  - What is your shipping policy?\n  - What is your phone number?\n  - What are your hours of operation?\"\n","inputSchema":{"$schema":"https:\/\/json-schema.org\/draft\/2020-12\/schema","type":"object","properties":{"query":{"type":"string","description":"A natural language query."},"context":{"type":"string","description":"Additional information about the request such as user demographics, mood, location, or other relevant details that could help in tailoring the response appropriately."}},"required":["query"]}}];
-</script>
+
+
+
 
 
 
@@ -335,4 +324,4 @@
 
 
 
-<script data-sb-migration="langify-no-redirect">window.lyBlockedRoutesList=["/"];</script>
+<script data-sb-migration="static-shims">window.lyBlockedRoutesList=["/"];(function(){var RE=/(^|\/)cart(\.js|\/update\.js)($|\?)/;var EMPTY='{"items":[],"item_count":0,"total_price":0,"currency":"EUR","attributes":{},"note":null}';var o=XMLHttpRequest.prototype.open,s=XMLHttpRequest.prototype.send;XMLHttpRequest.prototype.open=function(m,u){this._sbCart=RE.test(String(u));return o.apply(this,arguments)};XMLHttpRequest.prototype.send=function(){var x=this;if(x._sbCart){setTimeout(function(){try{Object.defineProperty(x,'status',{value:200});Object.defineProperty(x,'readyState',{value:4});Object.defineProperty(x,'responseText',{value:EMPTY});Object.defineProperty(x,'response',{value:EMPTY});}catch(e){}x.onreadystatechange&&x.onreadystatechange();x.onload&&x.onload()},0);return}return s.apply(this,arguments)};var f=window.fetch;window.fetch=function(u,opt){var url=typeof u==='string'?u:(u&&u.url)||'';if(RE.test(url)){return Promise.resolve(new Response(EMPTY,{status:200,headers:{'Content-Type':'application/json'}}))}return f.apply(this,arguments)};})();</script>

@@ -63,8 +63,7 @@ const FINDINGS_SCHEMA = {
 phase('Triage');
 const triage = await agent(
   `Read the file ${ROOT}\\qa\\visual-report.json (JSON array of {pair, mismatchPct, heightDelta, error}).
-Return the pairs that need human-level review: every entry with an error, plus every entry with mismatchPct > 0.25.
-Cap at 30 pairs, keeping the worst by mismatchPct; if you cap, prefer covering distinct pages over duplicate viewports of the same page.
+Return the pairs needing eyes-on review: every entry with an error, every entry with mismatchPct > 0.25, PLUS the top 8 by mismatchPct regardless of threshold (to visually confirm even sub-threshold residuals). Prefer distinct pages over duplicate viewports when selecting the top 8. Cap at 30 total.
 Return only via structured output.`,
   { label: 'triage-visual-report', schema: PAIRS_SCHEMA, effort: 'low' }
 );
@@ -72,11 +71,10 @@ log(`Reviewing ${triage.pairs.length} visual pairs`);
 
 phase('Visual review');
 const CONTEXT = `Context: this is a static replica (Astro) of the Shopify site silverbullet.tools.
+The "live" screenshots come from a local reference server serving the RAW scraped Shopify HTML with mirrored assets (the real live site is behind a Cloudflare bot wall). Shopify's wallet JS cannot complete its API calls there, so the reference's "Buy it now"/ShopPay area may render as an empty skeleton.
 Known INTENTIONAL deltas (classify as expected-delta):
-- The Shop Pay purple accelerated-checkout "Buy with ShopPay" button on the live site is replaced by a plain dark "Buy it now" button in the replica.
-- The "Follow on Shop" purple widget in the live footer is removed in the replica.
-- Cookie/consent banners on the live site do not exist in the replica.
-Live-site dynamics (classify live-site-dynamic): rotating testimonials/announcements captured at different states, ad-hoc sale popups.
+- The replica shows a static dark "Buy it now" button (localized label) where the reference shows a ShopPay skeleton/empty area.
+- The "Follow on Shop" widget is removed in the replica.
 Screenshot noise: partially-loaded lazy images, font rendering AA, scrollbar overlays.
 Everything else that visibly differs (layout shifts, missing images, missing sections, broken styles, wrong fonts, missing buttons) is a replica-defect.`;
 

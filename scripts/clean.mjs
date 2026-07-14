@@ -47,13 +47,16 @@ const STRIP_SRC = [
   'storefront-',
   'origin_trials-',
   'portable-wallets',
-  // theme scripts whose only job is Shopify backend I/O:
-  'product-form.js',
-  'localization-form.js',
-  'predictive-search.js',
-  'cart-notification.js',
-  'cart-drawer.js',
-  '/assets/cart.js',
+  // theme scripts whose only job is Shopify backend I/O. NOTE: matched by
+  // name prefix (not ".js") because URL localization renames them to
+  // <name>.<hash>.js before this check runs.
+  // localization-form. is KEPT: it drives the locale dropdown open/close;
+  // scripts/patch-assets.mjs replaces its form.submit() with href navigation.
+  'product-form.',
+  'predictive-search.',
+  'cart-notification.',
+  'cart-drawer.',
+  '/assets/cart.',
 ];
 
 // inline-script content markers (strip). Checked only if no KEEP marker matches.
@@ -83,6 +86,8 @@ const STRIP_INLINE = [
   'shop-follow-button',
   'shop-cart-sync',
   'signifyd', // fraud-protection app loader, dies with Shopify
+  'Shopify.MCP', // advertises a dead /api/mcp endpoint to agents
+  'ShopifyPay',
 ];
 const KEEP_INLINE = [
   "className.replace('no-js'", // theme no-js swap
@@ -153,6 +158,10 @@ for (const entry of manifest) {
   const enPath = decodeURIComponent(entry.path); // path without locale prefix
   let html = await readFile(path.join(ROOT, entry.file), 'utf8');
   html = rewriteEscapedUrls(rewriteUrls(html));
+  // locale-prefixed links to the root-scoped PDF download
+  html = html.replace(/\/(?:fr|de|it|es)(\/assets\/silverbullet-decoding-matrix\.pdf)/g, '$1');
+  // Shopify emits gtin13 as a leading-zero number literal - invalid JSON
+  html = html.replace(/"gtin13"\s*:\s*0(\d+)/g, '"gtin13": "0$1"');
 
   const $ = load(html);
   const stats = { page: `${locale}${enPath}`, scriptsStripped: 0, scriptsKept: 0, formsNeutralized: 0, buyButtons: 0 };
@@ -164,7 +173,19 @@ for (const entry of manifest) {
     const id = $el.attr('id') || '';
     const text = $el.html() || '';
     const type = ($el.attr('type') || '').toLowerCase();
-    if (type === 'application/ld+json') return; // keep, SEO phase owns these
+    if (type === 'application/ld+json') {
+      // normalize schema: drop dead SearchAction, empty sameAs, stale brand
+      try {
+        const data = JSON.parse($el.html());
+        if (data['@type'] === 'WebSite') delete data.potentialAction;
+        if (data['@type'] === 'Organization' && Array.isArray(data.sameAs)) data.sameAs = data.sameAs.filter(Boolean);
+        if (data['@type'] === 'Product' && data.brand?.name === 'sbtools') data.brand.name = 'Silver Bullet Tools';
+        $el.text('\n' + JSON.stringify(data, null, 2) + '\n');
+      } catch {
+        /* leave unparseable blocks untouched */
+      }
+      return;
+    }
     let strip = false;
     if (src && STRIP_SRC.some((s) => src.includes(s))) strip = true;
     else if (STRIP_SCRIPT_IDS.has(id)) strip = true;
@@ -189,12 +210,16 @@ for (const entry of manifest) {
     if (href.includes('shopifycloud') || href.includes('web-pixels') || href.includes('shop.app')) $(el).remove();
   });
   $('#shopify-digital-wallet, meta[name="shopify-checkout-api-token"], #in-context-paypal-metadata').remove();
+  $('link[type="application/json+oembed"]').remove();
   // Shopify "Follow on Shop" widget: service dies with the migration, strip element
   $('shop-follow-button').remove();
-  // langify (translation app) auto-redirects by browser language; it skips paths
-  // in lyBlockedRoutesList, so blocking "/" disables redirects while keeping the
-  // rest of the app's behavior (switcher visuals, translations are server-side)
-  $('head').append('<script data-sb-migration="langify-no-redirect">window.lyBlockedRoutesList=["/"];</script>\n');
+  // Static-site shims: (1) langify auto-redirects by browser language - it skips
+  // paths in lyBlockedRoutesList, so blocking "/" disables redirects while
+  // keeping the app's visuals; (2) langify cart-sync XHR/fetch to /cart.js and
+  // /cart/update.js gets an empty-cart JSON stub instead of a 404.
+  $('head').append(
+    `<script data-sb-migration="static-shims">window.lyBlockedRoutesList=["/"];(function(){var RE=/(^|\\/)cart(\\.js|\\/update\\.js)($|\\?)/;var EMPTY='{"items":[],"item_count":0,"total_price":0,"currency":"EUR","attributes":{},"note":null}';var o=XMLHttpRequest.prototype.open,s=XMLHttpRequest.prototype.send;XMLHttpRequest.prototype.open=function(m,u){this._sbCart=RE.test(String(u));return o.apply(this,arguments)};XMLHttpRequest.prototype.send=function(){var x=this;if(x._sbCart){setTimeout(function(){try{Object.defineProperty(x,'status',{value:200});Object.defineProperty(x,'readyState',{value:4});Object.defineProperty(x,'responseText',{value:EMPTY});Object.defineProperty(x,'response',{value:EMPTY});}catch(e){}x.onreadystatechange&&x.onreadystatechange();x.onload&&x.onload()},0);return}return s.apply(this,arguments)};var f=window.fetch;window.fetch=function(u,opt){var url=typeof u==='string'?u:(u&&u.url)||'';if(RE.test(url)){return Promise.resolve(new Response(EMPTY,{status:200,headers:{'Content-Type':'application/json'}}))}return f.apply(this,arguments)};})();</script>\n`
+  );
 
   // 3. replace accelerated checkout skeleton with static Buy-it-now button
   $('div[data-shopify="payment-button"]').each((_, el) => {
@@ -212,6 +237,9 @@ for (const entry of manifest) {
     const bare = action.replace(/^\/(fr|de|it|es)(?=\/)/, '');
     if (bare.startsWith('/cart/add')) {
       $el.attr('action', '#').attr('onsubmit', 'return false').attr('data-sb-migration', 'add-to-cart-form');
+      stats.formsNeutralized++;
+    } else if (bare === '/cart' || bare.startsWith('/cart?')) {
+      $el.attr('action', '#').attr('onsubmit', 'return false').attr('data-sb-migration', 'cart-form');
       stats.formsNeutralized++;
     } else if (bare.startsWith('/search')) {
       $el.attr('action', '#').attr('onsubmit', 'return false').attr('data-sb-migration', 'search-form');

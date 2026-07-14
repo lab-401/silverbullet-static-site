@@ -21,18 +21,26 @@ let postlude = sharedPart(page.locale, page.postludeFile);
 prelude = applyActiveNav(applyLangHrefs(prelude, page.path), page.activeNav);
 postlude = applyLangHrefs(postlude, page.path);
 
-const ldjson = [...(page.ldjson || []), ...(page.ldjsonBody || [])];
+// dedupe: Shopify emits the identical featured-product schema twice on the homepage
+const ldjson = [...new Set([...(page.ldjson || []), ...(page.ldjsonBody || [])])];
 
 // og:image & friends must be absolute; asset URLs were localized to /assets/...
 const site = (Astro.site?.href || 'https://silverbullet.tools/').replace(/\/$/, '');
 const og = (page.og || []).map((s) => s.replaceAll('content="/assets/', `content="${site}/assets/`));
+
+// blog index & collection templates ship no meta description; reuse og:description
+let description = page.description;
+if (!description) {
+  const m = (page.og || []).find((s) => s.includes('property="og:description"'))?.match(/content="([^"]*)"/);
+  if (m) description = m[1].replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>');
+}
 ---
 
 <html {...htmlAttrs}>
   <head>
     <Fragment set:html={headShared} />
     <title>{page.title}</title>
-    {page.description && <meta name="description" content={page.description} />}
+    {description && <meta name="description" content={description} />}
     {page.canonical && <link rel="canonical" href={page.canonical} />}
     {page.hreflang.map((h) => <link rel="alternate" hreflang={h.lang} href={h.href} />)}
     <Fragment set:html={og.join('\n')} />
