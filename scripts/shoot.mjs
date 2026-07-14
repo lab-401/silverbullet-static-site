@@ -10,7 +10,8 @@ const ROOT = new URL('..', import.meta.url).pathname.replace(/^\/([A-Za-z]:)/, '
 const which = process.argv[2];
 const vpArg = process.argv[3] || 'both';
 if (!['live', 'local'].includes(which)) throw new Error('arg: live|local');
-const BASE = which === 'live' ? 'https://silverbullet.tools' : 'http://127.0.0.1:4322';
+// SHOOT_BASE overrides the origin (e.g. the local reference server for 'live')
+const BASE = process.env.SHOOT_BASE || (which === 'live' ? 'https://silverbullet.tools' : 'http://127.0.0.1:4322');
 
 const VIEWPORTS = {
   desktop: { width: 1440, height: 1000 },
