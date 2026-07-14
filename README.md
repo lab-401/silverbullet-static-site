@@ -56,9 +56,14 @@ remain and are tagged for re-linking (`grep -r "data-sb-migration" src/scraped`)
 | `newsletter-form` | Footer newsletter signup (inert) | Wire to mail provider |
 | `search-form` | Header search (inert) | Optional: client-side search |
 | `cart-form` | Hidden cart-notification checkout form (inert) | None |
-| `country-selector` | Footer country/currency selector (inert) | Cosmetic only |
-| `language-selector` | Language switcher | Already works (static links + patched theme JS) |
+| `language-selector` | Language switcher | Works (static links + patched theme JS) |
 | `static-shims` | Injected head script: blocks langify auto-redirect, stubs cart XHR | None |
+
+Intentional design deviations from the original site: the footer
+country/currency selector is removed entirely (static site, EUR only);
+langify's browser-language auto-redirect is disabled (bad for SEO/UX);
+translations are the original server-rendered locale pages (source
+translations), served as static per-locale HTML with hreflang clusters.
 
 ## QA
 

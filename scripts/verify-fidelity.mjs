@@ -68,8 +68,9 @@ function normalizeDoc(html, source) {
   ].sort();
   $('script[type="application/ld+json"]').remove();
   $('meta[name="robots"][content*="noindex"]').remove();
-  // meta descriptions are intentionally ADDED where the theme omitted them
+  // meta descriptions and og:locale are intentionally ADDED by the renderer
   $('meta[name="description"]').remove();
+  $('meta[property="og:locale"], meta[property="og:locale:alternate"]').remove();
 
   const headChildren = [];
   $('head')

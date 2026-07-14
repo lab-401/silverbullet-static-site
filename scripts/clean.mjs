@@ -230,7 +230,22 @@ for (const entry of manifest) {
     stats.buyButtons++;
   });
 
-  // 4. neutralize forms
+  // 4a. remove the country/region selector entirely (currency selection is
+  // meaningless on a static site; per user decision 2026-07-14). Kills the
+  // ~250-entry country list too (~100KB/page). The language selector stays.
+  $('localization-form').each((_, el) => {
+    const $el = $(el);
+    if ($el.find('form[id*="CountryForm"], select[name="country_code"]').length) {
+      $el.remove();
+      stats.countrySelectorsRemoved = (stats.countrySelectorsRemoved || 0) + 1;
+    }
+  });
+  $('noscript').each((_, el) => {
+    const inner = $(el).html() || '';
+    if (inner.includes('CountryFormNoScript') || inner.includes('country_code')) $(el).remove();
+  });
+
+  // 4b. neutralize forms
   $('form').each((_, el) => {
     const $el = $(el);
     const action = $el.attr('action') || '';

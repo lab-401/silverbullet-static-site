@@ -28,6 +28,15 @@ const ldjson = [...new Set([...(page.ldjson || []), ...(page.ldjsonBody || [])])
 const site = (Astro.site?.href || 'https://silverbullet.tools/').replace(/\/$/, '');
 const og = (page.og || []).map((s) => s.replaceAll('content="/assets/', `content="${site}/assets/`));
 
+// og:locale reflects the CONTENT language (html lang attr - the live site
+// serves untranslated EN product pages under locale prefixes)
+const OG_LOCALE = { en: 'en_US', fr: 'fr_FR', de: 'de_DE', it: 'it_IT', es: 'es_ES' };
+const contentLang = (page.htmlAttrs.match(/lang="([a-z]{2})"/) || [])[1] || 'en';
+const ogLocale = OG_LOCALE[contentLang] || 'en_US';
+const ogLocaleAlternates = page.hreflang
+  .filter((h) => h.lang !== 'x-default' && OG_LOCALE[h.lang] && OG_LOCALE[h.lang] !== ogLocale)
+  .map((h) => OG_LOCALE[h.lang]);
+
 // blog index & collection templates ship no meta description; reuse og:description
 let description = page.description;
 if (!description) {
@@ -44,6 +53,8 @@ if (!description) {
     {page.canonical && <link rel="canonical" href={page.canonical} />}
     {page.hreflang.map((h) => <link rel="alternate" hreflang={h.lang} href={h.href} />)}
     <Fragment set:html={og.join('\n')} />
+    <meta property="og:locale" content={ogLocale} />
+    {ogLocaleAlternates.map((l) => <meta property="og:locale:alternate" content={l} />)}
     <Fragment set:html={(page.headExtras || []).join('\n')} />
     {ldjson.map((s) => <script type="application/ld+json" set:html={s} />)}
     {staging && <meta name="robots" content="noindex, nofollow" />}

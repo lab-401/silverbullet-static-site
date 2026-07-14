@@ -102,9 +102,10 @@ against this domain.
 | \`cart-form\` / \`cart-link\` / \`account-link\` | Inert cart/account UI |
 | \`newsletter-form\` | Inert newsletter signup |
 | \`search-form\` | Inert search UI |
-| \`language-selector\` | Language switcher (works — static links) |
-| \`country-selector\` | Cosmetic country/currency selector (inert) |
+| \`language-selector\` | Language switcher (fully functional — static links) |
 | \`static-shims\` | Runtime shims (cart stub, no auto-redirect) |
+
+The country/currency selector was removed entirely (all prices are EUR).
 
 ## Key pages
 

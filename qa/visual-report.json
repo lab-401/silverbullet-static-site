@@ -1,5 +1,133 @@
 [
   {
+    "pair": "it_products_spare-tips@mobile.png",
+    "mismatchPct": 3.772,
+    "badPixels": 50584,
+    "dims": {
+      "live": [
+        390,
+        3439
+      ],
+      "local": [
+        390,
+        3327
+      ]
+    },
+    "heightDelta": -112
+  },
+  {
+    "pair": "fr_pages_faq@mobile.png",
+    "mismatchPct": 3.254,
+    "badPixels": 50432,
+    "dims": {
+      "live": [
+        390,
+        3974
+      ],
+      "local": [
+        390,
+        3862
+      ]
+    },
+    "heightDelta": -112
+  },
+  {
+    "pair": "en_products_silver-bullet-2@mobile.png",
+    "mismatchPct": 2.521,
+    "badPixels": 50439,
+    "dims": {
+      "live": [
+        390,
+        5131
+      ],
+      "local": [
+        390,
+        5019
+      ]
+    },
+    "heightDelta": -112
+  },
+  {
+    "pair": "en_index@mobile.png",
+    "mismatchPct": 1.312,
+    "badPixels": 50388,
+    "dims": {
+      "live": [
+        390,
+        9850
+      ],
+      "local": [
+        390,
+        9738
+      ]
+    },
+    "heightDelta": -112
+  },
+  {
+    "pair": "de_index@mobile.png",
+    "mismatchPct": 0.039,
+    "badPixels": 1617,
+    "dims": {
+      "live": [
+        390,
+        10559
+      ],
+      "local": [
+        390,
+        10559
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "en_blogs_news@desktop.png",
+    "mismatchPct": 0.034,
+    "badPixels": 1187,
+    "dims": {
+      "live": [
+        1440,
+        2422
+      ],
+      "local": [
+        1440,
+        2422
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "en_pages_faq@desktop.png",
+    "mismatchPct": 0.031,
+    "badPixels": 1187,
+    "dims": {
+      "live": [
+        1440,
+        2671
+      ],
+      "local": [
+        1440,
+        2671
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "es_pages_faq@desktop.png",
+    "mismatchPct": 0.027,
+    "badPixels": 1142,
+    "dims": {
+      "live": [
+        1440,
+        2959
+      ],
+      "local": [
+        1440,
+        2959
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
     "pair": "fr_products_replacement-case@mobile.png",
     "mismatchPct": 0.027,
     "badPixels": 273,
@@ -27,6 +155,38 @@
       "local": [
         390,
         2548
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "fr_products_silver-bullet-2@desktop.png",
+    "mismatchPct": 0.027,
+    "badPixels": 1429,
+    "dims": {
+      "live": [
+        1440,
+        3738
+      ],
+      "local": [
+        1440,
+        3738
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "en_products_silver-bullet-2@desktop.png",
+    "mismatchPct": 0.022,
+    "badPixels": 1187,
+    "dims": {
+      "live": [
+        1440,
+        3738
+      ],
+      "local": [
+        1440,
+        3738
       ]
     },
     "heightDelta": 0
@@ -128,6 +288,22 @@
     "heightDelta": 0
   },
   {
+    "pair": "en_index@desktop.png",
+    "mismatchPct": 0.013,
+    "badPixels": 1187,
+    "dims": {
+      "live": [
+        1440,
+        6141
+      ],
+      "local": [
+        1440,
+        6141
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
     "pair": "es_products_silver-bullet-2@mobile.png",
     "mismatchPct": 0.013,
     "badPixels": 269,
@@ -144,17 +320,17 @@
     "heightDelta": 0
   },
   {
-    "pair": "it_products_spare-tips@mobile.png",
-    "mismatchPct": 0.011,
-    "badPixels": 151,
+    "pair": "fr_index@desktop.png",
+    "mismatchPct": 0.012,
+    "badPixels": 1138,
     "dims": {
       "live": [
-        390,
-        3439
+        1440,
+        6548
       ],
       "local": [
-        390,
-        3439
+        1440,
+        6548
       ]
     },
     "heightDelta": 0
@@ -288,22 +464,6 @@
     "heightDelta": 0
   },
   {
-    "pair": "de_index@mobile.png",
-    "mismatchPct": 0.007,
-    "badPixels": 288,
-    "dims": {
-      "live": [
-        390,
-        10559
-      ],
-      "local": [
-        390,
-        10559
-      ]
-    },
-    "heightDelta": 0
-  },
-  {
     "pair": "it_products_replacement-case@desktop.png",
     "mismatchPct": 0.006,
     "badPixels": 151,
@@ -363,22 +523,6 @@
       "local": [
         1440,
         4014
-      ]
-    },
-    "heightDelta": 0
-  },
-  {
-    "pair": "fr_products_silver-bullet-2@desktop.png",
-    "mismatchPct": 0.004,
-    "badPixels": 242,
-    "dims": {
-      "live": [
-        1440,
-        3738
-      ],
-      "local": [
-        1440,
-        3738
       ]
     },
     "heightDelta": 0
@@ -587,22 +731,6 @@
       "local": [
         1440,
         1096
-      ]
-    },
-    "heightDelta": 0
-  },
-  {
-    "pair": "en_pages_faq@desktop.png",
-    "mismatchPct": 0,
-    "badPixels": 0,
-    "dims": {
-      "live": [
-        1440,
-        2671
-      ],
-      "local": [
-        1440,
-        2671
       ]
     },
     "heightDelta": 0
@@ -1104,22 +1232,6 @@
     "heightDelta": 0
   },
   {
-    "pair": "es_pages_faq@desktop.png",
-    "mismatchPct": 0,
-    "badPixels": 0,
-    "dims": {
-      "live": [
-        1440,
-        2959
-      ],
-      "local": [
-        1440,
-        2959
-      ]
-    },
-    "heightDelta": 0
-  },
-  {
     "pair": "es_pages_silverbullet-full-picking-list@desktop.png",
     "mismatchPct": 0,
     "badPixels": 0,
@@ -1483,22 +1595,6 @@
       "local": [
         390,
         2244
-      ]
-    },
-    "heightDelta": 0
-  },
-  {
-    "pair": "fr_pages_faq@mobile.png",
-    "mismatchPct": 0,
-    "badPixels": 0,
-    "dims": {
-      "live": [
-        390,
-        3974
-      ],
-      "local": [
-        390,
-        3974
       ]
     },
     "heightDelta": 0
@@ -2288,38 +2384,6 @@
     "heightDelta": 0
   },
   {
-    "pair": "en_index@desktop.png",
-    "mismatchPct": 0,
-    "badPixels": 0,
-    "dims": {
-      "live": [
-        1440,
-        6141
-      ],
-      "local": [
-        1440,
-        6141
-      ]
-    },
-    "heightDelta": 0
-  },
-  {
-    "pair": "en_products_silver-bullet-2@desktop.png",
-    "mismatchPct": 0,
-    "badPixels": 0,
-    "dims": {
-      "live": [
-        1440,
-        3738
-      ],
-      "local": [
-        1440,
-        3738
-      ]
-    },
-    "heightDelta": 0
-  },
-  {
     "pair": "en_pages_terms-conditions@desktop.png",
     "mismatchPct": 0,
     "badPixels": 0,
@@ -2379,22 +2443,6 @@
       "local": [
         1440,
         3775
-      ]
-    },
-    "heightDelta": 0
-  },
-  {
-    "pair": "en_blogs_news@desktop.png",
-    "mismatchPct": 0,
-    "badPixels": 0,
-    "dims": {
-      "live": [
-        1440,
-        2422
-      ],
-      "local": [
-        1440,
-        2422
       ]
     },
     "heightDelta": 0
@@ -2507,22 +2555,6 @@
       "local": [
         1440,
         2801
-      ]
-    },
-    "heightDelta": 0
-  },
-  {
-    "pair": "fr_index@desktop.png",
-    "mismatchPct": 0,
-    "badPixels": 0,
-    "dims": {
-      "live": [
-        1440,
-        6548
-      ],
-      "local": [
-        1440,
-        6548
       ]
     },
     "heightDelta": 0
@@ -3131,38 +3163,6 @@
       "local": [
         1440,
         2566
-      ]
-    },
-    "heightDelta": 0
-  },
-  {
-    "pair": "en_index@mobile.png",
-    "mismatchPct": 0,
-    "badPixels": 0,
-    "dims": {
-      "live": [
-        390,
-        9850
-      ],
-      "local": [
-        390,
-        9850
-      ]
-    },
-    "heightDelta": 0
-  },
-  {
-    "pair": "en_products_silver-bullet-2@mobile.png",
-    "mismatchPct": 0,
-    "badPixels": 0,
-    "dims": {
-      "live": [
-        390,
-        5131
-      ],
-      "local": [
-        390,
-        5131
       ]
     },
     "heightDelta": 0
