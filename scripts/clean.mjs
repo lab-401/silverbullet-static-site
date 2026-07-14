@@ -39,6 +39,7 @@ const STRIP_SRC = [
   'standard-actions.js',
   'boomerang',
   'shopify-perf-kit',
+  'webmcp',
   // shopifycloud platform files that were localized into /assets before stripping
   'loader.init-shop-cart-sync',
   'shop-follow-button',
@@ -81,6 +82,7 @@ const STRIP_INLINE = [
   'cart-performance',
   'shop-follow-button',
   'shop-cart-sync',
+  'signifyd', // fraud-protection app loader, dies with Shopify
 ];
 const KEEP_INLINE = [
   "className.replace('no-js'", // theme no-js swap
@@ -189,6 +191,10 @@ for (const entry of manifest) {
   $('#shopify-digital-wallet, meta[name="shopify-checkout-api-token"], #in-context-paypal-metadata').remove();
   // Shopify "Follow on Shop" widget: service dies with the migration, strip element
   $('shop-follow-button').remove();
+  // langify (translation app) auto-redirects by browser language; it skips paths
+  // in lyBlockedRoutesList, so blocking "/" disables redirects while keeping the
+  // rest of the app's behavior (switcher visuals, translations are server-side)
+  $('head').append('<script data-sb-migration="langify-no-redirect">window.lyBlockedRoutesList=["/"];</script>\n');
 
   // 3. replace accelerated checkout skeleton with static Buy-it-now button
   $('div[data-shopify="payment-button"]').each((_, el) => {

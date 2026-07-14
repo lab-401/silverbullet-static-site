@@ -1,0 +1,3522 @@
+[
+  {
+    "pair": "de_index@mobile.png",
+    "mismatchPct": 96.529,
+    "badPixels": 3692731,
+    "dims": {
+      "live": [
+        390,
+        9809
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -8965
+  },
+  {
+    "pair": "it_index@mobile.png",
+    "mismatchPct": 96.529,
+    "badPixels": 3692731,
+    "dims": {
+      "live": [
+        390,
+        9809
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -8965
+  },
+  {
+    "pair": "es_index@mobile.png",
+    "mismatchPct": 96.529,
+    "badPixels": 3692731,
+    "dims": {
+      "live": [
+        390,
+        9809
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -8965
+  },
+  {
+    "pair": "en_products_silver-bullet@mobile.png",
+    "mismatchPct": 95.539,
+    "badPixels": 6428790,
+    "dims": {
+      "live": [
+        390,
+        844
+      ],
+      "local": [
+        1254,
+        5366
+      ]
+    },
+    "heightDelta": 4522
+  },
+  {
+    "pair": "fr_blogs_news_getting-started-with-the-silver-bullet@mobile.png",
+    "mismatchPct": 90.449,
+    "badPixels": 3094893,
+    "dims": {
+      "live": [
+        634,
+        5397
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -4553
+  },
+  {
+    "pair": "de_blogs_news_getting-started-with-the-silver-bullet@mobile.png",
+    "mismatchPct": 90.449,
+    "badPixels": 3094893,
+    "dims": {
+      "live": [
+        634,
+        5397
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -4553
+  },
+  {
+    "pair": "it_blogs_news_getting-started-with-the-silver-bullet@mobile.png",
+    "mismatchPct": 90.449,
+    "badPixels": 3094893,
+    "dims": {
+      "live": [
+        634,
+        5397
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -4553
+  },
+  {
+    "pair": "es_blogs_news_getting-started-with-the-silver-bullet@mobile.png",
+    "mismatchPct": 90.449,
+    "badPixels": 3094893,
+    "dims": {
+      "live": [
+        634,
+        5397
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -4553
+  },
+  {
+    "pair": "en_pages_terms-conditions@mobile.png",
+    "mismatchPct": 90.261,
+    "badPixels": 6062483,
+    "dims": {
+      "live": [
+        390,
+        844
+      ],
+      "local": [
+        390,
+        17222
+      ]
+    },
+    "heightDelta": 16378
+  },
+  {
+    "pair": "fr_pages_terms-conditions@mobile.png",
+    "mismatchPct": 90.179,
+    "badPixels": 6030183,
+    "dims": {
+      "live": [
+        390,
+        17146
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -16302
+  },
+  {
+    "pair": "de_pages_terms-conditions@mobile.png",
+    "mismatchPct": 90.179,
+    "badPixels": 6030183,
+    "dims": {
+      "live": [
+        390,
+        17146
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -16302
+  },
+  {
+    "pair": "it_pages_terms-conditions@mobile.png",
+    "mismatchPct": 90.179,
+    "badPixels": 6030183,
+    "dims": {
+      "live": [
+        390,
+        17146
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -16302
+  },
+  {
+    "pair": "es_pages_terms-conditions@mobile.png",
+    "mismatchPct": 90.179,
+    "badPixels": 6030183,
+    "dims": {
+      "live": [
+        390,
+        17146
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -16302
+  },
+  {
+    "pair": "fr_blogs_news_-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extrav@mobile.png",
+    "mismatchPct": 85.62,
+    "badPixels": 1470638,
+    "dims": {
+      "live": [
+        576,
+        2982
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -2138
+  },
+  {
+    "pair": "de_blogs_news_-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extrav@mobile.png",
+    "mismatchPct": 85.62,
+    "badPixels": 1470638,
+    "dims": {
+      "live": [
+        576,
+        2982
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -2138
+  },
+  {
+    "pair": "it_blogs_news_-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extrav@mobile.png",
+    "mismatchPct": 85.62,
+    "badPixels": 1470638,
+    "dims": {
+      "live": [
+        576,
+        2982
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -2138
+  },
+  {
+    "pair": "es_blogs_news_-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extrav@mobile.png",
+    "mismatchPct": 85.62,
+    "badPixels": 1470638,
+    "dims": {
+      "live": [
+        390,
+        844
+      ],
+      "local": [
+        576,
+        2982
+      ]
+    },
+    "heightDelta": 2138
+  },
+  {
+    "pair": "de_blogs_news_-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extrav@desktop.png",
+    "mismatchPct": 84.276,
+    "badPixels": 3399229,
+    "dims": {
+      "live": [
+        1440,
+        1000
+      ],
+      "local": [
+        1440,
+        2801
+      ]
+    },
+    "heightDelta": 1801
+  },
+  {
+    "pair": "fr_blogs_news_silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy@mobile.png",
+    "mismatchPct": 82.526,
+    "badPixels": 1404665,
+    "dims": {
+      "live": [
+        576,
+        2955
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -2111
+  },
+  {
+    "pair": "de_blogs_news_silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy@mobile.png",
+    "mismatchPct": 82.526,
+    "badPixels": 1404665,
+    "dims": {
+      "live": [
+        576,
+        2955
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -2111
+  },
+  {
+    "pair": "it_blogs_news_silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy@mobile.png",
+    "mismatchPct": 82.526,
+    "badPixels": 1404665,
+    "dims": {
+      "live": [
+        576,
+        2955
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -2111
+  },
+  {
+    "pair": "es_blogs_news_silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy@mobile.png",
+    "mismatchPct": 82.526,
+    "badPixels": 1404665,
+    "dims": {
+      "live": [
+        576,
+        2955
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -2111
+  },
+  {
+    "pair": "fr_pages_warranty-returns-policy@mobile.png",
+    "mismatchPct": 81.747,
+    "badPixels": 1663877,
+    "dims": {
+      "live": [
+        390,
+        5219
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -4375
+  },
+  {
+    "pair": "de_pages_warranty-returns-policy@mobile.png",
+    "mismatchPct": 81.747,
+    "badPixels": 1663877,
+    "dims": {
+      "live": [
+        390,
+        5219
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -4375
+  },
+  {
+    "pair": "it_pages_warranty-returns-policy@mobile.png",
+    "mismatchPct": 81.747,
+    "badPixels": 1663877,
+    "dims": {
+      "live": [
+        390,
+        5219
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -4375
+  },
+  {
+    "pair": "es_pages_warranty-returns-policy@mobile.png",
+    "mismatchPct": 81.747,
+    "badPixels": 1663877,
+    "dims": {
+      "live": [
+        390,
+        5219
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -4375
+  },
+  {
+    "pair": "fr_blogs_news@mobile.png",
+    "mismatchPct": 81.024,
+    "badPixels": 1168538,
+    "dims": {
+      "live": [
+        390,
+        3698
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -2854
+  },
+  {
+    "pair": "de_blogs_news@mobile.png",
+    "mismatchPct": 81.024,
+    "badPixels": 1168538,
+    "dims": {
+      "live": [
+        390,
+        3698
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -2854
+  },
+  {
+    "pair": "it_blogs_news@mobile.png",
+    "mismatchPct": 81.024,
+    "badPixels": 1168538,
+    "dims": {
+      "live": [
+        390,
+        3698
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -2854
+  },
+  {
+    "pair": "es_blogs_news@mobile.png",
+    "mismatchPct": 81.024,
+    "badPixels": 1168538,
+    "dims": {
+      "live": [
+        390,
+        3698
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -2854
+  },
+  {
+    "pair": "fr_blogs_news_silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy@mobile.png",
+    "mismatchPct": 80.592,
+    "badPixels": 1207877,
+    "dims": {
+      "live": [
+        576,
+        2602
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -1758
+  },
+  {
+    "pair": "de_blogs_news_silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy@mobile.png",
+    "mismatchPct": 80.592,
+    "badPixels": 1207877,
+    "dims": {
+      "live": [
+        576,
+        2602
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -1758
+  },
+  {
+    "pair": "it_blogs_news_silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy@mobile.png",
+    "mismatchPct": 80.592,
+    "badPixels": 1207877,
+    "dims": {
+      "live": [
+        576,
+        2602
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -1758
+  },
+  {
+    "pair": "fr_blogs_news_silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-too@mobile.png",
+    "mismatchPct": 78.047,
+    "badPixels": 847400,
+    "dims": {
+      "live": [
+        576,
+        1885
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -1041
+  },
+  {
+    "pair": "de_blogs_news_silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-too@mobile.png",
+    "mismatchPct": 78.047,
+    "badPixels": 847400,
+    "dims": {
+      "live": [
+        576,
+        1885
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -1041
+  },
+  {
+    "pair": "it_blogs_news_silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-too@mobile.png",
+    "mismatchPct": 78.047,
+    "badPixels": 847400,
+    "dims": {
+      "live": [
+        576,
+        1885
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -1041
+  },
+  {
+    "pair": "es_blogs_news_silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-too@mobile.png",
+    "mismatchPct": 78.047,
+    "badPixels": 847400,
+    "dims": {
+      "live": [
+        576,
+        1885
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -1041
+  },
+  {
+    "pair": "fr_pages_how-to-use-the-silver-bullet@mobile.png",
+    "mismatchPct": 76.793,
+    "badPixels": 1167421,
+    "dims": {
+      "live": [
+        390,
+        3898
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -3054
+  },
+  {
+    "pair": "de_pages_how-to-use-the-silver-bullet@mobile.png",
+    "mismatchPct": 76.793,
+    "badPixels": 1167421,
+    "dims": {
+      "live": [
+        390,
+        3898
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -3054
+  },
+  {
+    "pair": "it_pages_how-to-use-the-silver-bullet@mobile.png",
+    "mismatchPct": 76.793,
+    "badPixels": 1167421,
+    "dims": {
+      "live": [
+        390,
+        3898
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -3054
+  },
+  {
+    "pair": "es_pages_how-to-use-the-silver-bullet@mobile.png",
+    "mismatchPct": 76.793,
+    "badPixels": 1167421,
+    "dims": {
+      "live": [
+        390,
+        3898
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -3054
+  },
+  {
+    "pair": "de_blogs_news_silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-too@desktop.png",
+    "mismatchPct": 75.658,
+    "badPixels": 2251939,
+    "dims": {
+      "live": [
+        1440,
+        1000
+      ],
+      "local": [
+        1440,
+        2067
+      ]
+    },
+    "heightDelta": 1067
+  },
+  {
+    "pair": "fr_blogs_news_bastille-day-10-sale@mobile.png",
+    "mismatchPct": 74.065,
+    "badPixels": 844266,
+    "dims": {
+      "live": [
+        576,
+        1979
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -1135
+  },
+  {
+    "pair": "de_blogs_news_bastille-day-10-sale@mobile.png",
+    "mismatchPct": 74.065,
+    "badPixels": 844266,
+    "dims": {
+      "live": [
+        576,
+        1979
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -1135
+  },
+  {
+    "pair": "it_blogs_news_bastille-day-10-sale@mobile.png",
+    "mismatchPct": 74.065,
+    "badPixels": 844266,
+    "dims": {
+      "live": [
+        576,
+        1979
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -1135
+  },
+  {
+    "pair": "es_blogs_news_bastille-day-10-sale@mobile.png",
+    "mismatchPct": 74.065,
+    "badPixels": 844266,
+    "dims": {
+      "live": [
+        390,
+        844
+      ],
+      "local": [
+        576,
+        1979
+      ]
+    },
+    "heightDelta": 1135
+  },
+  {
+    "pair": "fr_pages_faq@mobile.png",
+    "mismatchPct": 73.734,
+    "badPixels": 970239,
+    "dims": {
+      "live": [
+        390,
+        3374
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -2530
+  },
+  {
+    "pair": "de_pages_faq@mobile.png",
+    "mismatchPct": 73.734,
+    "badPixels": 970239,
+    "dims": {
+      "live": [
+        390,
+        3374
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -2530
+  },
+  {
+    "pair": "it_pages_faq@mobile.png",
+    "mismatchPct": 73.734,
+    "badPixels": 970239,
+    "dims": {
+      "live": [
+        390,
+        3374
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -2530
+  },
+  {
+    "pair": "es_pages_faq@mobile.png",
+    "mismatchPct": 73.734,
+    "badPixels": 970239,
+    "dims": {
+      "live": [
+        390,
+        3374
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -2530
+  },
+  {
+    "pair": "en_products_replacement-case@mobile.png",
+    "mismatchPct": 73.502,
+    "badPixels": 730409,
+    "dims": {
+      "live": [
+        390,
+        844
+      ],
+      "local": [
+        390,
+        2548
+      ]
+    },
+    "heightDelta": 1704
+  },
+  {
+    "pair": "it_blogs_news_silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy@desktop.png",
+    "mismatchPct": 72.861,
+    "badPixels": 2909423,
+    "dims": {
+      "live": [
+        1440,
+        2773
+      ],
+      "local": [
+        1440,
+        1000
+      ]
+    },
+    "heightDelta": -1773
+  },
+  {
+    "pair": "de_blogs_news@desktop.png",
+    "mismatchPct": 70.952,
+    "badPixels": 2474595,
+    "dims": {
+      "live": [
+        1440,
+        1000
+      ],
+      "local": [
+        1440,
+        2422
+      ]
+    },
+    "heightDelta": 1422
+  },
+  {
+    "pair": "de_blogs_news_silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy@desktop.png",
+    "mismatchPct": 70.873,
+    "badPixels": 2618771,
+    "dims": {
+      "live": [
+        1440,
+        1000
+      ],
+      "local": [
+        1440,
+        2566
+      ]
+    },
+    "heightDelta": 1566
+  },
+  {
+    "pair": "fr_pages_silverbullet-full-picking-list@mobile.png",
+    "mismatchPct": 70.692,
+    "badPixels": 746320,
+    "dims": {
+      "live": [
+        390,
+        2707
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -1863
+  },
+  {
+    "pair": "de_pages_silverbullet-full-picking-list@mobile.png",
+    "mismatchPct": 70.692,
+    "badPixels": 746320,
+    "dims": {
+      "live": [
+        390,
+        2707
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -1863
+  },
+  {
+    "pair": "it_pages_silverbullet-full-picking-list@mobile.png",
+    "mismatchPct": 70.692,
+    "badPixels": 746320,
+    "dims": {
+      "live": [
+        390,
+        2707
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -1863
+  },
+  {
+    "pair": "es_pages_silverbullet-full-picking-list@mobile.png",
+    "mismatchPct": 70.692,
+    "badPixels": 746320,
+    "dims": {
+      "live": [
+        390,
+        2707
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -1863
+  },
+  {
+    "pair": "fr_pages_shipping-information@mobile.png",
+    "mismatchPct": 60.716,
+    "badPixels": 474292,
+    "dims": {
+      "live": [
+        390,
+        2003
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -1159
+  },
+  {
+    "pair": "de_pages_shipping-information@mobile.png",
+    "mismatchPct": 60.716,
+    "badPixels": 474292,
+    "dims": {
+      "live": [
+        390,
+        2003
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -1159
+  },
+  {
+    "pair": "it_pages_shipping-information@mobile.png",
+    "mismatchPct": 60.716,
+    "badPixels": 474292,
+    "dims": {
+      "live": [
+        390,
+        2003
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -1159
+  },
+  {
+    "pair": "es_pages_shipping-information@mobile.png",
+    "mismatchPct": 60.716,
+    "badPixels": 474292,
+    "dims": {
+      "live": [
+        390,
+        2003
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -1159
+  },
+  {
+    "pair": "fr_blogs_news_silverbullet-official-launch@mobile.png",
+    "mismatchPct": 54.987,
+    "badPixels": 354697,
+    "dims": {
+      "live": [
+        390,
+        1654
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -810
+  },
+  {
+    "pair": "de_blogs_news_silverbullet-official-launch@mobile.png",
+    "mismatchPct": 54.987,
+    "badPixels": 354697,
+    "dims": {
+      "live": [
+        390,
+        1654
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -810
+  },
+  {
+    "pair": "it_blogs_news_silverbullet-official-launch@mobile.png",
+    "mismatchPct": 54.987,
+    "badPixels": 354697,
+    "dims": {
+      "live": [
+        390,
+        1654
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -810
+  },
+  {
+    "pair": "it_collections_frontpage@desktop.png",
+    "mismatchPct": 52.66,
+    "badPixels": 866746,
+    "dims": {
+      "live": [
+        1440,
+        1143
+      ],
+      "local": [
+        1440,
+        1000
+      ]
+    },
+    "heightDelta": -143
+  },
+  {
+    "pair": "fr_collections_frontpage@mobile.png",
+    "mismatchPct": 52.043,
+    "badPixels": 264063,
+    "dims": {
+      "live": [
+        390,
+        1301
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -457
+  },
+  {
+    "pair": "de_collections_frontpage@mobile.png",
+    "mismatchPct": 52.043,
+    "badPixels": 264063,
+    "dims": {
+      "live": [
+        390,
+        1301
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -457
+  },
+  {
+    "pair": "it_collections_frontpage@mobile.png",
+    "mismatchPct": 52.043,
+    "badPixels": 264063,
+    "dims": {
+      "live": [
+        390,
+        1301
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -457
+  },
+  {
+    "pair": "es_collections_frontpage@mobile.png",
+    "mismatchPct": 52.043,
+    "badPixels": 264063,
+    "dims": {
+      "live": [
+        390,
+        1301
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -457
+  },
+  {
+    "pair": "it_blogs_news_silverbullet-official-launch@desktop.png",
+    "mismatchPct": 51.759,
+    "badPixels": 1258856,
+    "dims": {
+      "live": [
+        1440,
+        1689
+      ],
+      "local": [
+        1440,
+        1000
+      ]
+    },
+    "heightDelta": -689
+  },
+  {
+    "pair": "en_pages_privacy-policy@mobile.png",
+    "mismatchPct": 46.232,
+    "badPixels": 258197,
+    "dims": {
+      "live": [
+        390,
+        844
+      ],
+      "local": [
+        390,
+        1432
+      ]
+    },
+    "heightDelta": 588
+  },
+  {
+    "pair": "fr_blogs_news_spare-tips-now-available@mobile.png",
+    "mismatchPct": 44.694,
+    "badPixels": 241940,
+    "dims": {
+      "live": [
+        390,
+        1388
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -544
+  },
+  {
+    "pair": "de_blogs_news_spare-tips-now-available@mobile.png",
+    "mismatchPct": 44.694,
+    "badPixels": 241940,
+    "dims": {
+      "live": [
+        390,
+        1388
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -544
+  },
+  {
+    "pair": "it_blogs_news_spare-tips-now-available@mobile.png",
+    "mismatchPct": 44.694,
+    "badPixels": 241940,
+    "dims": {
+      "live": [
+        390,
+        1388
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -544
+  },
+  {
+    "pair": "es_blogs_news_spare-tips-now-available@mobile.png",
+    "mismatchPct": 44.694,
+    "badPixels": 241940,
+    "dims": {
+      "live": [
+        390,
+        844
+      ],
+      "local": [
+        390,
+        1388
+      ]
+    },
+    "heightDelta": 544
+  },
+  {
+    "pair": "fr_pages_privacy-policy@mobile.png",
+    "mismatchPct": 42.759,
+    "badPixels": 226292,
+    "dims": {
+      "live": [
+        390,
+        1357
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -513
+  },
+  {
+    "pair": "de_pages_privacy-policy@mobile.png",
+    "mismatchPct": 42.759,
+    "badPixels": 226292,
+    "dims": {
+      "live": [
+        390,
+        1357
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -513
+  },
+  {
+    "pair": "it_pages_privacy-policy@mobile.png",
+    "mismatchPct": 42.759,
+    "badPixels": 226292,
+    "dims": {
+      "live": [
+        390,
+        1357
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -513
+  },
+  {
+    "pair": "es_pages_privacy-policy@mobile.png",
+    "mismatchPct": 42.759,
+    "badPixels": 226292,
+    "dims": {
+      "live": [
+        390,
+        1357
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": -513
+  },
+  {
+    "pair": "it_pages_shipping-information@desktop.png",
+    "mismatchPct": 35.863,
+    "badPixels": 732292,
+    "dims": {
+      "live": [
+        1440,
+        1418
+      ],
+      "local": [
+        1440,
+        1000
+      ]
+    },
+    "heightDelta": -418
+  },
+  {
+    "pair": "de_products_replacement-case@mobile.png",
+    "mismatchPct": 9.018,
+    "badPixels": 89616,
+    "dims": {
+      "live": [
+        390,
+        2507
+      ],
+      "local": [
+        390,
+        2548
+      ]
+    },
+    "heightDelta": 41
+  },
+  {
+    "pair": "it_products_replacement-case@mobile.png",
+    "mismatchPct": 9.018,
+    "badPixels": 89610,
+    "dims": {
+      "live": [
+        390,
+        2507
+      ],
+      "local": [
+        390,
+        2548
+      ]
+    },
+    "heightDelta": 41
+  },
+  {
+    "pair": "es_products_replacement-case@mobile.png",
+    "mismatchPct": 9.016,
+    "badPixels": 89597,
+    "dims": {
+      "live": [
+        390,
+        2507
+      ],
+      "local": [
+        390,
+        2548
+      ]
+    },
+    "heightDelta": 41
+  },
+  {
+    "pair": "fr_products_replacement-case@mobile.png",
+    "mismatchPct": 8.999,
+    "badPixels": 89421,
+    "dims": {
+      "live": [
+        390,
+        2507
+      ],
+      "local": [
+        390,
+        2548
+      ]
+    },
+    "heightDelta": 41
+  },
+  {
+    "pair": "en_collections_frontpage@mobile.png",
+    "mismatchPct": 8.83,
+    "badPixels": 47386,
+    "dims": {
+      "live": [
+        390,
+        1301
+      ],
+      "local": [
+        390,
+        1376
+      ]
+    },
+    "heightDelta": 75
+  },
+  {
+    "pair": "en_blogs_news_spare-tips-now-available@mobile.png",
+    "mismatchPct": 8.335,
+    "badPixels": 47590,
+    "dims": {
+      "live": [
+        390,
+        1388
+      ],
+      "local": [
+        390,
+        1464
+      ]
+    },
+    "heightDelta": 76
+  },
+  {
+    "pair": "en_products_spare-tips@mobile.png",
+    "mismatchPct": 7.724,
+    "badPixels": 103594,
+    "dims": {
+      "live": [
+        390,
+        3398
+      ],
+      "local": [
+        390,
+        3439
+      ]
+    },
+    "heightDelta": 41
+  },
+  {
+    "pair": "de_products_spare-tips@mobile.png",
+    "mismatchPct": 7.717,
+    "badPixels": 103500,
+    "dims": {
+      "live": [
+        390,
+        3398
+      ],
+      "local": [
+        390,
+        3439
+      ]
+    },
+    "heightDelta": 41
+  },
+  {
+    "pair": "it_products_spare-tips@mobile.png",
+    "mismatchPct": 7.716,
+    "badPixels": 103494,
+    "dims": {
+      "live": [
+        390,
+        3398
+      ],
+      "local": [
+        390,
+        3439
+      ]
+    },
+    "heightDelta": 41
+  },
+  {
+    "pair": "es_products_spare-tips@mobile.png",
+    "mismatchPct": 7.715,
+    "badPixels": 103481,
+    "dims": {
+      "live": [
+        390,
+        3398
+      ],
+      "local": [
+        390,
+        3439
+      ]
+    },
+    "heightDelta": 41
+  },
+  {
+    "pair": "fr_products_spare-tips@mobile.png",
+    "mismatchPct": 7.702,
+    "badPixels": 103305,
+    "dims": {
+      "live": [
+        390,
+        3398
+      ],
+      "local": [
+        390,
+        3439
+      ]
+    },
+    "heightDelta": 41
+  },
+  {
+    "pair": "en_blogs_news_silverbullet-official-launch@mobile.png",
+    "mismatchPct": 7.031,
+    "badPixels": 47408,
+    "dims": {
+      "live": [
+        390,
+        1654
+      ],
+      "local": [
+        390,
+        1729
+      ]
+    },
+    "heightDelta": 75
+  },
+  {
+    "pair": "en_products_silver-bullet-2@mobile.png",
+    "mismatchPct": 6.94,
+    "badPixels": 138880,
+    "dims": {
+      "live": [
+        390,
+        5090
+      ],
+      "local": [
+        390,
+        5131
+      ]
+    },
+    "heightDelta": 41
+  },
+  {
+    "pair": "de_products_silver-bullet-2@mobile.png",
+    "mismatchPct": 6.936,
+    "badPixels": 138786,
+    "dims": {
+      "live": [
+        390,
+        5090
+      ],
+      "local": [
+        390,
+        5131
+      ]
+    },
+    "heightDelta": 41
+  },
+  {
+    "pair": "it_products_silver-bullet-2@mobile.png",
+    "mismatchPct": 6.935,
+    "badPixels": 138780,
+    "dims": {
+      "live": [
+        390,
+        5090
+      ],
+      "local": [
+        390,
+        5131
+      ]
+    },
+    "heightDelta": 41
+  },
+  {
+    "pair": "es_products_silver-bullet-2@mobile.png",
+    "mismatchPct": 6.935,
+    "badPixels": 138767,
+    "dims": {
+      "live": [
+        390,
+        5090
+      ],
+      "local": [
+        390,
+        5131
+      ]
+    },
+    "heightDelta": 41
+  },
+  {
+    "pair": "fr_products_silver-bullet-2@mobile.png",
+    "mismatchPct": 6.926,
+    "badPixels": 138591,
+    "dims": {
+      "live": [
+        390,
+        5090
+      ],
+      "local": [
+        390,
+        5131
+      ]
+    },
+    "heightDelta": 41
+  },
+  {
+    "pair": "en_pages_shipping-information@mobile.png",
+    "mismatchPct": 5.848,
+    "badPixels": 47395,
+    "dims": {
+      "live": [
+        390,
+        2003
+      ],
+      "local": [
+        390,
+        2078
+      ]
+    },
+    "heightDelta": 75
+  },
+  {
+    "pair": "en_blogs_news_silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-too@mobile.png",
+    "mismatchPct": 5.493,
+    "badPixels": 62050,
+    "dims": {
+      "live": [
+        576,
+        1885
+      ],
+      "local": [
+        576,
+        1961
+      ]
+    },
+    "heightDelta": 76
+  },
+  {
+    "pair": "en_products_spare-tips@desktop.png",
+    "mismatchPct": 5.474,
+    "badPixels": 185243,
+    "dims": {
+      "live": [
+        1440,
+        2350
+      ],
+      "local": [
+        1440,
+        2316
+      ]
+    },
+    "heightDelta": -34
+  },
+  {
+    "pair": "de_products_spare-tips@desktop.png",
+    "mismatchPct": 5.474,
+    "badPixels": 185246,
+    "dims": {
+      "live": [
+        1440,
+        2350
+      ],
+      "local": [
+        1440,
+        2316
+      ]
+    },
+    "heightDelta": -34
+  },
+  {
+    "pair": "it_products_spare-tips@desktop.png",
+    "mismatchPct": 5.474,
+    "badPixels": 185237,
+    "dims": {
+      "live": [
+        1440,
+        2350
+      ],
+      "local": [
+        1440,
+        2316
+      ]
+    },
+    "heightDelta": -34
+  },
+  {
+    "pair": "es_products_spare-tips@desktop.png",
+    "mismatchPct": 5.473,
+    "badPixels": 185223,
+    "dims": {
+      "live": [
+        1440,
+        2350
+      ],
+      "local": [
+        1440,
+        2316
+      ]
+    },
+    "heightDelta": -34
+  },
+  {
+    "pair": "fr_products_spare-tips@desktop.png",
+    "mismatchPct": 5.471,
+    "badPixels": 185138,
+    "dims": {
+      "live": [
+        1440,
+        2350
+      ],
+      "local": [
+        1440,
+        2316
+      ]
+    },
+    "heightDelta": -34
+  },
+  {
+    "pair": "en_blogs_news_bastille-day-10-sale@mobile.png",
+    "mismatchPct": 5.183,
+    "badPixels": 61318,
+    "dims": {
+      "live": [
+        576,
+        1979
+      ],
+      "local": [
+        576,
+        2054
+      ]
+    },
+    "heightDelta": 75
+  },
+  {
+    "pair": "en_pages_silverbullet-full-picking-list@mobile.png",
+    "mismatchPct": 4.383,
+    "badPixels": 47573,
+    "dims": {
+      "live": [
+        390,
+        2707
+      ],
+      "local": [
+        390,
+        2783
+      ]
+    },
+    "heightDelta": 76
+  },
+  {
+    "pair": "en_blogs_news_silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy@mobile.png",
+    "mismatchPct": 4.002,
+    "badPixels": 61729,
+    "dims": {
+      "live": [
+        576,
+        2602
+      ],
+      "local": [
+        576,
+        2678
+      ]
+    },
+    "heightDelta": 76
+  },
+  {
+    "pair": "en_pages_faq@mobile.png",
+    "mismatchPct": 3.537,
+    "badPixels": 47587,
+    "dims": {
+      "live": [
+        390,
+        3374
+      ],
+      "local": [
+        390,
+        3450
+      ]
+    },
+    "heightDelta": 76
+  },
+  {
+    "pair": "en_blogs_news_silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy@mobile.png",
+    "mismatchPct": 3.514,
+    "badPixels": 61323,
+    "dims": {
+      "live": [
+        576,
+        2955
+      ],
+      "local": [
+        576,
+        3030
+      ]
+    },
+    "heightDelta": 75
+  },
+  {
+    "pair": "en_blogs_news_-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extrav@mobile.png",
+    "mismatchPct": 3.504,
+    "badPixels": 61726,
+    "dims": {
+      "live": [
+        576,
+        2982
+      ],
+      "local": [
+        576,
+        3058
+      ]
+    },
+    "heightDelta": 76
+  },
+  {
+    "pair": "en_blogs_news@mobile.png",
+    "mismatchPct": 3.245,
+    "badPixels": 47758,
+    "dims": {
+      "live": [
+        390,
+        3698
+      ],
+      "local": [
+        390,
+        3774
+      ]
+    },
+    "heightDelta": 76
+  },
+  {
+    "pair": "en_pages_how-to-use-the-silver-bullet@mobile.png",
+    "mismatchPct": 3.06,
+    "badPixels": 47412,
+    "dims": {
+      "live": [
+        390,
+        3898
+      ],
+      "local": [
+        390,
+        3973
+      ]
+    },
+    "heightDelta": 75
+  },
+  {
+    "pair": "de_products_silver-bullet@mobile.png",
+    "mismatchPct": 2.479,
+    "badPixels": 166817,
+    "dims": {
+      "live": [
+        1254,
+        5326
+      ],
+      "local": [
+        1254,
+        5366
+      ]
+    },
+    "heightDelta": 40
+  },
+  {
+    "pair": "it_products_silver-bullet@mobile.png",
+    "mismatchPct": 2.479,
+    "badPixels": 166824,
+    "dims": {
+      "live": [
+        1254,
+        5326
+      ],
+      "local": [
+        1254,
+        5366
+      ]
+    },
+    "heightDelta": 40
+  },
+  {
+    "pair": "es_products_silver-bullet@mobile.png",
+    "mismatchPct": 2.479,
+    "badPixels": 166823,
+    "dims": {
+      "live": [
+        1254,
+        5326
+      ],
+      "local": [
+        1254,
+        5366
+      ]
+    },
+    "heightDelta": 40
+  },
+  {
+    "pair": "fr_products_silver-bullet@mobile.png",
+    "mismatchPct": 2.477,
+    "badPixels": 166683,
+    "dims": {
+      "live": [
+        1254,
+        5326
+      ],
+      "local": [
+        1254,
+        5366
+      ]
+    },
+    "heightDelta": 40
+  },
+  {
+    "pair": "en_pages_warranty-returns-policy@mobile.png",
+    "mismatchPct": 2.294,
+    "badPixels": 47371,
+    "dims": {
+      "live": [
+        390,
+        5219
+      ],
+      "local": [
+        390,
+        5294
+      ]
+    },
+    "heightDelta": 75
+  },
+  {
+    "pair": "en_blogs_news_getting-started-with-the-silver-bullet@mobile.png",
+    "mismatchPct": 1.894,
+    "badPixels": 65698,
+    "dims": {
+      "live": [
+        634,
+        5397
+      ],
+      "local": [
+        634,
+        5472
+      ]
+    },
+    "heightDelta": 75
+  },
+  {
+    "pair": "en_index@mobile.png",
+    "mismatchPct": 1.544,
+    "badPixels": 59330,
+    "dims": {
+      "live": [
+        390,
+        9809
+      ],
+      "local": [
+        390,
+        9850
+      ]
+    },
+    "heightDelta": 41
+  },
+  {
+    "pair": "es_products_replacement-case@desktop.png",
+    "mismatchPct": 1.23,
+    "badPixels": 31649,
+    "dims": {
+      "live": [
+        1440,
+        1787
+      ],
+      "local": [
+        1440,
+        1787
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "en_products_replacement-case@desktop.png",
+    "mismatchPct": 1.228,
+    "badPixels": 31589,
+    "dims": {
+      "live": [
+        1440,
+        1787
+      ],
+      "local": [
+        1440,
+        1787
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "de_products_replacement-case@desktop.png",
+    "mismatchPct": 1.228,
+    "badPixels": 31588,
+    "dims": {
+      "live": [
+        1440,
+        1787
+      ],
+      "local": [
+        1440,
+        1787
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "it_products_replacement-case@desktop.png",
+    "mismatchPct": 1.228,
+    "badPixels": 31594,
+    "dims": {
+      "live": [
+        1440,
+        1787
+      ],
+      "local": [
+        1440,
+        1787
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "fr_products_replacement-case@desktop.png",
+    "mismatchPct": 1.224,
+    "badPixels": 31488,
+    "dims": {
+      "live": [
+        1440,
+        1787
+      ],
+      "local": [
+        1440,
+        1787
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "en_products_silver-bullet-2@desktop.png",
+    "mismatchPct": 0.587,
+    "badPixels": 31589,
+    "dims": {
+      "live": [
+        1440,
+        3738
+      ],
+      "local": [
+        1440,
+        3738
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "de_products_silver-bullet-2@desktop.png",
+    "mismatchPct": 0.587,
+    "badPixels": 31588,
+    "dims": {
+      "live": [
+        1440,
+        3738
+      ],
+      "local": [
+        1440,
+        3738
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "it_products_silver-bullet-2@desktop.png",
+    "mismatchPct": 0.587,
+    "badPixels": 31594,
+    "dims": {
+      "live": [
+        1440,
+        3738
+      ],
+      "local": [
+        1440,
+        3738
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "es_products_silver-bullet-2@desktop.png",
+    "mismatchPct": 0.587,
+    "badPixels": 31590,
+    "dims": {
+      "live": [
+        1440,
+        3738
+      ],
+      "local": [
+        1440,
+        3738
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "fr_products_silver-bullet-2@desktop.png",
+    "mismatchPct": 0.585,
+    "badPixels": 31488,
+    "dims": {
+      "live": [
+        1440,
+        3738
+      ],
+      "local": [
+        1440,
+        3738
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "en_products_silver-bullet@desktop.png",
+    "mismatchPct": 0.546,
+    "badPixels": 31554,
+    "dims": {
+      "live": [
+        1440,
+        4014
+      ],
+      "local": [
+        1440,
+        4014
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "de_products_silver-bullet@desktop.png",
+    "mismatchPct": 0.546,
+    "badPixels": 31541,
+    "dims": {
+      "live": [
+        1440,
+        4014
+      ],
+      "local": [
+        1440,
+        4014
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "it_products_silver-bullet@desktop.png",
+    "mismatchPct": 0.546,
+    "badPixels": 31565,
+    "dims": {
+      "live": [
+        1440,
+        4014
+      ],
+      "local": [
+        1440,
+        4014
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "es_products_silver-bullet@desktop.png",
+    "mismatchPct": 0.546,
+    "badPixels": 31539,
+    "dims": {
+      "live": [
+        1440,
+        4014
+      ],
+      "local": [
+        1440,
+        4014
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "fr_products_silver-bullet@desktop.png",
+    "mismatchPct": 0.543,
+    "badPixels": 31406,
+    "dims": {
+      "live": [
+        1440,
+        4014
+      ],
+      "local": [
+        1440,
+        4014
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "en_pages_privacy-policy@desktop.png",
+    "mismatchPct": 0.353,
+    "badPixels": 5565,
+    "dims": {
+      "live": [
+        1440,
+        1096
+      ],
+      "local": [
+        1440,
+        1096
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "en_index@desktop.png",
+    "mismatchPct": 0.345,
+    "badPixels": 30493,
+    "dims": {
+      "live": [
+        1440,
+        6141
+      ],
+      "local": [
+        1440,
+        6141
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "en_collections_frontpage@desktop.png",
+    "mismatchPct": 0.338,
+    "badPixels": 5565,
+    "dims": {
+      "live": [
+        1440,
+        1143
+      ],
+      "local": [
+        1440,
+        1143
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "en_pages_shipping-information@desktop.png",
+    "mismatchPct": 0.273,
+    "badPixels": 5565,
+    "dims": {
+      "live": [
+        1440,
+        1418
+      ],
+      "local": [
+        1440,
+        1418
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "en_blogs_news_spare-tips-now-available@desktop.png",
+    "mismatchPct": 0.249,
+    "badPixels": 5565,
+    "dims": {
+      "live": [
+        1440,
+        1554
+      ],
+      "local": [
+        1440,
+        1554
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "en_blogs_news_silverbullet-official-launch@desktop.png",
+    "mismatchPct": 0.229,
+    "badPixels": 5573,
+    "dims": {
+      "live": [
+        1440,
+        1689
+      ],
+      "local": [
+        1440,
+        1689
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "en_blogs_news_silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-too@desktop.png",
+    "mismatchPct": 0.22,
+    "badPixels": 6539,
+    "dims": {
+      "live": [
+        1440,
+        2067
+      ],
+      "local": [
+        1440,
+        2067
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "en_blogs_news_bastille-day-10-sale@desktop.png",
+    "mismatchPct": 0.189,
+    "badPixels": 5565,
+    "dims": {
+      "live": [
+        1440,
+        2044
+      ],
+      "local": [
+        1440,
+        2044
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "en_blogs_news_silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy@desktop.png",
+    "mismatchPct": 0.187,
+    "badPixels": 6928,
+    "dims": {
+      "live": [
+        1440,
+        2566
+      ],
+      "local": [
+        1440,
+        2566
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "en_blogs_news@desktop.png",
+    "mismatchPct": 0.182,
+    "badPixels": 6355,
+    "dims": {
+      "live": [
+        1440,
+        2422
+      ],
+      "local": [
+        1440,
+        2422
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "en_blogs_news_silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy@desktop.png",
+    "mismatchPct": 0.173,
+    "badPixels": 6928,
+    "dims": {
+      "live": [
+        1440,
+        2773
+      ],
+      "local": [
+        1440,
+        2773
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "en_pages_silverbullet-full-picking-list@desktop.png",
+    "mismatchPct": 0.147,
+    "badPixels": 5565,
+    "dims": {
+      "live": [
+        1440,
+        2634
+      ],
+      "local": [
+        1440,
+        2634
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "en_pages_faq@desktop.png",
+    "mismatchPct": 0.145,
+    "badPixels": 5565,
+    "dims": {
+      "live": [
+        1440,
+        2671
+      ],
+      "local": [
+        1440,
+        2671
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "en_blogs_news_-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extrav@desktop.png",
+    "mismatchPct": 0.141,
+    "badPixels": 5704,
+    "dims": {
+      "live": [
+        1440,
+        2801
+      ],
+      "local": [
+        1440,
+        2801
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "en_pages_how-to-use-the-silver-bullet@desktop.png",
+    "mismatchPct": 0.14,
+    "badPixels": 5565,
+    "dims": {
+      "live": [
+        1440,
+        2761
+      ],
+      "local": [
+        1440,
+        2761
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "en_pages_warranty-returns-policy@desktop.png",
+    "mismatchPct": 0.102,
+    "badPixels": 5565,
+    "dims": {
+      "live": [
+        1440,
+        3775
+      ],
+      "local": [
+        1440,
+        3775
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "en_blogs_news_getting-started-with-the-silver-bullet@desktop.png",
+    "mismatchPct": 0.09,
+    "badPixels": 5565,
+    "dims": {
+      "live": [
+        1440,
+        4303
+      ],
+      "local": [
+        1440,
+        4303
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "en_pages_terms-conditions@desktop.png",
+    "mismatchPct": 0.037,
+    "badPixels": 5565,
+    "dims": {
+      "live": [
+        1440,
+        10387
+      ],
+      "local": [
+        1440,
+        10387
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "fr_pages_how-to-use-the-silver-bullet@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2761
+      ],
+      "local": [
+        1440,
+        2761
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "fr_pages_privacy-policy@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        1096
+      ],
+      "local": [
+        1440,
+        1096
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "fr_pages_shipping-information@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        1418
+      ],
+      "local": [
+        1440,
+        1418
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "fr_pages_faq@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2671
+      ],
+      "local": [
+        1440,
+        2671
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "fr_pages_silverbullet-full-picking-list@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2634
+      ],
+      "local": [
+        1440,
+        2634
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "fr_collections_frontpage@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        1143
+      ],
+      "local": [
+        1440,
+        1143
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "fr_blogs_news_spare-tips-now-available@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        1554
+      ],
+      "local": [
+        1440,
+        1554
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "de_pages_how-to-use-the-silver-bullet@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2761
+      ],
+      "local": [
+        1440,
+        2761
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "de_pages_faq@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2671
+      ],
+      "local": [
+        1440,
+        2671
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "de_pages_privacy-policy@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        1096
+      ],
+      "local": [
+        1440,
+        1096
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "de_pages_shipping-information@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        1418
+      ],
+      "local": [
+        1440,
+        1418
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "de_pages_silverbullet-full-picking-list@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2634
+      ],
+      "local": [
+        1440,
+        2634
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "de_collections_frontpage@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        1143
+      ],
+      "local": [
+        1440,
+        1143
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "de_blogs_news_spare-tips-now-available@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        1554
+      ],
+      "local": [
+        1440,
+        1554
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "it_pages_how-to-use-the-silver-bullet@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2761
+      ],
+      "local": [
+        1440,
+        2761
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "it_pages_privacy-policy@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        1096
+      ],
+      "local": [
+        1440,
+        1096
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "it_pages_silverbullet-full-picking-list@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2634
+      ],
+      "local": [
+        1440,
+        2634
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "it_pages_faq@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2671
+      ],
+      "local": [
+        1440,
+        2671
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "it_blogs_news_spare-tips-now-available@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        1554
+      ],
+      "local": [
+        1440,
+        1554
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "es_pages_how-to-use-the-silver-bullet@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2761
+      ],
+      "local": [
+        1440,
+        2761
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "es_pages_privacy-policy@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        1096
+      ],
+      "local": [
+        1440,
+        1096
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "es_pages_faq@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2671
+      ],
+      "local": [
+        1440,
+        2671
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "es_pages_silverbullet-full-picking-list@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2634
+      ],
+      "local": [
+        1440,
+        2634
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "es_collections_frontpage@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        1143
+      ],
+      "local": [
+        1440,
+        1143
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "es_pages_shipping-information@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        1418
+      ],
+      "local": [
+        1440,
+        1418
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "es_blogs_news_spare-tips-now-available@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        1554
+      ],
+      "local": [
+        1440,
+        1554
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "es_blogs_news_silverbullet-official-launch@mobile.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        390,
+        844
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "es_blogs_news_silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy@mobile.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        390,
+        844
+      ],
+      "local": [
+        390,
+        844
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "fr_index@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        6141
+      ],
+      "local": [
+        1440,
+        6141
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "fr_pages_terms-conditions@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        10387
+      ],
+      "local": [
+        1440,
+        10387
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "fr_pages_warranty-returns-policy@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        3775
+      ],
+      "local": [
+        1440,
+        3775
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "fr_blogs_news@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2422
+      ],
+      "local": [
+        1440,
+        2422
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "fr_blogs_news_silverbullet-official-launch@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        1689
+      ],
+      "local": [
+        1440,
+        1689
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "fr_blogs_news_bastille-day-10-sale@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2044
+      ],
+      "local": [
+        1440,
+        2044
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "fr_blogs_news_silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2773
+      ],
+      "local": [
+        1440,
+        2773
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "fr_blogs_news_getting-started-with-the-silver-bullet@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        4303
+      ],
+      "local": [
+        1440,
+        4303
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "fr_blogs_news_silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-too@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2067
+      ],
+      "local": [
+        1440,
+        2067
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "fr_blogs_news_-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extrav@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2801
+      ],
+      "local": [
+        1440,
+        2801
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "fr_blogs_news_silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2566
+      ],
+      "local": [
+        1440,
+        2566
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "de_index@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        6141
+      ],
+      "local": [
+        1440,
+        6141
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "de_pages_terms-conditions@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        10387
+      ],
+      "local": [
+        1440,
+        10387
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "de_pages_warranty-returns-policy@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        3775
+      ],
+      "local": [
+        1440,
+        3775
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "de_blogs_news_silverbullet-official-launch@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        1689
+      ],
+      "local": [
+        1440,
+        1689
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "de_blogs_news_getting-started-with-the-silver-bullet@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        4303
+      ],
+      "local": [
+        1440,
+        4303
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "de_blogs_news_silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2773
+      ],
+      "local": [
+        1440,
+        2773
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "de_blogs_news_bastille-day-10-sale@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2044
+      ],
+      "local": [
+        1440,
+        2044
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "it_index@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        6141
+      ],
+      "local": [
+        1440,
+        6141
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "it_pages_warranty-returns-policy@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        3775
+      ],
+      "local": [
+        1440,
+        3775
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "it_pages_terms-conditions@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        10387
+      ],
+      "local": [
+        1440,
+        10387
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "it_blogs_news_silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-too@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2067
+      ],
+      "local": [
+        1440,
+        2067
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "it_blogs_news@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2422
+      ],
+      "local": [
+        1440,
+        2422
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "it_blogs_news_getting-started-with-the-silver-bullet@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        4303
+      ],
+      "local": [
+        1440,
+        4303
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "it_blogs_news_silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2566
+      ],
+      "local": [
+        1440,
+        2566
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "es_index@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        6141
+      ],
+      "local": [
+        1440,
+        6141
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "it_blogs_news_-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extrav@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2801
+      ],
+      "local": [
+        1440,
+        2801
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "it_blogs_news_bastille-day-10-sale@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2044
+      ],
+      "local": [
+        1440,
+        2044
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "es_pages_terms-conditions@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        10387
+      ],
+      "local": [
+        1440,
+        10387
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "es_blogs_news@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2422
+      ],
+      "local": [
+        1440,
+        2422
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "es_pages_warranty-returns-policy@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        3775
+      ],
+      "local": [
+        1440,
+        3775
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "es_blogs_news_silverbullet-introduction-by-frenchkey_fr-silverbullet-lockpicking-academy@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2773
+      ],
+      "local": [
+        1440,
+        2773
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "es_blogs_news_silverbullet-end-of-the-year-sale-welcome-2020-with-the-best-lockpicking-too@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2067
+      ],
+      "local": [
+        1440,
+        2067
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "es_blogs_news_getting-started-with-the-silver-bullet@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        4303
+      ],
+      "local": [
+        1440,
+        4303
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "es_blogs_news_silverbullet-official-launch@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        1689
+      ],
+      "local": [
+        1440,
+        1689
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "es_blogs_news_bastille-day-10-sale@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2044
+      ],
+      "local": [
+        1440,
+        2044
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "es_blogs_news_-unlock-exceptional-savings-silverbullet-2s-black-friday-cyber-monday-extrav@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2801
+      ],
+      "local": [
+        1440,
+        2801
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "es_blogs_news_silver-bullet-disk-lock-decoding-chart-silverbullet-lockpicking-academy@desktop.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        1440,
+        2566
+      ],
+      "local": [
+        1440,
+        2566
+      ]
+    },
+    "heightDelta": 0
+  },
+  {
+    "pair": "fr_index@mobile.png",
+    "mismatchPct": 0,
+    "badPixels": 0,
+    "dims": {
+      "live": [
+        390,
+        9809
+      ],
+      "local": [
+        390,
+        9809
+      ]
+    },
+    "heightDelta": 0
+  }
+]

@@ -52,6 +52,8 @@ function normalizeDoc(html) {
   // return_to values are intentionally normalized in inert forms; noscript
   // content parses as text, so whitelist on the raw string for both sides
   html = html.replace(/(name="return_to"\s+value=")[^"]*(")/g, '$1/$2');
+  // og/meta asset URLs are intentionally absolutized at render time
+  html = html.replaceAll('content="https://silverbullet.tools/assets/', 'content="/assets/');
   const $ = load(html);
   // pull ld+json out (location-independent compare)
   const ld = $('script[type="application/ld+json"]')

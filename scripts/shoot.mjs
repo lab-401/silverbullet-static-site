@@ -1,5 +1,6 @@
 // Batch screenshotter: captures full-page shots of every page, live or local.
-// Usage: node scripts/shoot.mjs live|local [desktop|mobile|both]
+// Usage: node scripts/shoot.mjs live|local [desktop|mobile|both] [onlyFile]
+//   onlyFile: text file with one <slug>@<vp>.png per line - reshoot just those
 // Output: qa/screenshots/<which>/<slug>@<vp>.png
 import { mkdir, readFile } from 'node:fs/promises';
 import path from 'node:path';
@@ -18,12 +19,19 @@ const VIEWPORTS = {
 const vps = vpArg === 'both' ? ['desktop', 'mobile'] : [vpArg];
 
 const manifest = JSON.parse(await readFile(path.join(ROOT, 'scrape', 'pages-manifest.json'), 'utf8'));
-const pages = manifest
+let pages = manifest
   .filter((m) => m.file)
   .map((m) => {
     const p = m.locale === 'en' ? m.path : `/${m.locale}${m.path === '/' ? '' : m.path}`;
     return { urlPath: p, slug: (m.locale + (m.path === '/' ? '/index' : decodeURIComponent(m.path))).replace(/[^a-zA-Z0-9_-]+/g, '_').slice(0, 90) };
   });
+
+// optional pair filter: only reshoot listed <slug>@<vp>.png entries
+let onlyPairs = null;
+if (process.argv[4]) {
+  const lines = (await readFile(process.argv[4], 'utf8')).split(/\r?\n/).filter(Boolean);
+  onlyPairs = new Set(lines);
+}
 
 const OUT = path.join(ROOT, 'qa', 'screenshots', which);
 await mkdir(OUT, { recursive: true });
@@ -69,7 +77,22 @@ async function shoot(context, job, vp) {
       document.querySelectorAll('img[loading="lazy"]').forEach((i) => (i.loading = 'eager'));
     });
     await page.waitForLoadState('networkidle', { timeout: 30000 }).catch(() => {});
-    await page.waitForTimeout(700);
+    // settle: fonts loaded, all images complete, scrollHeight stable
+    await page
+      .evaluate(async () => {
+        await (document.fonts?.ready || Promise.resolve());
+        await Promise.all(
+          [...document.images].map((i) => (i.complete ? 0 : new Promise((r) => ((i.onload = r), (i.onerror = r)))))
+        );
+      })
+      .catch(() => {});
+    let prevH = -1;
+    for (let i = 0; i < 25; i++) {
+      const h = await page.evaluate(() => document.body.scrollHeight);
+      if (h === prevH) break;
+      prevH = h;
+      await page.waitForTimeout(400);
+    }
     await page.screenshot({ path: path.join(OUT, `${job.slug}@${vp}.png`), fullPage: true });
     console.log(`ok ${job.slug}@${vp}`);
   } catch (e) {
@@ -81,13 +104,19 @@ async function shoot(context, job, vp) {
 }
 
 for (const vp of vps) {
+  const jobs = pages.filter((j) => !onlyPairs || onlyPairs.has(`${j.slug}@${vp}.png`));
+  if (!jobs.length) continue;
   const context = await browser.newContext({ viewport: VIEWPORTS[vp], deviceScaleFactor: 1 });
+  // suppress langify's browser-language auto-redirect on live AND local pages
+  await context.addInitScript(() => {
+    window.lyBlockedRoutesList = ['/'];
+  });
   // 4-way parallel
   let idx = 0;
   await Promise.all(
     Array.from({ length: 4 }, async () => {
-      while (idx < pages.length) {
-        const job = pages[idx++];
+      while (idx < jobs.length) {
+        const job = jobs[idx++];
         await shoot(context, job, vp);
       }
     })

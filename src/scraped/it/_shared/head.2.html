@@ -58,27 +58,7 @@
 
 
 
-<script>(function() {
-  var isLoaded = false;
-  function asyncLoad() {
-    if (isLoaded) return;
-    isLoaded = true;
-    var urls = ["https:\/\/cdn-scripts.signifyd.com\/shopify\/script-tag.js?shop=sbtools.myshopify.com"];
-    for (var i = 0; i < urls.length; i++) {
-      var s = document.createElement('script');
-      s.type = 'text/javascript';
-      s.async = true;
-      s.src = urls[i];
-      var x = document.getElementsByTagName('script')[0];
-      x.parentNode.insertBefore(s, x);
-    }
-  };
-  if(window.attachEvent) {
-    window.attachEvent('onload', asyncLoad);
-  } else {
-    window.addEventListener('load', asyncLoad, false);
-  }
-})();</script>
+
 
 <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
 
@@ -363,3 +343,4 @@
 
 
 
+<script data-sb-migration="langify-no-redirect">window.lyBlockedRoutesList=["/"];</script>
