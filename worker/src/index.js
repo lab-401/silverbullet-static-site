@@ -27,8 +27,8 @@ export default {
     const url = new URL(request.url);
     const accept = request.headers.get('accept') || '';
 
-    // markdown negotiation for page URLs
-    if (request.method === 'GET' && /\btext\/markdown\b/i.test(accept) && isPagePath(url.pathname)) {
+    // markdown negotiation for page URLs (GET and HEAD)
+    if ((request.method === 'GET' || request.method === 'HEAD') && /\btext\/markdown\b/i.test(accept) && isPagePath(url.pathname)) {
       const mdUrl = new URL(url);
       mdUrl.pathname = mdPathFor(url.pathname);
       const mdResp = await fetch(mdUrl.toString(), { headers: { 'user-agent': request.headers.get('user-agent') || 'sb-edge' } });
@@ -40,7 +40,7 @@ export default {
         h.set('vary', 'Accept');
         h.set('link', LINK_HEADER);
         h.set('cache-control', 'public, max-age=600');
-        return new Response(body, { status: 200, headers: h });
+        return new Response(request.method === 'HEAD' ? null : body, { status: 200, headers: h });
       }
       // fall through to HTML if no twin exists
     }
