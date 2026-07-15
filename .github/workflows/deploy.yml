@@ -24,14 +24,12 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
-      # Staging build: served under /silverbullet-static-site/ on github.io.
-      # When the real domain is bound, set BASE_PATH=/ SITE_URL=https://silverbullet.tools
-      # and remove STAGING (re-enables indexing).
+      # PRODUCTION build: custom domain silverbullet.tools at the root path,
+      # indexable (went live 2026-07-15).
       - run: npm run build
         env:
-          BASE_PATH: /silverbullet-static-site/
-          SITE_URL: https://lab-401.github.io/silverbullet-static-site
-          STAGING: '1'
+          BASE_PATH: /
+          SITE_URL: https://silverbullet.tools
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
