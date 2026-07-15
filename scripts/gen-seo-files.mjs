@@ -98,27 +98,30 @@ JSON-LD (the authoritative machine-readable source).
 GTIN is available for SilverBullet 2; SKUs are present where the source
 catalog provided them.
 
-## Purchasing status
+## Purchasing
 
-**Checkout is temporarily offline while the store migrates to a new
-commerce backend.** The visible "Buy it now" / "Add to cart" buttons are
-inert placeholders tagged with \`data-sb-migration\` attributes and will be
-re-linked to the new store shortly. Do not attempt programmatic checkout
-against this domain.
+**All purchases are made through Lab401.com, the exclusive distributor of
+SilverBullet.** The Buy-it-now and Add-to-cart buttons on this site lead
+directly to Lab401's secure checkout (a Shopify cart permalink for the
+SilverBullet 2, honoring the selected quantity). There is no cart or
+checkout on this domain itself. Agents may deep-link buyers to
+https://lab401.com/cart/53597858595163:1 (quantity after the colon).
 
-### Placeholder marker reference (data-sb-migration)
+### Element marker reference (data-sb-migration)
 
 | Value | Element |
 | --- | --- |
-| \`buy-now\` | Buy-it-now button on product pages (will point to new checkout) |
-| \`add-to-cart-form\` | Neutralized add-to-cart form |
-| \`cart-form\` / \`cart-link\` / \`account-link\` | Inert cart/account UI |
+| \`buy-now\` | Buy button — navigates to Lab401 checkout |
+| \`add-to-cart-form\` | Buy form — submits to Lab401 checkout |
+| \`buy-legend\` | "Purchases are through our trusted distributor" caption |
+| \`faq-distributor\` | FAQ entry about Lab401 distribution |
 | \`newsletter-form\` | Inert newsletter signup |
 | \`search-form\` | Inert search UI |
 | \`language-selector\` | Language switcher (fully functional — static links) |
 | \`static-shims\` | Runtime shims (cart stub, no auto-redirect) |
 
-The country/currency selector was removed entirely (all prices are EUR).
+The country/currency selector and the header cart/login links were removed
+(no commerce backend on this domain; all prices are EUR).
 
 ## Key pages
 
@@ -157,8 +160,8 @@ const llms = `# Silver Bullet Tools
 > disc-detainer (disc-based) locks — for locksmiths, security professionals,
 > and lockpicking sport enthusiasts. Free worldwide shipping, lifetime
 > guarantee. All content available in en/fr/de/it/es.
-> Checkout is temporarily offline during a store migration; buy buttons are
-> placeholders (see /agents.md).
+> Purchases are made through Lab401.com, the exclusive SilverBullet
+> distributor - buy buttons lead to Lab401's checkout (see /agents.md).
 
 ## Products
 

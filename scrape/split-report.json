@@ -3,7 +3,7 @@
     "en": {
       "head": [
         {
-          "hash": "8e52ad16ab17",
+          "hash": "f64b1db92804",
           "file": "head.0.html",
           "count": 8,
           "pages": [
@@ -18,7 +18,7 @@
           ]
         },
         {
-          "hash": "7d6fa1a0a73a",
+          "hash": "da456a401997",
           "file": "head.1.html",
           "count": 7,
           "pages": [
@@ -32,7 +32,7 @@
           ]
         },
         {
-          "hash": "35119349b8dd",
+          "hash": "0ed10ec4b2a5",
           "file": "head.2.html",
           "count": 4,
           "pages": [
@@ -43,7 +43,7 @@
           ]
         },
         {
-          "hash": "e9d796e8b82c",
+          "hash": "05092d3a13d9",
           "file": "head.3.html",
           "count": 1,
           "pages": [
@@ -51,7 +51,7 @@
           ]
         },
         {
-          "hash": "9ec8a032d685",
+          "hash": "bef3699583cd",
           "file": "head.4.html",
           "count": 1,
           "pages": [
@@ -59,7 +59,7 @@
           ]
         },
         {
-          "hash": "641ae0e4832d",
+          "hash": "07bdb7f81663",
           "file": "head.5.html",
           "count": 1,
           "pages": [
@@ -69,7 +69,7 @@
       ],
       "prelude": [
         {
-          "hash": "dfdfb1bc52c3",
+          "hash": "95a8053ef681",
           "file": "prelude.0.html",
           "count": 21,
           "pages": [
@@ -97,7 +97,7 @@
           ]
         },
         {
-          "hash": "6fa6056c7ddd",
+          "hash": "e5eed84dfaed",
           "file": "prelude.1.html",
           "count": 1,
           "pages": [
@@ -140,7 +140,7 @@
     "fr": {
       "head": [
         {
-          "hash": "7d6fa1a0a73a",
+          "hash": "da456a401997",
           "file": "head.0.html",
           "count": 7,
           "pages": [
@@ -154,7 +154,7 @@
           ]
         },
         {
-          "hash": "8e52ad16ab17",
+          "hash": "f64b1db92804",
           "file": "head.1.html",
           "count": 7,
           "pages": [
@@ -168,7 +168,7 @@
           ]
         },
         {
-          "hash": "35119349b8dd",
+          "hash": "0ed10ec4b2a5",
           "file": "head.2.html",
           "count": 4,
           "pages": [
@@ -179,7 +179,7 @@
           ]
         },
         {
-          "hash": "e9d796e8b82c",
+          "hash": "05092d3a13d9",
           "file": "head.3.html",
           "count": 1,
           "pages": [
@@ -187,7 +187,7 @@
           ]
         },
         {
-          "hash": "8ecd636dfb36",
+          "hash": "06a28e415046",
           "file": "head.4.html",
           "count": 1,
           "pages": [
@@ -195,7 +195,7 @@
           ]
         },
         {
-          "hash": "784b486a2c54",
+          "hash": "049f67868650",
           "file": "head.5.html",
           "count": 1,
           "pages": [
@@ -203,7 +203,7 @@
           ]
         },
         {
-          "hash": "b9f26d2305b5",
+          "hash": "a7a2ed2eb558",
           "file": "head.6.html",
           "count": 1,
           "pages": [
@@ -213,7 +213,7 @@
       ],
       "prelude": [
         {
-          "hash": "7ec694732628",
+          "hash": "4ff1212ff18a",
           "file": "prelude.0.html",
           "count": 17,
           "pages": [
@@ -237,7 +237,7 @@
           ]
         },
         {
-          "hash": "dfdfb1bc52c3",
+          "hash": "95a8053ef681",
           "file": "prelude.1.html",
           "count": 4,
           "pages": [
@@ -248,7 +248,7 @@
           ]
         },
         {
-          "hash": "001384e79a96",
+          "hash": "39536e6c8437",
           "file": "prelude.2.html",
           "count": 1,
           "pages": [
@@ -298,7 +298,7 @@
     "de": {
       "head": [
         {
-          "hash": "7d6fa1a0a73a",
+          "hash": "da456a401997",
           "file": "head.0.html",
           "count": 7,
           "pages": [
@@ -312,7 +312,7 @@
           ]
         },
         {
-          "hash": "8e52ad16ab17",
+          "hash": "f64b1db92804",
           "file": "head.1.html",
           "count": 7,
           "pages": [
@@ -326,7 +326,7 @@
           ]
         },
         {
-          "hash": "35119349b8dd",
+          "hash": "0ed10ec4b2a5",
           "file": "head.2.html",
           "count": 4,
           "pages": [
@@ -337,7 +337,7 @@
           ]
         },
         {
-          "hash": "e9d796e8b82c",
+          "hash": "05092d3a13d9",
           "file": "head.3.html",
           "count": 1,
           "pages": [
@@ -345,7 +345,7 @@
           ]
         },
         {
-          "hash": "9ec8a032d685",
+          "hash": "bef3699583cd",
           "file": "head.4.html",
           "count": 1,
           "pages": [
@@ -353,7 +353,7 @@
           ]
         },
         {
-          "hash": "8986bb552a46",
+          "hash": "c9ed7d99b3ee",
           "file": "head.5.html",
           "count": 1,
           "pages": [
@@ -361,7 +361,7 @@
           ]
         },
         {
-          "hash": "b9f26d2305b5",
+          "hash": "a7a2ed2eb558",
           "file": "head.6.html",
           "count": 1,
           "pages": [
@@ -371,7 +371,7 @@
       ],
       "prelude": [
         {
-          "hash": "edc90dcaf63f",
+          "hash": "48682a1a9c7a",
           "file": "prelude.0.html",
           "count": 17,
           "pages": [
@@ -395,7 +395,7 @@
           ]
         },
         {
-          "hash": "dfdfb1bc52c3",
+          "hash": "95a8053ef681",
           "file": "prelude.1.html",
           "count": 4,
           "pages": [
@@ -406,7 +406,7 @@
           ]
         },
         {
-          "hash": "5d38ac103fd8",
+          "hash": "f23d6bc16161",
           "file": "prelude.2.html",
           "count": 1,
           "pages": [
@@ -456,7 +456,7 @@
     "it": {
       "head": [
         {
-          "hash": "8e52ad16ab17",
+          "hash": "f64b1db92804",
           "file": "head.0.html",
           "count": 8,
           "pages": [
@@ -471,7 +471,7 @@
           ]
         },
         {
-          "hash": "7d6fa1a0a73a",
+          "hash": "da456a401997",
           "file": "head.1.html",
           "count": 6,
           "pages": [
@@ -484,7 +484,7 @@
           ]
         },
         {
-          "hash": "35119349b8dd",
+          "hash": "0ed10ec4b2a5",
           "file": "head.2.html",
           "count": 4,
           "pages": [
@@ -495,7 +495,7 @@
           ]
         },
         {
-          "hash": "692c6ba236bc",
+          "hash": "5e75abc6bbcb",
           "file": "head.3.html",
           "count": 1,
           "pages": [
@@ -503,7 +503,7 @@
           ]
         },
         {
-          "hash": "6e61c203a64b",
+          "hash": "67450068850e",
           "file": "head.4.html",
           "count": 1,
           "pages": [
@@ -511,7 +511,7 @@
           ]
         },
         {
-          "hash": "9ec8a032d685",
+          "hash": "bef3699583cd",
           "file": "head.5.html",
           "count": 1,
           "pages": [
@@ -519,7 +519,7 @@
           ]
         },
         {
-          "hash": "83cc23b1a92a",
+          "hash": "262734766f7b",
           "file": "head.6.html",
           "count": 1,
           "pages": [
@@ -529,7 +529,7 @@
       ],
       "prelude": [
         {
-          "hash": "43005649ec6b",
+          "hash": "755901ff753d",
           "file": "prelude.0.html",
           "count": 17,
           "pages": [
@@ -553,7 +553,7 @@
           ]
         },
         {
-          "hash": "dfdfb1bc52c3",
+          "hash": "95a8053ef681",
           "file": "prelude.1.html",
           "count": 4,
           "pages": [
@@ -564,7 +564,7 @@
           ]
         },
         {
-          "hash": "51ac04ca71d7",
+          "hash": "f2d2f3a793c9",
           "file": "prelude.2.html",
           "count": 1,
           "pages": [
@@ -614,7 +614,7 @@
     "es": {
       "head": [
         {
-          "hash": "7d6fa1a0a73a",
+          "hash": "da456a401997",
           "file": "head.0.html",
           "count": 7,
           "pages": [
@@ -628,7 +628,7 @@
           ]
         },
         {
-          "hash": "8e52ad16ab17",
+          "hash": "f64b1db92804",
           "file": "head.1.html",
           "count": 7,
           "pages": [
@@ -642,7 +642,7 @@
           ]
         },
         {
-          "hash": "35119349b8dd",
+          "hash": "0ed10ec4b2a5",
           "file": "head.2.html",
           "count": 4,
           "pages": [
@@ -653,7 +653,7 @@
           ]
         },
         {
-          "hash": "e9d796e8b82c",
+          "hash": "05092d3a13d9",
           "file": "head.3.html",
           "count": 1,
           "pages": [
@@ -661,7 +661,7 @@
           ]
         },
         {
-          "hash": "9b6cfd432b5f",
+          "hash": "1c654f31cf2b",
           "file": "head.4.html",
           "count": 1,
           "pages": [
@@ -669,7 +669,7 @@
           ]
         },
         {
-          "hash": "9ec8a032d685",
+          "hash": "bef3699583cd",
           "file": "head.5.html",
           "count": 1,
           "pages": [
@@ -677,7 +677,7 @@
           ]
         },
         {
-          "hash": "b9f26d2305b5",
+          "hash": "a7a2ed2eb558",
           "file": "head.6.html",
           "count": 1,
           "pages": [
@@ -687,7 +687,7 @@
       ],
       "prelude": [
         {
-          "hash": "0961e551a8ba",
+          "hash": "b82f6b2a03f8",
           "file": "prelude.0.html",
           "count": 17,
           "pages": [
@@ -711,7 +711,7 @@
           ]
         },
         {
-          "hash": "dfdfb1bc52c3",
+          "hash": "95a8053ef681",
           "file": "prelude.1.html",
           "count": 4,
           "pages": [
@@ -722,7 +722,7 @@
           ]
         },
         {
-          "hash": "7710edc49d69",
+          "hash": "cc3616a5398d",
           "file": "prelude.2.html",
           "count": 1,
           "pages": [

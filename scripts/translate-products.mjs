@@ -19,6 +19,7 @@ import { readFile, writeFile } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
 import path from 'node:path';
 import { load } from 'cheerio';
+import { SEED } from './i18n-strings.mjs';
 
 const ROOT = new URL('..', import.meta.url).pathname.replace(/^\/([A-Za-z]:)/, '$1');
 const SCRAPED = path.join(ROOT, 'src', 'scraped');
@@ -128,6 +129,8 @@ function collectStrings(html) {
 
 async function buildGlossary(locale) {
   const g = new Map();
+  // curated site strings first (injected by clean.mjs in all locales)
+  for (const [en, per] of Object.entries(SEED)) if (per[locale]) g.set(norm(en), per[locale]);
   for (const slug of ['index', 'collections/frontpage']) {
     let en, loc;
     try {

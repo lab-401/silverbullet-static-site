@@ -43,17 +43,23 @@ in `.github/workflows/deploy.yml`** — that is the only switch needed.
 Canonical/hreflang/JSON-LD URLs always point at `https://silverbullet.tools`
 (the canonical domain), regardless of where the build is served from.
 
-## Commerce placeholders
+## Commerce
 
-Shopify purchase/account functionality was stripped; the visual elements
-remain and are tagged for re-linking (`grep -r "data-sb-migration" src/scraped`):
+Purchasing goes through **Lab401.com, the exclusive SilverBullet
+distributor**. `public/assets/sb-buy.js` routes every Buy-it-now /
+Add-to-cart click to the Lab401 cart permalink
+(`https://lab401.com/cart/53597858595163:<qty>`, SilverBullet 2), honoring
+the nearest quantity selector. Header cart/login links are removed.
 
-| Tag | Element | Action needed |
+Element markers (`grep -r "data-sb-migration" src/scraped`):
+
+| Tag | Element | State |
 | --- | --- | --- |
-| `buy-now` | "Buy it now" button on product pages | Point at new store's checkout link |
-| `add-to-cart-form` | Add-to-cart form (inert) | Point button at new store |
-| `cart-link` / `account-link` | Header icons (inert `href="#"`) | Re-link or leave |
-| `newsletter-form` | Footer newsletter signup (inert) | Wire to mail provider |
+| `buy-now` | "Buy it now" button | Navigates to Lab401 checkout |
+| `add-to-cart-form` | Add-to-cart form | Submits to Lab401 checkout |
+| `buy-legend` | Distributor caption under buy buttons | Localized, injected by clean.mjs |
+| `faq-distributor` | FAQ entry about Lab401 | Localized, injected by clean.mjs |
+| `newsletter-form` | Footer newsletter signup (inert) | Wire to mail provider if wanted |
 | `search-form` | Header search (inert) | Optional: client-side search |
 | `cart-form` | Hidden cart-notification checkout form (inert) | None |
 | `language-selector` | Language switcher | Works (static links + patched theme JS) |

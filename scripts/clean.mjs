@@ -14,6 +14,7 @@
 import { mkdir, writeFile, readFile } from 'node:fs/promises';
 import path from 'node:path';
 import { load } from 'cheerio';
+import { STRINGS } from './i18n-strings.mjs';
 
 const ROOT = new URL('..', import.meta.url).pathname.replace(/^\/([A-Za-z]:)/, '$1');
 const assetsMap = JSON.parse(await readFile(path.join(ROOT, 'scrape', 'assets-map.json'), 'utf8'));
@@ -221,11 +222,16 @@ for (const entry of manifest) {
     `<script data-sb-migration="static-shims">window.lyBlockedRoutesList=["/"];(function(){var RE=/(^|\\/)cart(\\.js|\\/update\\.js)($|\\?)/;var EMPTY='{"items":[],"item_count":0,"total_price":0,"currency":"EUR","attributes":{},"note":null}';var o=XMLHttpRequest.prototype.open,s=XMLHttpRequest.prototype.send;XMLHttpRequest.prototype.open=function(m,u){this._sbCart=RE.test(String(u));return o.apply(this,arguments)};XMLHttpRequest.prototype.send=function(){var x=this;if(x._sbCart){setTimeout(function(){try{Object.defineProperty(x,'status',{value:200});Object.defineProperty(x,'readyState',{value:4});Object.defineProperty(x,'responseText',{value:EMPTY});Object.defineProperty(x,'response',{value:EMPTY});}catch(e){}x.onreadystatechange&&x.onreadystatechange();x.onload&&x.onload()},0);return}return s.apply(this,arguments)};var f=window.fetch;window.fetch=function(u,opt){var url=typeof u==='string'?u:(u&&u.url)||'';if(RE.test(url)){return Promise.resolve(new Response(EMPTY,{status:200,headers:{'Content-Type':'application/json'}}))}return f.apply(this,arguments)};})();</script>\n`
   );
 
-  // 3. replace accelerated checkout skeleton with static Buy-it-now button
+  // 3. replace accelerated checkout skeleton with a Buy-it-now button (wired
+  // to the Lab401 checkout by /assets/sb-buy.js) + distributor legend
   $('div[data-shopify="payment-button"]').each((_, el) => {
     const label = BUY_LABEL[locale] || BUY_LABEL.en;
+    const legend = STRINGS.buyLegend[locale] || STRINGS.buyLegend.en;
     $(el).html(
       `<button type="button" class="shopify-payment-button__button shopify-payment-button__button--unbranded" data-sb-migration="buy-now">${label}</button>`
+    );
+    $(el).after(
+      `<p class="caption" data-sb-migration="buy-legend" style="margin: 0.9rem 0 0; text-align: center; opacity: 0.75;">${legend}</p>`
     );
     stats.buyButtons++;
   });
@@ -278,16 +284,30 @@ for (const entry of manifest) {
     }
   });
 
-  // 5. inert cart/account links (visuals preserved, re-linked later)
+  // 5. remove cart & login links entirely (per owner decision 2026-07-15 -
+  // purchasing goes through Lab401, no cart/account on this site)
   $('a[href]').each((_, el) => {
     const href = $(el).attr('href') || '';
     const bare = href.replace(/^\/(fr|de|it|es)(?=\/|$)/, '');
-    if (bare === '/cart' || bare.startsWith('/cart?')) {
-      $(el).attr('href', '#').attr('data-sb-migration', 'cart-link');
-    } else if (bare.startsWith('/account')) {
-      $(el).attr('href', '#').attr('data-sb-migration', 'account-link');
+    if (bare === '/cart' || bare.startsWith('/cart?') || bare.startsWith('/account') || href.includes('customer_authentication')) {
+      $(el).remove();
     }
   });
+
+  // 6. FAQ: distributor entry at the top of the "Purchasing" section (2nd h2)
+  if (enPath === '/pages/faq') {
+    const h2s = $('main .rte h2');
+    if (h2s.length >= 2) {
+      const q = STRINGS.faqQ[locale] || STRINGS.faqQ.en;
+      const a = STRINGS.faqA[locale] || STRINGS.faqA.en;
+      $(h2s[1]).after(`\n<h3 data-sb-migration="faq-distributor">${q}</h3>\n<p>${a}</p>`);
+    } else {
+      console.warn(`FAQ inject skipped for ${locale}: expected 2 h2 headings`);
+    }
+  }
+
+  // 7. buy CTA wiring script
+  $('head').append('<script src="/assets/sb-buy.js" defer></script>\n');
 
   const outFile = path.join(ROOT, 'scrape', 'clean', path.relative(path.join(ROOT, 'scrape', 'raw'), path.join(ROOT, entry.file)));
   await mkdir(path.dirname(outFile), { recursive: true });
