@@ -2,7 +2,7 @@
 // list, legend present and localized, console clean.
 import { chromium } from 'playwright';
 
-const BASE = 'http://127.0.0.1:4322';
+const BASE = process.env.PROBE_BASE || 'http://127.0.0.1:4322';
 const browser = await chromium.launch();
 const ctx = await browser.newContext({ viewport: { width: 1440, height: 1000 } });
 let failures = 0;
