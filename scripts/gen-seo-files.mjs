@@ -61,9 +61,11 @@ const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://w
 await writeFile(path.join(DIST, 'sitemap.xml'), sitemap, 'utf8');
 
 // ---- robots.txt ----
+// Content-Signal (contentsignals.org): searchable and usable as AI input
+// (agent commerce is the point of this site), but not for model training.
 const robots = STAGING
   ? `# Staging build - do not index\nUser-agent: *\nDisallow: /\n`
-  : `User-agent: *\nAllow: /\n\nSitemap: ${SITE}/sitemap.xml\n\n# Agent guide: ${SITE}/agents.md\n# LLM index:  ${SITE}/llms.txt\n`;
+  : `User-agent: *\nAllow: /\nContent-Signal: search=yes, ai-input=yes, ai-train=no\n\nSitemap: ${SITE}/sitemap.xml\n\n# Agent guide: ${SITE}/agents.md\n# LLM index:  ${SITE}/llms.txt\n# API catalog (RFC 9727): ${SITE}/.well-known/api-catalog\n`;
 await writeFile(path.join(DIST, 'robots.txt'), robots, 'utf8');
 
 // ---- agents.md ----

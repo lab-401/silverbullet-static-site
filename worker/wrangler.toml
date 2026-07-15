@@ -1,0 +1,9 @@
+name = "sb-agent-headers"
+main = "src/index.js"
+compatibility_date = "2026-07-01"
+account_id = "3a5a121bd6cbb17732500628f1620576"
+
+routes = [
+  { pattern = "silverbullet.tools/*", zone_id = "91c2c36152273f3efe3b0129f05b1ea3" },
+  { pattern = "www.silverbullet.tools/*", zone_id = "91c2c36152273f3efe3b0129f05b1ea3" },
+]

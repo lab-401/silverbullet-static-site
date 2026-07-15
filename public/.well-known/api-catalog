@@ -1,0 +1,33 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://silverbullet.tools/",
+      "service-doc": [
+        {
+          "href": "https://silverbullet.tools/agents.md",
+          "type": "text/markdown",
+          "title": "Silver Bullet Tools — Agent Guide"
+        }
+      ],
+      "describedby": [
+        {
+          "href": "https://silverbullet.tools/llms.txt",
+          "type": "text/markdown",
+          "title": "LLM-friendly site index"
+        }
+      ],
+      "alternate": [
+        {
+          "href": "https://silverbullet.tools/sitemap.xml",
+          "type": "application/xml",
+          "title": "Sitemap with hreflang alternates"
+        },
+        {
+          "href": "https://silverbullet.tools/blogs/news.atom",
+          "type": "application/atom+xml",
+          "title": "Blog Atom feed"
+        }
+      ]
+    }
+  ]
+}
