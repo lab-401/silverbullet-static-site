@@ -266,7 +266,15 @@ for (const entry of manifest) {
       $el.attr('action', '#').attr('onsubmit', 'return false').attr('data-sb-migration', 'search-form');
       stats.formsNeutralized++;
     } else if (bare.startsWith('/contact')) {
-      $el.attr('action', '#').attr('onsubmit', 'return false').attr('data-sb-migration', 'newsletter-form');
+      // newsletter subscribes through Lab401.com's list (exclusive distributor);
+      // same Shopify customer-form contract, tags matched to Lab401's segments
+      $el
+        .attr('action', 'https://lab401.com/contact#footer_newsletter_newsletter')
+        .removeAttr('onsubmit')
+        .attr('data-sb-migration', 'newsletter-form');
+      $el.find('input[name="contact[tags]"]').attr('value', 'prospect, newsletter');
+      const nl = STRINGS.newsletterLegend[locale] || STRINGS.newsletterLegend.en;
+      $el.after(`<p class="caption" data-sb-migration="newsletter-legend" style="margin: 0.9rem 0 0; opacity: 0.75;">${nl}</p>`);
       stats.formsNeutralized++;
     } else if (bare.startsWith('/localization')) {
       const isLanguage = $el.find('a[data-value][hreflang]').length > 0;

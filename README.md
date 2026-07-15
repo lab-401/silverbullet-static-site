@@ -59,7 +59,8 @@ Element markers (`grep -r "data-sb-migration" src/scraped`):
 | `add-to-cart-form` | Add-to-cart form | Submits to Lab401 checkout |
 | `buy-legend` | Distributor caption under buy buttons | Localized, injected by clean.mjs |
 | `faq-distributor` | FAQ entry about Lab401 | Localized, injected by clean.mjs |
-| `newsletter-form` | Footer newsletter signup (inert) | Wire to mail provider if wanted |
+| `newsletter-form` | Footer newsletter signup | POSTs to Lab401.com's newsletter (Shopify customer form) |
+| `newsletter-legend` | Caption under the newsletter form | Localized, injected by clean.mjs |
 | `search-form` | Header search (inert) | Optional: client-side search |
 | `cart-form` | Hidden cart-notification checkout form (inert) | None |
 | `language-selector` | Language switcher | Works (static links + patched theme JS) |

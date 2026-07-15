@@ -16,6 +16,13 @@ export const STRINGS = {
     it: 'Come si acquista il SilverBullet?',
     es: '¿Cómo compro el SilverBullet?',
   },
+  newsletterLegend: {
+    en: 'High-quality, low-volume, managed by our exclusive distributor Lab401.com.',
+    fr: 'Haute qualité, faible volume – gérée par notre distributeur exclusif Lab401.com.',
+    de: 'Hohe Qualität, geringes Aufkommen – verwaltet von unserem exklusiven Vertriebspartner Lab401.com.',
+    it: 'Alta qualità, bassa frequenza – gestita dal nostro distributore esclusivo Lab401.com.',
+    es: 'Alta calidad, bajo volumen – gestionada por nuestro distribuidor exclusivo Lab401.com.',
+  },
   faqA: {
     en: 'All purchases are made through Lab401, the exclusive distributor of SilverBullet. The Buy buttons on this site take you directly to Lab401’s secure checkout.',
     fr: 'Tous les achats s’effectuent via Lab401, le distributeur exclusif de SilverBullet. Les boutons d’achat de ce site vous conduisent directement au paiement sécurisé de Lab401.',

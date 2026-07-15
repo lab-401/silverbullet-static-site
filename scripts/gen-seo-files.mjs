@@ -115,7 +115,8 @@ https://lab401.com/cart/53597858595163:1 (quantity after the colon).
 | \`add-to-cart-form\` | Buy form — submits to Lab401 checkout |
 | \`buy-legend\` | "Purchases are through our trusted distributor" caption |
 | \`faq-distributor\` | FAQ entry about Lab401 distribution |
-| \`newsletter-form\` | Inert newsletter signup |
+| \`newsletter-form\` | Newsletter signup — subscribes via Lab401.com's list |
+| \`newsletter-legend\` | Newsletter caption (managed by Lab401) |
 | \`search-form\` | Inert search UI |
 | \`language-selector\` | Language switcher (fully functional — static links) |
 | \`static-shims\` | Runtime shims (cart stub, no auto-redirect) |
