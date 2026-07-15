@@ -1,0 +1,33 @@
+---
+// Branded 404 for GitHub Pages, wearing the site's own (EN) chrome.
+import { pages, sharedPart } from '../lib/content.mjs';
+import { applyLangHrefs, applyActiveNav, parseTagAttrs } from '../lib/render.mjs';
+
+const home = pages.find((p) => p.locale === 'en' && p.path === '/');
+const htmlAttrs = parseTagAttrs(home.htmlAttrs);
+const bodyAttrs = parseTagAttrs(home.bodyAttrs);
+const headShared = sharedPart('en', home.headFile);
+const prelude = applyActiveNav(applyLangHrefs(sharedPart('en', home.preludeFile), '/'), []);
+const postlude = applyLangHrefs(sharedPart('en', home.postludeFile), '/');
+---
+
+<html {...htmlAttrs}>
+  <head>
+    <Fragment set:html={headShared} />
+    <title>Page not found – Silver Bullet Tools</title>
+    <meta name="robots" content="noindex" />
+  </head>
+  <body {...bodyAttrs}>
+    <Fragment set:html={prelude} />
+    <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
+      <section class="shopify-section section">
+        <div class="page-width" style="padding: 96px 0; text-align: center;">
+          <h1 class="h0">404</h1>
+          <p class="h3" style="margin: 1rem 0 2.5rem;">Page not found</p>
+          <a href="/" class="button">Continue browsing</a>
+        </div>
+      </section>
+    </main>
+    <Fragment set:html={postlude} />
+  </body>
+</html>

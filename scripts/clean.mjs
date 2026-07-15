@@ -14,7 +14,7 @@
 import { mkdir, writeFile, readFile } from 'node:fs/promises';
 import path from 'node:path';
 import { load } from 'cheerio';
-import { STRINGS } from './i18n-strings.mjs';
+import { STRINGS, FAQ_ANSWERS } from './i18n-strings.mjs';
 
 const ROOT = new URL('..', import.meta.url).pathname.replace(/^\/([A-Za-z]:)/, '$1');
 const assetsMap = JSON.parse(await readFile(path.join(ROOT, 'scrape', 'assets-map.json'), 'utf8'));
@@ -302,10 +302,41 @@ for (const entry of manifest) {
     }
   });
 
-  // 6. FAQ: distributor entry at the top of the "Purchasing" section (2nd h2)
+  // 6. FAQ "Purchasing" section: rewrite answers for the Lab401 model
+  // (questions keep their source translations; entries located by position -
+  // langify preserves structure so the order is identical in every locale:
+  // [0] payment options (p, ul, p)  [1] VAT (p)  [2] contractual (p)
+  // [3] security validation (p, p)  [4] LEA (p, unchanged))
+  // ...then the distributor entry is injected at the top of the section.
   if (enPath === '/pages/faq') {
     const h2s = $('main .rte h2');
     if (h2s.length >= 2) {
+      const blocks = [];
+      let cur = null;
+      $(h2s[1])
+        .nextAll()
+        .each((_, el) => {
+          if (el.name === 'h3') {
+            cur = { rest: [] };
+            blocks.push(cur);
+          } else if (cur) cur.rest.push(el);
+        });
+      const A = (k) => FAQ_ANSWERS[k][locale] || FAQ_ANSWERS[k].en;
+      const setP = (bi, pi, key) => {
+        const ps = (blocks[bi]?.rest || []).filter((e) => e.name === 'p');
+        if (ps[pi]) $(ps[pi]).html(A(key));
+        else console.warn(`FAQ rewrite miss [${locale}] block ${bi} p ${pi} (${key})`);
+      };
+      if (blocks.length >= 4) {
+        setP(0, 0, 'payIntro');
+        setP(0, 1, 'payWire');
+        setP(1, 0, 'vat');
+        setP(2, 0, 'contractual');
+        setP(3, 0, 'security1');
+        setP(3, 1, 'security2');
+      } else {
+        console.warn(`FAQ rewrite skipped for ${locale}: ${blocks.length} entries found`);
+      }
       const q = STRINGS.faqQ[locale] || STRINGS.faqQ.en;
       const a = STRINGS.faqA[locale] || STRINGS.faqA.en;
       $(h2s[1]).after(`\n<h3 data-sb-migration="faq-distributor">${q}</h3>\n<p>${a}</p>`);
