@@ -345,8 +345,9 @@ for (const entry of manifest) {
     }
   }
 
-  // 7. buy CTA wiring script
+  // 7. buy CTA wiring + langify-widget navigation scripts
   $('head').append('<script src="/assets/sb-buy.js" defer></script>\n');
+  $('head').append('<script src="/assets/sb-lang.js" defer></script>\n');
 
   const outFile = path.join(ROOT, 'scrape', 'clean', path.relative(path.join(ROOT, 'scrape', 'raw'), path.join(ROOT, entry.file)));
   await mkdir(path.dirname(outFile), { recursive: true });
