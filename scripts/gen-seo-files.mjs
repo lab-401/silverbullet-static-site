@@ -161,8 +161,8 @@ const llms = `# Silver Bullet Tools
 
 > Official site of the SilverBullet 2, a precision tool to pick and decode
 > disc-detainer (disc-based) locks — for locksmiths, security professionals,
-> and lockpicking sport enthusiasts. Free worldwide shipping, lifetime
-> guarantee. All content available in en/fr/de/it/es.
+> and lockpicking sport enthusiasts. Lifetime guarantee.
+> All content available in en/fr/de/it/es.
 > Purchases are made through Lab401.com, the exclusive SilverBullet
 > distributor - buy buttons lead to Lab401's checkout (see /agents.md).
 

@@ -20,6 +20,7 @@ import { createHash } from 'node:crypto';
 import path from 'node:path';
 import { load } from 'cheerio';
 import { SEED } from './i18n-strings.mjs';
+import { removeShippingHtml, removeShippingJson } from './shipping-content.mjs';
 
 const ROOT = new URL('..', import.meta.url).pathname.replace(/^\/([A-Za-z]:)/, '$1');
 const SCRAPED = path.join(ROOT, 'src', 'scraped');
@@ -311,8 +312,8 @@ for (const locale of LOCALES) {
       translated: true,
     };
 
-    await writeFile(path.join(locDir, 'main.html'), outMain, 'utf8');
-    await writeFile(path.join(locDir, 'meta.json'), JSON.stringify(meta, null, 2), 'utf8');
+    await writeFile(path.join(locDir, 'main.html'), removeShippingHtml(outMain), 'utf8');
+    await writeFile(path.join(locDir, 'meta.json'), removeShippingJson(JSON.stringify(meta, null, 2)), 'utf8');
     console.log(`  [${locale}] ${product}: ${wanted.size} strings (glossary ${gHits}, cache ${cHits}, deepl ${wanted.size - gHits - cHits}; ${apiChars - before.deepl} chars)`);
   }
 }

@@ -71,6 +71,10 @@ country/currency selector is removed entirely (static site, EUR only);
 langify's browser-language auto-redirect is disabled (bad for SEO/UX);
 translations are the original server-rendered locale pages (source
 translations), served as static per-locale HTML with hreflang clusters.
+Shipping promotions and their icons are removed in every locale, including
+metadata, product schema, feeds, and agent-facing content. The scrape and
+translation pipelines and feed importer enforce this through
+`scripts/shipping-content.mjs`.
 
 The 16 locale product pages (never translated on the live site) are
 translated by `scripts/translate-products.mjs`: source-translation glossary

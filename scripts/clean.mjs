@@ -15,6 +15,7 @@ import { mkdir, writeFile, readFile } from 'node:fs/promises';
 import path from 'node:path';
 import { load } from 'cheerio';
 import { STRINGS, FAQ_ANSWERS } from './i18n-strings.mjs';
+import { removeShippingHtml } from './shipping-content.mjs';
 
 const ROOT = new URL('..', import.meta.url).pathname.replace(/^\/([A-Za-z]:)/, '$1');
 const assetsMap = JSON.parse(await readFile(path.join(ROOT, 'scrape', 'assets-map.json'), 'utf8'));
@@ -351,7 +352,7 @@ for (const entry of manifest) {
 
   const outFile = path.join(ROOT, 'scrape', 'clean', path.relative(path.join(ROOT, 'scrape', 'raw'), path.join(ROOT, entry.file)));
   await mkdir(path.dirname(outFile), { recursive: true });
-  await writeFile(outFile, $.html(), 'utf8');
+  await writeFile(outFile, removeShippingHtml($.html()), 'utf8');
   report.push(stats);
 }
 

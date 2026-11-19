@@ -2,6 +2,7 @@
 // statically under public/, rewriting CDN asset URLs to final-domain paths.
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
+import { removeShippingFeed } from './shipping-content.mjs';
 
 const ROOT = new URL('..', import.meta.url).pathname.replace(/^\/([A-Za-z]:)/, '$1');
 const assetsMap = JSON.parse(await readFile(path.join(ROOT, 'scrape', 'assets-map.json'), 'utf8'));
@@ -27,7 +28,7 @@ for (const locale of LOCALES) {
       console.log(`FAIL ${res.status} ${url}`);
       continue;
     }
-    const xml = rewrite(await res.text());
+    const xml = removeShippingFeed(rewrite(await res.text()));
     const out = path.join(ROOT, 'public', ...(locale ? [locale] : []), ...feed.split('/').filter(Boolean));
     await mkdir(path.dirname(out), { recursive: true });
     await writeFile(out, xml, 'utf8');
